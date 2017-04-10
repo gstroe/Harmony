@@ -1,0 +1,881 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration version="1.0.8.7">
+  <Designer>
+    <Assets>
+      <Settings bpp="16" encoding="ASCII">
+        <MemoryLocations>
+          <MemoryLocation address="0" id="default"/>
+        </MemoryLocations>
+      </Settings>
+      <Font antialiasing="false" bold="false" compress="false" extendedGlyph="false" fileName="Times New Roman" italic="false" location="internal" name="Times_New_Roman" size="16">
+        <Ranges>
+          <Range end="127" name="range" start="32"/>
+        </Ranges>
+      </Font>
+      <Image compress="false" fileName="mchpIcon0.bmp" height="32" location="internal" name="mchpIcon0" width="32">Qk2+AAAAAAAAAD4AAAAoAAAAIAAAACAAAAABAAEAAAAAAIAAAAAAAAAAAAAAAAAAAAACAAAAAAD//////////D///8AD//8AAP/+AAB/+AAAH/AAAA/8AAA//gGAP/4DwH//A+D//4fg///H8f//j/P/P5/j/B8/5/weP8f4Dn/P8QT/n/EA/x/jgf8/x4H+P8eA/j+PwHwfn8B4Dx/gOA4/8AAAf/AAAH/4AAD//gAB//8AAf//wAP///w//w==</Image>
+      <Image compress="false" fileName="bulboff.bmp" height="44" location="internal" name="bulboff" width="120">Qk3GCgAAAAAAAHYAAAAoAAAAeAAAACwAAAABAAQAAAAAAFAKAAAAAAAAAAAAAAAAAAAQAAAAhoJ//+jk4f9mXVT/qaWh/9fTz//Avbr/STMc/8KOTv/XrXn/58eg//Lcwf/15tT/+vPq////////////AAAA/93d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3dFFVEHd3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3cMmZmZmZiPN3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3dwGYniZmpmHZgHd3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3TZnmZmZmZqqqCY83d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d0mKZiIiJiZmqq6hmPd3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3cZomHeIiImZqaq7qoZjHd3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3GaYd3eImZmpmqq7y7qCYE3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3dwmiHd4mrvMzMy6urvMy6kmI83d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3dBoh3iqu7vLzMzMu7vMzcupgmI0HN3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3UZ4d5u7u7u8zMzMzMvMzN3cu5MmJiDB3R3R3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3WaXerqqu7u7zMzMzMzMzN3d3MzBRFJmImImLd3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d1Wh3qqq7u7u8zMzMzMzMzc3d3d3d3dE1IjIgY93d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d0ml5qqq6u7vLxFTMzMzM3N3d3d3d3dxFUzMAJl3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3dFneaqqqru7u8RBVVTMzMzN3d3d3d3dxVMzAAAmXN3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3dNoiqqqq6u7u8TMzBVVHM3N3d3d3d3d1FAzAAAGYN3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3dBpmqqquru7u8S8zMzBVUHd3d3d3d3dxFAzIAACZj3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3dZ4mqqqqru7u8RBREzMzBVUEwNMEwIiBVIzIAACZg3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3cYpqqqqq6u7u1VTVEMczM3BUiIgIiIiI1IDIgACZj3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3RZ5qqqqqru7tUzBRVS8zMzdUgICIiIiJVYzIgACZj3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3RZ6qqqqq6u7SszMzMzMzM3NMgIiIiIiJVIDIgACZj3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3cZ5qqqqqru7tbzBVLzMzMzdUgIiIiIiI1YDIgACZg3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3cZ5qqqqq6u7tFRVRUzMzM0UMiIAAiIiI1YFYgACZj3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3dYpmqqquru7vLVUVMzMwUVRxTUd1TAANVYDIgACZj3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3dBpmqqqqrq7u8TMzMwUVUzd3d3d3d3d1FYDYgACZj3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3dVomqqqq7u7vLTMwUVUzNzd3d3d3d3d1FYDIgAGYM3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3dFniaqqq6u7u8FUVUvMzM3N3d3d3d3dxFIzIAAmXd3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d0mmKqqqru7u8wUHMzMzMzc3d3d3d3dxFMzAAJl3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d1Wd4qqqqu7u7zMzMzMzMzN3d3d3d3dE1IjIgY93d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3SaXiqq7u7vMzMzMzMzMzd3d3MyxRDJmAmImLd3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3UZ4eKq6u7u7zMzMzMzMzN3bupAmJiPE3U3U3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3dBoh3mru7u8zMzMzLvM3MupcmBUzN3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d0miHeJq7y8zMzLu7vMuqgmJd3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3CaJd3iJmquqqqqrvKqCYB3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3cJnmHh4iJiZmaq7qYZj3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d0GKZiIiImZmquqhmXd3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3VZiipmZmaqqmGZd3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d02ZniJmZhyZjzd3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3dQCZmZmYgXd3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3dxEREzd3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3Q==</Image>
+      <Image compress="false" fileName="bulbon.bmp" height="44" location="internal" name="bulbon" width="120">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</Image>
+      <Image compress="false" fileName="mchpIcon.bmp" height="32" location="internal" name="mchpIcon" width="32">Qk2+AAAAAAAAAD4AAAAoAAAAIAAAACAAAAABAAEAAAAAAIAAAAAAAAAAAAAAAAAAAAACAAAAAAD//+/bqf///D///8AD//8AAP/+AAB/+AAAH/AAAA/8AAA//gGAP/4DwH//A+D//4fg///H8f//j/P/P5/j/B8/5/weP8f4Dn/P8QT/n/EA/x/jgf8/x4H+P8eA/j+PwHwfn8B4Dx/gOA4/8AAAf/AAAH/4AAD//gAB//8AAf//wAP///w//w==</Image>
+      <Font antialiasing="false" bold="false" compress="false" extendedGlyph="false" fileName="Comic Sans MS" italic="false" location="internal" name="Comic_Sans_MS" size="11">
+        <Ranges>
+          <Range end="127" name="range" start="32"/>
+        </Ranges>
+      </Font>
+      <Font antialiasing="false" bold="true" compress="false" extendedGlyph="false" fileName="Bookman Old Style" italic="false" location="internal" name="Bookman_Old_Style" size="14">
+        <Ranges>
+          <Range end="127" name="range" start="32"/>
+        </Ranges>
+      </Font>
+    </Assets>
+    <Screens height="272" width="480">
+      <Screen active="true" background="000000" clearOnShow="true" doubleBuffer="false" export="true" name="ButtonTest" primary="true" visible="true">
+        <Objects>
+          <Widget type="StaticTextWidget">
+            <Name>StaticText3</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>0</ZOrder>
+            <Position>157,3</Position>
+            <Size>197,23</Size>
+            <Scheme>TextEntryScreen</Scheme>
+            <Text>Object Press Test Screen</Text>
+            <Frame>false</Frame>
+            <Background>true</Background>
+            <HAlignment>Left</HAlignment>
+            <VAlignment>Top</VAlignment>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_STATICTEXT_ACTION_SELECTED" pretty_name="Selected"/>
+            </Events>
+          </Widget>
+          <Widget type="SliderWidget">
+            <Name>Slider1</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>1</ZOrder>
+            <Position>216,63</Position>
+            <Size>28,87</Size>
+            <Scheme>default</Scheme>
+            <Range>100</Range>
+            <PageSize>1</PageSize>
+            <orientation>Vertical</orientation>
+            <pos>0</pos>
+            <sliderType>slider</sliderType>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_SCROLLBAR_ACTION_INC" pretty_name="Incremented"/>
+              <Event enabled="false" name="GFX_GOL_SCROLLBAR_ACTION_DEC" pretty_name="Decremented"/>
+            </Events>
+          </Widget>
+          <Widget type="ButtonWidget">
+            <Name>Button6</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>2</ZOrder>
+            <Position>246,161</Position>
+            <Size>36,25</Size>
+            <Scheme>default</Scheme>
+            <Text>SM2</Text>
+            <HAlignment>Center</HAlignment>
+            <VAlignment>Center</VAlignment>
+            <Button_Type>Default</Button_Type>
+            <Radius>0</Radius>
+            <Pressed>false</Pressed>
+            <Toggle>false</Toggle>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_PRESSED" pretty_name="Pressed"/>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_STILLPRESSED" pretty_name="Still Pressed"/>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_RELEASED" pretty_name="Released"/>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_CANCELPRESS" pretty_name="Cancel Press"/>
+            </Events>
+          </Widget>
+          <Widget type="ButtonWidget">
+            <Name>Button5</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>3</ZOrder>
+            <Position>281,199</Position>
+            <Size>139,25</Size>
+            <Scheme>default</Scheme>
+            <Text>Thin Button 2</Text>
+            <HAlignment>Center</HAlignment>
+            <VAlignment>Center</VAlignment>
+            <Button_Type>Default</Button_Type>
+            <Radius>0</Radius>
+            <Pressed>false</Pressed>
+            <Toggle>false</Toggle>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_PRESSED" pretty_name="Pressed"/>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_STILLPRESSED" pretty_name="Still Pressed"/>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_RELEASED" pretty_name="Released"/>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_CANCELPRESS" pretty_name="Cancel Press"/>
+            </Events>
+          </Widget>
+          <Widget type="ButtonWidget">
+            <Name>Button4</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>4</ZOrder>
+            <Position>176,161</Position>
+            <Size>37,25</Size>
+            <Scheme>default</Scheme>
+            <Text>SM1</Text>
+            <HAlignment>Center</HAlignment>
+            <VAlignment>Center</VAlignment>
+            <Button_Type>Default</Button_Type>
+            <Radius>0</Radius>
+            <Pressed>false</Pressed>
+            <Toggle>false</Toggle>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_PRESSED" pretty_name="Pressed"/>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_STILLPRESSED" pretty_name="Still Pressed"/>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_RELEASED" pretty_name="Released"/>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_CANCELPRESS" pretty_name="Cancel Press"/>
+            </Events>
+          </Widget>
+          <Widget type="ButtonWidget">
+            <Name>Button3</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>5</ZOrder>
+            <Position>47,200</Position>
+            <Size>132,25</Size>
+            <Scheme>default</Scheme>
+            <Text>Thin Button 1</Text>
+            <HAlignment>Center</HAlignment>
+            <VAlignment>Center</VAlignment>
+            <Button_Type>Default</Button_Type>
+            <Radius>0</Radius>
+            <Pressed>false</Pressed>
+            <Toggle>false</Toggle>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_PRESSED" pretty_name="Pressed"/>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_STILLPRESSED" pretty_name="Still Pressed"/>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_RELEASED" pretty_name="Released"/>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_CANCELPRESS" pretty_name="Cancel Press"/>
+            </Events>
+          </Widget>
+          <Widget type="ButtonWidget">
+            <Name>Button2</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>6</ZOrder>
+            <Position>321,51</Position>
+            <Size>100,69</Size>
+            <Scheme>default</Scheme>
+            <Text>Big Button 2</Text>
+            <HAlignment>Center</HAlignment>
+            <VAlignment>Center</VAlignment>
+            <Button_Type>Default</Button_Type>
+            <Radius>0</Radius>
+            <Pressed>false</Pressed>
+            <Toggle>false</Toggle>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_PRESSED" pretty_name="Pressed"/>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_STILLPRESSED" pretty_name="Still Pressed"/>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_RELEASED" pretty_name="Released"/>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_CANCELPRESS" pretty_name="Cancel Press"/>
+            </Events>
+          </Widget>
+          <Widget type="ButtonWidget">
+            <Name>Button1</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>7</ZOrder>
+            <Position>51,51</Position>
+            <Size>100,69</Size>
+            <Scheme>default</Scheme>
+            <Text>Big Button 1</Text>
+            <HAlignment>Center</HAlignment>
+            <VAlignment>Center</VAlignment>
+            <Button_Type>Default</Button_Type>
+            <Radius>0</Radius>
+            <Pressed>false</Pressed>
+            <Toggle>false</Toggle>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_PRESSED" pretty_name="Pressed"/>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_STILLPRESSED" pretty_name="Still Pressed"/>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_RELEASED" pretty_name="Released"/>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_CANCELPRESS" pretty_name="Cancel Press"/>
+            </Events>
+          </Widget>
+        </Objects>
+      </Screen>
+      <Screen active="false" background="000000" clearOnShow="true" doubleBuffer="false" export="true" name="Information" primary="false" visible="true">
+        <Objects>
+          <Widget type="StaticTextWidget">
+            <Name>StaticText2</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>0</ZOrder>
+            <Position>7,236</Position>
+            <Size>323,50</Size>
+            <Scheme>default</Scheme>
+            <Text>Press SW100 to begin calibration process...</Text>
+            <Frame>false</Frame>
+            <Background>false</Background>
+            <HAlignment>Left</HAlignment>
+            <VAlignment>Top</VAlignment>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_STATICTEXT_ACTION_SELECTED" pretty_name="Selected"/>
+            </Events>
+          </Widget>
+          <Widget type="StaticTextWidget">
+            <Name>StaticText1</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>1</ZOrder>
+            <Position>142,45</Position>
+            <Size>197,50</Size>
+            <Scheme>TextEntryScreen</Scheme>
+            <Text>AR1021 Calibration Utility</Text>
+            <Frame>false</Frame>
+            <Background>false</Background>
+            <HAlignment>Left</HAlignment>
+            <VAlignment>Top</VAlignment>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_STATICTEXT_ACTION_SELECTED" pretty_name="Selected"/>
+            </Events>
+          </Widget>
+        </Objects>
+      </Screen>
+    </Screens>
+    <Schemes defaultSchemeName="default">
+      <Scheme name="TextEntryScreen">
+        <Font>Bookman_Old_Style</Font>
+        <Alpha>100</Alpha>
+        <BackgroundOffset>0,0</BackgroundOffset>
+        <EmbossSize>3</EmbossSize>
+        <Colors>
+          <Primary>037112</Primary>
+          <Secondary>404040</Secondary>
+          <Disabled>C0C0C0</Disabled>
+          <Background>000000</Background>
+          <EmbossLight>C0C0C0</EmbossLight>
+          <EmbossDark>404040</EmbossDark>
+          <TextPrimary>F5F9F5</TextPrimary>
+          <TextSecondary>FFFFFF</TextSecondary>
+          <TextDisabled>404040</TextDisabled>
+          <GradientStart>000000</GradientStart>
+          <GradientEnd>FFFFFF</GradientEnd>
+        </Colors>
+        <FillStyle>Color</FillStyle>
+        <BackgroundType>None</BackgroundType>
+      </Scheme>
+      <Scheme name="Window">
+        <Font>Bookman_Old_Style</Font>
+        <Alpha>100</Alpha>
+        <BackgroundOffset>0,0</BackgroundOffset>
+        <EmbossSize>3</EmbossSize>
+        <Colors>
+          <Primary>4141CC</Primary>
+          <Secondary>404040</Secondary>
+          <Disabled>C0C0C0</Disabled>
+          <Background>C097D5</Background>
+          <EmbossLight>E6949C</EmbossLight>
+          <EmbossDark>CD1D27</EmbossDark>
+          <TextPrimary>F5F9F5</TextPrimary>
+          <TextSecondary>FFFFFF</TextSecondary>
+          <TextDisabled>404040</TextDisabled>
+          <GradientStart>000000</GradientStart>
+          <GradientEnd>FFFFFF</GradientEnd>
+        </Colors>
+        <FillStyle>Color</FillStyle>
+        <BackgroundType>None</BackgroundType>
+      </Scheme>
+      <Scheme name="default">
+        <Font>Bookman_Old_Style</Font>
+        <Alpha>100</Alpha>
+        <BackgroundOffset>0,0</BackgroundOffset>
+        <EmbossSize>3</EmbossSize>
+        <Colors>
+          <Primary>070BF0</Primary>
+          <Secondary>C094D8</Secondary>
+          <Disabled>C0C0C0</Disabled>
+          <Background>C094D8</Background>
+          <EmbossLight>EBA7B6</EmbossLight>
+          <EmbossDark>EE6363</EmbossDark>
+          <TextPrimary>F5F9F5</TextPrimary>
+          <TextSecondary>FFFFFF</TextSecondary>
+          <TextDisabled>404040</TextDisabled>
+          <GradientStart>000000</GradientStart>
+          <GradientEnd>FFFFFF</GradientEnd>
+        </Colors>
+        <FillStyle>Color</FillStyle>
+        <BackgroundType>None</BackgroundType>
+      </Scheme>
+      <Scheme name="buttons">
+        <Font>Bookman_Old_Style</Font>
+        <Alpha>100</Alpha>
+        <BackgroundOffset>0,0</BackgroundOffset>
+        <EmbossSize>3</EmbossSize>
+        <Colors>
+          <Primary>F70000</Primary>
+          <Secondary>404040</Secondary>
+          <Disabled>C0C0C0</Disabled>
+          <Background>000000</Background>
+          <EmbossLight>C0C0C0</EmbossLight>
+          <EmbossDark>404040</EmbossDark>
+          <TextPrimary>F5F9F5</TextPrimary>
+          <TextSecondary>FFFFFF</TextSecondary>
+          <TextDisabled>404040</TextDisabled>
+          <GradientStart>000000</GradientStart>
+          <GradientEnd>FFFFFF</GradientEnd>
+        </Colors>
+        <FillStyle>Color</FillStyle>
+        <BackgroundType>None</BackgroundType>
+      </Scheme>
+      <Scheme name="Meter">
+        <Font>Times_New_Roman</Font>
+        <Alpha>100</Alpha>
+        <BackgroundOffset>0,0</BackgroundOffset>
+        <EmbossSize>3</EmbossSize>
+        <Colors>
+          <Primary>0010E8</Primary>
+          <Secondary>F8FCF8</Secondary>
+          <Disabled>C0C0C0</Disabled>
+          <Background>000000</Background>
+          <EmbossLight>C0C0C0</EmbossLight>
+          <EmbossDark>404040</EmbossDark>
+          <TextPrimary>000000</TextPrimary>
+          <TextSecondary>FFFFFF</TextSecondary>
+          <TextDisabled>404040</TextDisabled>
+          <GradientStart>000000</GradientStart>
+          <GradientEnd>FFFFFF</GradientEnd>
+        </Colors>
+        <FillStyle>Color</FillStyle>
+        <BackgroundType>None</BackgroundType>
+      </Scheme>
+      <Scheme name="pressedButton">
+        <Font>Bookman_Old_Style</Font>
+        <Alpha>100</Alpha>
+        <BackgroundOffset>0,0</BackgroundOffset>
+        <EmbossSize>3</EmbossSize>
+        <Colors>
+          <Primary>FFFFFF</Primary>
+          <Secondary>FFFFFF</Secondary>
+          <Disabled>C0C0C0</Disabled>
+          <Background>F8FCF8</Background>
+          <EmbossLight>C0C0C0</EmbossLight>
+          <EmbossDark>404040</EmbossDark>
+          <TextPrimary>000000</TextPrimary>
+          <TextSecondary>FFFFFF</TextSecondary>
+          <TextDisabled>404040</TextDisabled>
+          <GradientStart>000000</GradientStart>
+          <GradientEnd>FFFFFF</GradientEnd>
+        </Colors>
+        <FillStyle>Color</FillStyle>
+        <BackgroundType>None</BackgroundType>
+      </Scheme>
+      <Scheme name="staticText">
+        <Font>Bookman_Old_Style</Font>
+        <Alpha>0</Alpha>
+        <BackgroundOffset>0,0</BackgroundOffset>
+        <EmbossSize>3</EmbossSize>
+        <Colors>
+          <Primary>FFFFFF</Primary>
+          <Secondary>000000</Secondary>
+          <Disabled>C0C0C0</Disabled>
+          <Background>C4A4F3</Background>
+          <EmbossLight>C0C0C0</EmbossLight>
+          <EmbossDark>404040</EmbossDark>
+          <TextPrimary>000000</TextPrimary>
+          <TextSecondary>FFFFFF</TextSecondary>
+          <TextDisabled>404040</TextDisabled>
+          <GradientStart>000000</GradientStart>
+          <GradientEnd>FFFFFF</GradientEnd>
+        </Colors>
+        <FillStyle>Color</FillStyle>
+        <BackgroundType>None</BackgroundType>
+      </Scheme>
+      <Scheme name="ListBoxScreen">
+        <Font>Bookman_Old_Style</Font>
+        <Alpha>100</Alpha>
+        <BackgroundOffset>0,0</BackgroundOffset>
+        <EmbossSize>3</EmbossSize>
+        <Colors>
+          <Primary>BA87F0</Primary>
+          <Secondary>960FE9</Secondary>
+          <Disabled>C0C0C0</Disabled>
+          <Background>BC87E9</Background>
+          <EmbossLight>C0C0C0</EmbossLight>
+          <EmbossDark>404040</EmbossDark>
+          <TextPrimary>000000</TextPrimary>
+          <TextSecondary>FFFFFF</TextSecondary>
+          <TextDisabled>404040</TextDisabled>
+          <GradientStart>000000</GradientStart>
+          <GradientEnd>FFFFFF</GradientEnd>
+        </Colors>
+        <FillStyle>Color</FillStyle>
+        <BackgroundType>None</BackgroundType>
+      </Scheme>
+    </Schemes>
+  </Designer>
+  <DisplayManager>
+    <SystemInitScript/>
+    <SystemStartScript/>
+  </DisplayManager>
+  <General>
+    <HarmonyPath path="../../.."/>
+    <Processor name=""/>
+    <ForceOptimization flag="true"/>
+    <MergeStrategy flag="USER_ALL"/>
+  </General>
+  <Manifest>
+    <Files>
+      <File>
+        <Name>drv_tmr_mapping.h</Name>
+        <Path>Header Files/framework/driver/tmr</Path>
+      </File>
+      <File>
+        <Name>drv_tmr_local.h</Name>
+        <Path>Header Files/framework/driver/tmr/src</Path>
+      </File>
+      <File>
+        <Name>driver_common.h</Name>
+        <Path>Header Files/framework/driver</Path>
+      </File>
+      <File>
+        <Name>gfx_gol_static_text.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>bsp_config.h</Name>
+        <Path>Header Files/bsp/pic32_gdb_ef</Path>
+      </File>
+      <File>
+        <Name>gfx_colors.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>sys_tmr.c</Name>
+        <Path>Source Files/framework/system/tmr/src</Path>
+      </File>
+      <File>
+        <Name>drv_ar1021.h</Name>
+        <Path>Header Files/framework/driver/touch/ar1021</Path>
+      </File>
+      <File>
+        <Name>gfx_primitive.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>gfx_gol_button.c</Name>
+        <Path>Source Files/framework/gfx/src</Path>
+      </File>
+      <File>
+        <Name>gfx.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>gfx_gol_scroll_bar.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>drv_spi.h</Name>
+        <Path>Header Files/framework/driver/spi</Path>
+      </File>
+      <File>
+        <Name>driver.h</Name>
+        <Path>Header Files/framework/driver</Path>
+      </File>
+      <File>
+        <Name>peripheral_common.h</Name>
+        <Path>Header Files/framework/peripheral</Path>
+      </File>
+      <File>
+        <Name>sys_devcon_cache.h</Name>
+        <Path>Source Files/framework/system/devcon/src</Path>
+      </File>
+      <File>
+        <Name>sys_int_pic32.c</Name>
+        <Path>Source Files/framework/system/int/src</Path>
+      </File>
+      <File>
+        <Name>gfx_gol.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>gfx_common.h</Name>
+        <Path>Header Files/framework/driver/gfx</Path>
+      </File>
+      <File>
+        <Name>gfx_gol_button.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>sys_clk.h</Name>
+        <Path>Header Files/framework/system/clk</Path>
+      </File>
+      <File>
+        <Name>sys_msg.c</Name>
+        <Path>Source Files/framework/system/msg/src</Path>
+      </File>
+      <File>
+        <Name>sys_touch.c</Name>
+        <Path>Source Files/framework/system/touch/src</Path>
+      </File>
+      <File>
+        <Name>drv_spi_sys_queue_fifo.c</Name>
+        <Path>Source Files/framework/driver/spi</Path>
+      </File>
+      <File>
+        <Name>drv_touch.h</Name>
+        <Path>Header Files/framework/driver/touch</Path>
+      </File>
+      <File>
+        <Name>gfx_primitive.c</Name>
+        <Path>Source Files/framework/gfx/src</Path>
+      </File>
+      <File>
+        <Name>drv_tmr.c</Name>
+        <Path>Source Files/framework/driver/tmr/src/dynamic</Path>
+      </File>
+      <File>
+        <Name>gfx_gol_static_text.c</Name>
+        <Path>Source Files/framework/gfx/src</Path>
+      </File>
+      <File>
+        <Name>gfx_types_image.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>sys_int_private.h</Name>
+        <Path>Header Files/framework/system/int/src</Path>
+      </File>
+      <File>
+        <Name>drv_tmr_compatibility.h</Name>
+        <Path>Header Files/framework/driver/tmr</Path>
+      </File>
+      <File>
+        <Name>sys_tmr_local.h</Name>
+        <Path>Header Files/framework/system/tmr/src</Path>
+      </File>
+      <File>
+        <Name>system.h</Name>
+        <Path>Header Files/framework/system</Path>
+      </File>
+      <File>
+        <Name>gfx_gol.c</Name>
+        <Path>Source Files/framework/gfx/src</Path>
+      </File>
+      <File>
+        <Name>drv_gfx_controller.h</Name>
+        <Path>Header Files/framework/driver/gfx/controller</Path>
+      </File>
+      <File>
+        <Name>drv_spi_variant_mapping.h</Name>
+        <Path>Header Files/framework/driver/spi/src</Path>
+      </File>
+      <File>
+        <Name>sys_dma.c</Name>
+        <Path>Source Files/framework/system/dma</Path>
+      </File>
+      <File>
+        <Name>gfx_types_macros.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>sys_msg_local.h</Name>
+        <Path>Header Files/framework/system/msg/src</Path>
+      </File>
+      <File>
+        <Name>sys_int.h</Name>
+        <Path>Header Files/framework/system/int</Path>
+      </File>
+      <File>
+        <Name>osal_impl_basic.h</Name>
+        <Path>Header Files/framework/osal/src</Path>
+      </File>
+      <File>
+        <Name>peripheral_common_32bit.h</Name>
+        <Path>Header Files/framework/peripheral</Path>
+      </File>
+      <File>
+        <Name>sys_touch_local.h</Name>
+        <Path>Header Files/framework/system/touch/src</Path>
+      </File>
+      <File>
+        <Name>drv_tmr_variant_mapping.h</Name>
+        <Path>Header Files/framework/driver/tmr/src</Path>
+      </File>
+      <File>
+        <Name>drv_tmr.h</Name>
+        <Path>Header Files/framework/driver/tmr</Path>
+      </File>
+      <File>
+        <Name>gfx_gol_scroll_bar.c</Name>
+        <Path>Source Files/framework/gfx/src</Path>
+      </File>
+      <File>
+        <Name>sys_devcon.c</Name>
+        <Path>Source Files/framework/system/devcon/src</Path>
+      </File>
+      <File>
+        <Name>sys_dma.h</Name>
+        <Path>Header Files/framework/system/dma</Path>
+      </File>
+      <File>
+        <Name>sys_tmr.h</Name>
+        <Path>Header Files/framework/system/tmr</Path>
+      </File>
+      <File>
+        <Name>osal.h</Name>
+        <Path>Header Files/framework/osal</Path>
+      </File>
+      <File>
+        <Name>sys_dma_local.h</Name>
+        <Path>Header Files/framework/system/dma/src</Path>
+      </File>
+      <File>
+        <Name>gfx_types_resource.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>gfx.c</Name>
+        <Path>Source Files/framework/gfx/src</Path>
+      </File>
+      <File>
+        <Name>gfx_types_palette.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>gfx_gol_scan_codes.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>gfx_types_font.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>bsp_sys_init.c</Name>
+        <Path>Source Files/bsp/pic32_gdb_ef</Path>
+      </File>
+      <File>
+        <Name>sys_ports.h</Name>
+        <Path>Header Files/framework/system/ports</Path>
+      </File>
+      <File>
+        <Name>sys_touch.h</Name>
+        <Path>Header Files/framework/system/touch</Path>
+      </File>
+      <File>
+        <Name>drv_spi_internal.h</Name>
+        <Path>Header Files/framework/driver/spi/private/dynamic</Path>
+      </File>
+      <File>
+        <Name>drv_spi_sys_queue.h</Name>
+        <Path>Header Files/framework/driver/spi/private</Path>
+      </File>
+      <File>
+        <Name>sys_common.h</Name>
+        <Path>Header Files/framework/system/common</Path>
+      </File>
+      <File>
+        <Name>sys_buffer.h</Name>
+        <Path>Header Files/framework/system/common</Path>
+      </File>
+      <File>
+        <Name>osal_impl_none.h</Name>
+        <Path>Header Files/framework/osal/src</Path>
+      </File>
+      <File>
+        <Name>sys_clk_mapping.h</Name>
+        <Path>Header Files/framework/system/clk</Path>
+      </File>
+      <File>
+        <Name>sys_devcon_cache_pic32mz.S</Name>
+        <Path>Source Files/framework/system/devcon/src</Path>
+      </File>
+      <File>
+        <Name>gfx_gol_scheme.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>osal_definitions.h</Name>
+        <Path>Header Files/framework/osal</Path>
+      </File>
+      <File>
+        <Name>sys_int_mapping.h</Name>
+        <Path>Header Files/framework/system/int</Path>
+      </File>
+      <File>
+        <Name>sys_msg.h</Name>
+        <Path>Header Files/framework/system/msg</Path>
+      </File>
+      <File>
+        <Name>drv_spi.c</Name>
+        <Path>Source Files/framework/driver/spi/dynamic</Path>
+      </File>
+      <File>
+        <Name>drv_spi_sys_queue_local_fifo.h</Name>
+        <Path>Header Files/framework/driver/spi/private</Path>
+      </File>
+      <File>
+        <Name>gfx_palette.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>sys_devcon.h</Name>
+        <Path>Header Files/framework/system/devcon</Path>
+      </File>
+      <File>
+        <Name>sys_msg_config.h</Name>
+        <Path>Header Files/framework/system/msg/config</Path>
+      </File>
+      <File>
+        <Name>gfx_gol_scheme_default.c</Name>
+        <Path>Source Files/framework/gfx/src</Path>
+      </File>
+      <File>
+        <Name>sys_debug.h</Name>
+        <Path>Header Files/framework/system/debug</Path>
+      </File>
+      <File>
+        <Name>sys_module.h</Name>
+        <Path>Header Files/framework/system/common</Path>
+      </File>
+      <File>
+        <Name>sys_devcon_pic32mz.c</Name>
+        <Path>Source Files/framework/system/devcon/src</Path>
+      </File>
+      <File>
+        <Name>sys_devcon_local.h</Name>
+        <Path>Header Files/framework/system/devcon/src</Path>
+      </File>
+      <File>
+        <Name>drv_ar1021.c</Name>
+        <Path>Source Files/framework/driver/touch/ar1021/src</Path>
+      </File>
+      <File>
+        <Name>peripheral.h</Name>
+        <Path>Header Files/framework/peripheral</Path>
+      </File>
+      <File>
+        <Name>sys_queue.h</Name>
+        <Path>Header Files/framework/system/common</Path>
+      </File>
+    </Files>
+    <Templates>
+      <Template>
+        <Name>drv_gfx_lcc_generic.c</Name>
+        <Path>Source Files/app/system_config/pic32_gdb_ef/framework/driver/gfx/controller/lcc</Path>
+        <Checksum>C24CC1FEF08224AEB491E47B94F26CD2</Checksum>
+        <ProjectFileChecksum>2D90734BED98FB3BE0B70BBFD1E3FE4A</ProjectFileChecksum>
+      </Template>
+      <Template>
+        <Name>main.c</Name>
+        <Path>Source Files/app</Path>
+      </Template>
+      <Template>
+        <Name>gfx_resources_int.h</Name>
+        <Path>Header Files/app/system_config/pic32_gdb_ef</Path>
+        <Checksum>9DCE162E6907B5601CF6582840120D94</Checksum>
+      </Template>
+      <Template>
+        <Name>sys_clk_static.c</Name>
+        <Path>Source Files/app/system_config/pic32_gdb_ef/framework/system/clk/src</Path>
+        <Checksum>4681B98AC85858FD3FFA130908EDA5D0</Checksum>
+      </Template>
+      <Template>
+        <Name>system_interrupt.c</Name>
+        <Path>Source Files/app/system_config/pic32_gdb_ef</Path>
+        <Checksum>2DCB3C68055FD4C976695BD889297438</Checksum>
+      </Template>
+      <Template>
+        <Name>drv_gfx_lcc_generic.h</Name>
+        <Path>Header Files/app/system_config/pic32_gdb_ef/framework/driver/gfx/controller/lcc</Path>
+        <Checksum>7F9DB61D160AC829B24DE27ED635E263</Checksum>
+      </Template>
+      <Template>
+        <Name>system_init.c</Name>
+        <Path>Source Files/app/system_config/pic32_gdb_ef</Path>
+        <Checksum>5320174B0BEE6584AE49999349B7F2E6</Checksum>
+      </Template>
+      <Template>
+        <Name>app.c</Name>
+        <Path>Source Files/app</Path>
+      </Template>
+      <Template>
+        <Name>drv_spi_api.c</Name>
+        <Path>Source Files/app/system_config/pic32_gdb_ef/framework/driver/spi/dynamic</Path>
+        <Checksum>B3A91E83D97E20F2E6AE74F22B6F32E1</Checksum>
+      </Template>
+      <Template>
+        <Name>system_exceptions.c</Name>
+        <Path>Source Files/app/system_config/pic32_gdb_ef</Path>
+        <Checksum>C111969CA43D6CEA1E9E33A6164E7AE0</Checksum>
+      </Template>
+      <Template>
+        <Name>gfx_hgc_definitions.h</Name>
+        <Path>Header Files/app/system_config/pic32_gdb_ef</Path>
+        <Checksum>FCA246E31E37BEB715AD875561410D60</Checksum>
+      </Template>
+      <Template>
+        <Name>gfx_resources_int.S</Name>
+        <Path>Source Files/app/system_config/pic32_gdb_ef</Path>
+        <Checksum>1F6DEE281C97CBB534B3BEAC4B342E58</Checksum>
+      </Template>
+      <Template>
+        <Name>sys_ports_static.c</Name>
+        <Path>Source Files/app/system_config/pic32_gdb_ef/framework/system/ports/src</Path>
+        <Checksum>681CC29D7727857CC45A02DED6D35961</Checksum>
+      </Template>
+      <Template>
+        <Name>gfx_hgc_definitions.c</Name>
+        <Path>Source Files/app/system_config/pic32_gdb_ef</Path>
+        <Checksum>3A8F7E9037CF28CE3D03E6210C719CA2</Checksum>
+      </Template>
+      <Template>
+        <Name>drv_spi_tasks.c</Name>
+        <Path>Source Files/app/system_config/pic32_gdb_ef/framework/driver/spi/dynamic</Path>
+        <Checksum>0468A6AC4EF824897AA5C22F6EAFBB43</Checksum>
+      </Template>
+      <Template>
+        <Name>app.h</Name>
+        <Path>Header Files/app</Path>
+      </Template>
+      <Template>
+        <Name>system_definitions.h</Name>
+        <Path>Header Files/app/system_config/pic32_gdb_ef</Path>
+        <Checksum>BFD9C9D98178BEEEB1FFF0DCD637BF17</Checksum>
+      </Template>
+      <Template>
+        <Name>sys_clk_static.h</Name>
+        <Path>Header Files/app/system_config/pic32_gdb_ef/framework/system/clk</Path>
+        <Checksum>B4BD59D8D7C4DA95DC5E3B57755FD352</Checksum>
+      </Template>
+      <Template>
+        <Name>drv_spi_master_ebm_tasks.c</Name>
+        <Path>Source Files/app/system_config/pic32_gdb_ef/framework/driver/spi/dynamic</Path>
+        <Checksum>4C2C868738FD74E2D6A3C8A8FD6B1381</Checksum>
+      </Template>
+      <Template>
+        <Name>gfx_resources_int_reference.c</Name>
+        <Path>Source Files/app/system_config/pic32_gdb_ef</Path>
+        <Checksum>21CFE3072D273643ADA359D56A09BA50</Checksum>
+      </Template>
+      <Template>
+        <Name>system_config.h</Name>
+        <Path>Header Files/app/system_config/pic32_gdb_ef</Path>
+        <Checksum>2EA489CA4CD9F268D60A8CFC326BBACF</Checksum>
+      </Template>
+      <Template>
+        <Name>system_tasks.c</Name>
+        <Path>Source Files/app/system_config/pic32_gdb_ef</Path>
+        <Checksum>912D5748654BF76D095CB6271DBDE23A</Checksum>
+      </Template>
+    </Templates>
+    <CompilerItems>
+      <C32>
+        <Include value="C:\Harmony\v1_09\apps\gfx\resistive_touch_calibrate\firmware\src"/>
+        <Include value="C:\Harmony\v1_09\apps\gfx\resistive_touch_calibrate\firmware\src\system_config\pic32_gdb_ef"/>
+        <Include value="C:\Harmony\v1_09\apps\gfx\resistive_touch_calibrate\firmware\src\pic32_gdb_ef"/>
+        <Include value="C:\Harmony\v1_09\framework"/>
+        <Include value="C:\Harmony\v1_09\apps\gfx\resistive_touch_calibrate\firmware\src\system_config\pic32_gdb_ef\framework"/>
+        <Include value="../../../../../bsp/pic32_gdb_ef"/>
+      </C32>
+    </CompilerItems>
+    <Libraries>
+      <Library value="../../../../../bin/framework/peripheral/PIC32MZ2048EFG100_peripherals.a"/>
+    </Libraries>
+  </Manifest>
+</configuration>

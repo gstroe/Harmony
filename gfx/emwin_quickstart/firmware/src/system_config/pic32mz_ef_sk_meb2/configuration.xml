@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration version="1.0.9.2">
+  <General>
+    <HarmonyPath path="../../.."/>
+    <Processor name=""/>
+    <ForceOptimization flag="true"/>
+    <MergeStrategy flag="USER_ALL"/>
+  </General>
+  <Manifest>
+    <Files>
+      <File>
+        <Name>drv_tmr_mapping.h</Name>
+        <Path>Header Files/framework/driver/tmr</Path>
+      </File>
+      <File>
+        <Name>drv_tmr_local.h</Name>
+        <Path>Header Files/framework/driver/tmr/src</Path>
+      </File>
+      <File>
+        <Name>driver_common.h</Name>
+        <Path>Header Files/framework/driver</Path>
+      </File>
+      <File>
+        <Name>sys_tmr.c</Name>
+        <Path>Source Files/framework/system/tmr/src</Path>
+      </File>
+      <File>
+        <Name>bsp_config.h</Name>
+        <Path>Header Files/bsp/pic32mz_ef_sk+meb2</Path>
+      </File>
+      <File>
+        <Name>drv_mtch6301.c</Name>
+        <Path>Source Files/framework/driver/touch/mtch6301/src</Path>
+      </File>
+      <File>
+        <Name>drv_mtch6301.h</Name>
+        <Path>Header Files/framework/driver/touch/mtch6301</Path>
+      </File>
+      <File>
+        <Name>driver.h</Name>
+        <Path>Header Files/framework/driver</Path>
+      </File>
+      <File>
+        <Name>peripheral_common.h</Name>
+        <Path>Header Files/framework/peripheral</Path>
+      </File>
+      <File>
+        <Name>sys_devcon_cache.h</Name>
+        <Path>Source Files/framework/system/devcon/src</Path>
+      </File>
+      <File>
+        <Name>sys_int_pic32.c</Name>
+        <Path>Source Files/framework/system/int/src</Path>
+      </File>
+      <File>
+        <Name>gfx_common.h</Name>
+        <Path>Header Files/framework/driver/gfx</Path>
+      </File>
+      <File>
+        <Name>sys_clk.h</Name>
+        <Path>Header Files/framework/system/clk</Path>
+      </File>
+      <File>
+        <Name>sys_msg.c</Name>
+        <Path>Source Files/framework/system/msg/src</Path>
+      </File>
+      <File>
+        <Name>sys_touch.c</Name>
+        <Path>Source Files/framework/system/touch/src</Path>
+      </File>
+      <File>
+        <Name>drv_touch.h</Name>
+        <Path>Header Files/framework/driver/touch</Path>
+      </File>
+      <File>
+        <Name>drv_tmr.c</Name>
+        <Path>Source Files/framework/driver/tmr/src/dynamic</Path>
+      </File>
+      <File>
+        <Name>sys_int_private.h</Name>
+        <Path>Header Files/framework/system/int/src</Path>
+      </File>
+      <File>
+        <Name>drv_tmr_compatibility.h</Name>
+        <Path>Header Files/framework/driver/tmr</Path>
+      </File>
+      <File>
+        <Name>sys_tmr_local.h</Name>
+        <Path>Header Files/framework/system/tmr/src</Path>
+      </File>
+      <File>
+        <Name>system.h</Name>
+        <Path>Header Files/framework/system</Path>
+      </File>
+      <File>
+        <Name>drv_gfx_controller.h</Name>
+        <Path>Header Files/framework/driver/gfx/controller</Path>
+      </File>
+      <File>
+        <Name>drv_i2c_bb_a.h</Name>
+        <Path>Header Files/framework/driver/i2c</Path>
+      </File>
+      <File>
+        <Name>sys_dma.c</Name>
+        <Path>Source Files/framework/system/dma</Path>
+      </File>
+      <File>
+        <Name>sys_msg_local.h</Name>
+        <Path>Header Files/framework/system/msg/src</Path>
+      </File>
+      <File>
+        <Name>sys_int.h</Name>
+        <Path>Header Files/framework/system/int</Path>
+      </File>
+      <File>
+        <Name>osal_impl_basic.h</Name>
+        <Path>Header Files/framework/osal/src</Path>
+      </File>
+      <File>
+        <Name>peripheral_common_32bit.h</Name>
+        <Path>Header Files/framework/peripheral</Path>
+      </File>
+      <File>
+        <Name>sys_touch_local.h</Name>
+        <Path>Header Files/framework/system/touch/src</Path>
+      </File>
+      <File>
+        <Name>drv_tmr_variant_mapping.h</Name>
+        <Path>Header Files/framework/driver/tmr/src</Path>
+      </File>
+      <File>
+        <Name>drv_tmr.h</Name>
+        <Path>Header Files/framework/driver/tmr</Path>
+      </File>
+      <File>
+        <Name>sys_devcon.c</Name>
+        <Path>Source Files/framework/system/devcon/src</Path>
+      </File>
+      <File>
+        <Name>drv_i2c_bb.h</Name>
+        <Path>Header Files/framework/driver/i2c</Path>
+      </File>
+      <File>
+        <Name>sys_dma.h</Name>
+        <Path>Header Files/framework/system/dma</Path>
+      </File>
+      <File>
+        <Name>sys_tmr.h</Name>
+        <Path>Header Files/framework/system/tmr</Path>
+      </File>
+      <File>
+        <Name>osal.h</Name>
+        <Path>Header Files/framework/osal</Path>
+      </File>
+      <File>
+        <Name>sys_dma_local.h</Name>
+        <Path>Header Files/framework/system/dma/src</Path>
+      </File>
+      <File>
+        <Name>sys_ports.h</Name>
+        <Path>Header Files/framework/system/ports</Path>
+      </File>
+      <File>
+        <Name>sys_touch.h</Name>
+        <Path>Header Files/framework/system/touch</Path>
+      </File>
+      <File>
+        <Name>sys_common.h</Name>
+        <Path>Header Files/framework/system/common</Path>
+      </File>
+      <File>
+        <Name>sys_buffer.h</Name>
+        <Path>Header Files/framework/system/common</Path>
+      </File>
+      <File>
+        <Name>drv_i2c_bb_a.c</Name>
+        <Path>Source Files/framework/driver/i2c/src/dynamic</Path>
+      </File>
+      <File>
+        <Name>drv_i2c_bb.c</Name>
+        <Path>Source Files/framework/driver/i2c/src/dynamic</Path>
+      </File>
+      <File>
+        <Name>osal_impl_none.h</Name>
+        <Path>Header Files/framework/osal/src</Path>
+      </File>
+      <File>
+        <Name>drv_i2c_variant_mapping.h</Name>
+        <Path>Header Files/framework/driver/i2c/src</Path>
+      </File>
+      <File>
+        <Name>sys_clk_mapping.h</Name>
+        <Path>Header Files/framework/system/clk</Path>
+      </File>
+      <File>
+        <Name>sys_devcon_cache_pic32mz.S</Name>
+        <Path>Source Files/framework/system/devcon/src</Path>
+      </File>
+      <File>
+        <Name>osal_definitions.h</Name>
+        <Path>Header Files/framework/osal</Path>
+      </File>
+      <File>
+        <Name>sys_int_mapping.h</Name>
+        <Path>Header Files/framework/system/int</Path>
+      </File>
+      <File>
+        <Name>sys_msg.h</Name>
+        <Path>Header Files/framework/system/msg</Path>
+      </File>
+      <File>
+        <Name>gfx_palette.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>sys_devcon.h</Name>
+        <Path>Header Files/framework/system/devcon</Path>
+      </File>
+      <File>
+        <Name>sys_msg_config.h</Name>
+        <Path>Header Files/framework/system/msg/config</Path>
+      </File>
+      <File>
+        <Name>sys_debug.h</Name>
+        <Path>Header Files/framework/system/debug</Path>
+      </File>
+      <File>
+        <Name>sys_module.h</Name>
+        <Path>Header Files/framework/system/common</Path>
+      </File>
+      <File>
+        <Name>drv_i2c_mapping.h</Name>
+        <Path>Header Files/framework/driver/i2c</Path>
+      </File>
+      <File>
+        <Name>drv_i2c_local_bb.h</Name>
+        <Path>Header Files/framework/driver/i2c/src</Path>
+      </File>
+      <File>
+        <Name>sys_devcon_pic32mz.c</Name>
+        <Path>Source Files/framework/system/devcon/src</Path>
+      </File>
+      <File>
+        <Name>sys_devcon_local.h</Name>
+        <Path>Header Files/framework/system/devcon/src</Path>
+      </File>
+      <File>
+        <Name>peripheral.h</Name>
+        <Path>Header Files/framework/peripheral</Path>
+      </File>
+      <File>
+        <Name>sys_queue.h</Name>
+        <Path>Header Files/framework/system/common</Path>
+      </File>
+      <File>
+        <Name>drv_i2c_bb_a_compatibility.h</Name>
+        <Path>Header Files/framework/driver/i2c</Path>
+      </File>
+      <File>
+        <Name>bsp_sys_init.c</Name>
+        <Path>Source Files/bsp/pic32mz_ef_sk+meb2</Path>
+      </File>
+    </Files>
+    <Templates>
+      <Template>
+        <Name>sys_clk_static.h</Name>
+        <Path>Header Files/app/system_config/pic32mz_ef_sk_meb2/framework/system/clk</Path>
+        <Checksum>B4BD59D8D7C4DA95DC5E3B57755FD352</Checksum>
+      </Template>
+      <Template>
+        <Name>system_config.h</Name>
+        <Path>Header Files/app/system_config/pic32mz_ef_sk_meb2</Path>
+        <Checksum>7C6BB55E7D8320286BFF5F4190FCFF57</Checksum>
+      </Template>
+      <Template>
+        <Name>system_exceptions.c</Name>
+        <Path>Source Files/app/system_config/pic32mz_ef_sk_meb2</Path>
+        <Checksum>C111969CA43D6CEA1E9E33A6164E7AE0</Checksum>
+      </Template>
+      <Template>
+        <Name>system_init.c</Name>
+        <Path>Source Files/app/system_config/pic32mz_ef_sk_meb2</Path>
+        <Checksum>3FA0284D4F4103A02942E9697AABA529</Checksum>
+      </Template>
+      <Template>
+        <Name>emwin_touch_static.h</Name>
+        <Path>Header Files/app/system_config/pic32mz_ef_sk_meb2/third_party/gfx/emwin/touch</Path>
+        <Checksum>DBD59E40C4359953B9FC5D87F8883507</Checksum>
+      </Template>
+      <Template>
+        <Name>drv_gfx_lcc_generic.h</Name>
+        <Path>Header Files/app/system_config/pic32mz_ef_sk_meb2/framework/driver/gfx/controller/lcc</Path>
+        <Checksum>7F9DB61D160AC829B24DE27ED635E263</Checksum>
+      </Template>
+      <Template>
+        <Name>system_tasks.c</Name>
+        <Path>Source Files/app/system_config/pic32mz_ef_sk_meb2</Path>
+        <Checksum>0BEC410CC6A0AAB3E1F0C1731F2874F9</Checksum>
+      </Template>
+      <Template>
+        <Name>GUIConf.h</Name>
+        <Path>Header Files/app/system_config/pic32mz_ef_sk_meb2/third_party/gfx/emwin/config</Path>
+        <Checksum>21B99B86FD171C2E76E1D9F64DCB9E3A</Checksum>
+      </Template>
+      <Template>
+        <Name>GUI_X_Ex.c</Name>
+        <Path>Source Files/app/system_config/pic32mz_ef_sk_meb2/third_party/gfx/emwin/config</Path>
+        <Checksum>B71BE31DB477885F71A201C5D1612DBE</Checksum>
+      </Template>
+      <Template>
+        <Name>drv_gfx_lcc_generic.c</Name>
+        <Path>Source Files/app/system_config/pic32mz_ef_sk_meb2/framework/driver/gfx/controller/lcc</Path>
+        <Checksum>2C4859B59E1D1C99C882828A81A68C15</Checksum>
+      </Template>
+      <Template>
+        <Name>emwin_gui_static.c</Name>
+        <Path>Source Files/app/system_config/pic32mz_ef_sk_meb2/third_party/gfx/emwin/gui/src</Path>
+        <Checksum>42B836D69ED84635BEC822EB6A0E95FD</Checksum>
+      </Template>
+      <Template>
+        <Name>emwin_touch_static_local.h</Name>
+        <Path>Header Files/app/system_config/pic32mz_ef_sk_meb2/third_party/gfx/emwin/touch/src</Path>
+        <Checksum>4F9BA9F9C23903F68CA8915F5585B73F</Checksum>
+      </Template>
+      <Template>
+        <Name>emwin_gui_static_local.h</Name>
+        <Path>Header Files/app/system_config/pic32mz_ef_sk_meb2/third_party/gfx/emwin/gui/src</Path>
+        <Checksum>8D1FF1B068EDDCF6E776DB7E3E985BA1</Checksum>
+      </Template>
+      <Template>
+        <Name>GUIConf.c</Name>
+        <Path>Source Files/app/system_config/pic32mz_ef_sk_meb2/third_party/gfx/emwin/config</Path>
+        <Checksum>A8A6EDA5CF1727C2683757B1D2BE6E55</Checksum>
+      </Template>
+      <Template>
+        <Name>system_interrupt.c</Name>
+        <Path>Source Files/app/system_config/pic32mz_ef_sk_meb2</Path>
+        <Checksum>99E60C4F701E04BB419E60045340C732</Checksum>
+      </Template>
+      <Template>
+        <Name>main.c</Name>
+        <Path>Source Files/app</Path>
+      </Template>
+      <Template>
+        <Name>sys_ports_static.c</Name>
+        <Path>Source Files/app/system_config/pic32mz_ef_sk_meb2/framework/system/ports/src</Path>
+        <Checksum>8EAE38D58C26D953749E5DB1C78CB4C0</Checksum>
+      </Template>
+      <Template>
+        <Name>system_definitions.h</Name>
+        <Path>Header Files/app/system_config/pic32mz_ef_sk_meb2</Path>
+        <Checksum>72C7B1B2055A4DEE35205821F88AE28A</Checksum>
+      </Template>
+      <Template>
+        <Name>app.c</Name>
+        <Path>Source Files/app</Path>
+      </Template>
+      <Template>
+        <Name>emwin_gui_static.h</Name>
+        <Path>Header Files/app/system_config/pic32mz_ef_sk_meb2/third_party/gfx/emwin/gui</Path>
+        <Checksum>4DBBF79426533A601201E0D47AABA19D</Checksum>
+      </Template>
+      <Template>
+        <Name>LCDConf.c</Name>
+        <Path>Source Files/app/system_config/pic32mz_ef_sk_meb2/third_party/gfx/emwin/config</Path>
+        <Checksum>CF705AF957A9CB8B362851CEE629808F</Checksum>
+      </Template>
+      <Template>
+        <Name>app.h</Name>
+        <Path>Header Files/app</Path>
+      </Template>
+      <Template>
+        <Name>emwin_touch_static.c</Name>
+        <Path>Source Files/app/system_config/pic32mz_ef_sk_meb2/third_party/gfx/emwin/touch/src</Path>
+        <Checksum>4E4FE6AEFB594B25DF8426B8D55B5C48</Checksum>
+      </Template>
+      <Template>
+        <Name>sys_clk_static.c</Name>
+        <Path>Source Files/app/system_config/pic32mz_ef_sk_meb2/framework/system/clk/src</Path>
+        <Checksum>4681B98AC85858FD3FFA130908EDA5D0</Checksum>
+      </Template>
+      <Template>
+        <Name>LCDConf.h</Name>
+        <Path>Header Files/app/system_config/pic32mz_ef_sk_meb2/third_party/gfx/emwin/config</Path>
+        <Checksum>95EC06A9706D05EC5589F09B4F38FC5D</Checksum>
+      </Template>
+    </Templates>
+    <CompilerItems>
+      <C32>
+        <Include value="C:\Git_harmony_trunk\1xx_gfxdev\1xxdev\apps\gfx\emwin_quickstart\firmware\src"/>
+        <Include value="C:\Git_harmony_trunk\1xx_gfxdev\1xxdev\apps\gfx\emwin_quickstart\firmware\src\system_config\pic32mz_ef_sk_meb2"/>
+        <Include value="C:\Git_harmony_trunk\1xx_gfxdev\1xxdev\apps\gfx\emwin_quickstart\firmware\src\pic32mz_ef_sk_meb2"/>
+        <Include value="C:\Git_harmony_trunk\1xx_gfxdev\1xxdev\framework"/>
+        <Include value="C:\Git_harmony_trunk\1xx_gfxdev\1xxdev\apps\gfx\emwin_quickstart\firmware\src\system_config\pic32mz_ef_sk_meb2\framework"/>
+        <Include value="../../../../../bsp/pic32mz_ef_sk+meb2"/>
+        <Include value="../src/system_config/pic32mz_ef_sk_meb2/third_party/gfx/emwin/config"/>
+        <Include value="../../../../../bin/framework/gfx/segger_emwin/inc"/>
+      </C32>
+    </CompilerItems>
+    <Libraries>
+      <Library value="../../../../../bin/framework/peripheral/PIC32MZ2048EFM144_peripherals.a"/>
+      <Library value="../../../../../bin/framework/gfx/segger_emwin/lib/emWin.a"/>
+    </Libraries>
+  </Manifest>
+</configuration>

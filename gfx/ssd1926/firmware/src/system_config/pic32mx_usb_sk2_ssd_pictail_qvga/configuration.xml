@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration version="1.0.8.7">
+  <HarmonyPath path="../../.."/>
+  <ForceOptimization flag="true"/>
+  <Files>
+    <File>
+      <Name>driver.h</Name>
+      <Path>/framework/driver</Path>
+    </File>
+    <File>
+      <Name>bsp_config.h</Name>
+      <Path>/bsp/pic32mx_usb_sk2+ssd_pictail+qvga</Path>
+    </File>
+    <File>
+      <Name>drv_gfx_ssd1926.h</Name>
+      <Path>/framework/driver/gfx/controller/gfx_ssd1926</Path>
+    </File>
+    <File>
+      <Name>drv_gfx_truly_3.2_240x320.h</Name>
+      <Path>/framework/driver/gfx/display/truly_3.2_240x320</Path>
+    </File>
+    <File>
+      <Name>drv_gfx_ssd1926.c</Name>
+      <Path>/framework/driver/gfx/controller/gfx_ssd1926/src</Path>
+    </File>
+    <File>
+      <Name>bsp_sys_init.c</Name>
+      <Path>/bsp/pic32mx_usb_sk2+ssd_pictail+qvga</Path>
+    </File>
+    <File>
+      <Name>sys_ports.c</Name>
+      <Path>/framework/system/ports/src</Path>
+    </File>
+    <File>
+      <Name>sys_devcon.c</Name>
+      <Path>/framework/system/devcon/src</Path>
+    </File>
+    <File>
+      <Name>gfx.h</Name>
+      <Path>/framework/gfx</Path>
+    </File>
+    <File>
+      <Name>sys_common.h</Name>
+      <Path>/framework/system/common</Path>
+    </File>
+    <File>
+      <Name>gfx_primitive.h</Name>
+      <Path>/framework/gfx</Path>
+    </File>
+    <File>
+      <Name>gfx.c</Name>
+      <Path>/framework/gfx/src</Path>
+    </File>
+    <File>
+      <Name>sys_devcon.h</Name>
+      <Path>/framework/system/devcon</Path>
+    </File>
+    <File>
+      <Name>sys_module.h</Name>
+      <Path>/framework/system/common</Path>
+    </File>
+    <File>
+      <Name>drv_ssd1289.c</Name>
+      <Path>/framework/driver/gfx/display/truly_3.2_240x320/src</Path>
+    </File>
+    <File>
+      <Name>sys_ports.h</Name>
+      <Path>/framework/system/ports</Path>
+    </File>
+    <File>
+      <Name>sys_devcon_pic32mx.c</Name>
+      <Path>/framework/system/devcon/src</Path>
+    </File>
+    <File>
+      <Name>gfx_primitive.c</Name>
+      <Path>/framework/gfx/src</Path>
+    </File>
+    <File>
+      <Name>system.h</Name>
+      <Path>/framework/system</Path>
+    </File>
+  </Files>
+  <Templates>
+    <Template>
+      <Name>app.c</Name>
+      <Path>/app</Path>
+    </Template>
+    <Template>
+      <Name>app.h</Name>
+      <Path>/app</Path>
+    </Template>
+    <Template>
+      <Name>sys_ports_static.c</Name>
+      <Path>/app/system_config/pic32mx_usb_sk2_ssd_pictail_qvga/framework/system/ports/src</Path>
+      <Checksum>91CF9ED936A4097E90E3F606508FFFF7</Checksum>
+    </Template>
+    <Template>
+      <Name>sys_clk_static.c</Name>
+      <Path>/app/system_config/pic32mx_usb_sk2_ssd_pictail_qvga/framework/system/clk/src</Path>
+      <Checksum>1B968DA82B5DD869A6119C3B7628D753</Checksum>
+    </Template>
+    <Template>
+      <Name>main.c</Name>
+      <Path>/app</Path>
+    </Template>
+    <Template>
+      <Name>sys_clk_static.h</Name>
+      <Path>/app/system_config/pic32mx_usb_sk2_ssd_pictail_qvga/framework/system/clk</Path>
+      <Checksum>999179DADE9ECD59953526F5E9F83ACC</Checksum>
+    </Template>
+    <Template>
+      <Name>system_tasks.c</Name>
+      <Path>/app/system_config/pic32mx_usb_sk2_ssd_pictail_qvga</Path>
+      <Checksum>0C6DB7655FBA152D9861E13A6B6A5150</Checksum>
+    </Template>
+    <Template>
+      <Name>drv_pmp_static.c</Name>
+      <Path>/app/system_config/pic32mx_usb_sk2_ssd_pictail_qvga/framework/driver/pmp/src</Path>
+      <Checksum>7E0E8C7B51328EA63F3F919C820E179F</Checksum>
+    </Template>
+    <Template>
+      <Name>system_config.h</Name>
+      <Path>/app/system_config/pic32mx_usb_sk2_ssd_pictail_qvga</Path>
+      <Checksum>A2D727716A74CA08E889D4D0D8938A40</Checksum>
+    </Template>
+    <Template>
+      <Name>system_interrupt.c</Name>
+      <Path>/app/system_config/pic32mx_usb_sk2_ssd_pictail_qvga</Path>
+      <Checksum>9AC33B2960C8DF72C5EB0E3662303FF4</Checksum>
+    </Template>
+    <Template>
+      <Name>drv_pmp_static.h</Name>
+      <Path>/app/system_config/pic32mx_usb_sk2_ssd_pictail_qvga/framework/driver/pmp</Path>
+      <Checksum>799BFBF404CEF514B5929A7011B8FCD7</Checksum>
+    </Template>
+    <Template>
+      <Name>system_init.c</Name>
+      <Path>/app/system_config/pic32mx_usb_sk2_ssd_pictail_qvga</Path>
+      <Checksum>0119BC194D722AD5C50B2E1797EE88F3</Checksum>
+    </Template>
+    <Template>
+      <Name>system_definitions.h</Name>
+      <Path>/app/system_config/pic32mx_usb_sk2_ssd_pictail_qvga</Path>
+      <Checksum>9FCAC5F2ECC9C082C6B5B112D8702469</Checksum>
+    </Template>
+  </Templates>
+  <CompilerItems>
+    <C32>
+      <Include value="..\..\..\..\..\bsp\pic32mx_usb_sk2+ssd_pictail+qvga"/>
+    </C32>
+  </CompilerItems>
+  <Libraries>
+    <Library value="..\..\..\..\..\bin\framework\peripheral\PIC32MX795F512L_peripherals.a"/>
+  </Libraries>
+  <Designer>
+    <Assets>
+      <Settings bpp="16">
+        <MemoryLocations>
+          <MemoryLocation address="0" id="default"/>
+        </MemoryLocations>
+      </Settings>
+    </Assets>
+    <Screens height="200" width="320">
+      <Screen active="true" background="000000" clearOnShow="true" export="true" name="Untitled" primary="true" visible="true">
+        <Objects/>
+      </Screen>
+    </Screens>
+    <Schemes defaultSchemeName="default">
+      <Scheme name="default">
+        <Alpha>100</Alpha>
+        <BackgroundOffset>0,0</BackgroundOffset>
+        <EmbossSize>3</EmbossSize>
+        <Colors>
+          <Primary>FFFFFF</Primary>
+          <Secondary>404040</Secondary>
+          <Disabled>C0C0C0</Disabled>
+          <Background>000000</Background>
+          <EmbossLight>C0C0C0</EmbossLight>
+          <EmbossDark>404040</EmbossDark>
+          <TextPrimary>000000</TextPrimary>
+          <TextSecondary>FFFFFF</TextSecondary>
+          <TextDisabled>404040</TextDisabled>
+          <GradientStart>000000</GradientStart>
+          <GradientEnd>FFFFFF</GradientEnd>
+        </Colors>
+        <FillStyle>Color</FillStyle>
+        <BackgroundType>None</BackgroundType>
+      </Scheme>
+    </Schemes>
+  </Designer>
+  <General>
+    <HarmonyPath path="../../.."/>
+    <Processor name="PIC32MX795F512L"/>
+    <ForceOptimization flag="true"/>
+    <MergeStrategy flag="USER_ALL"/>
+  </General>
+  <Manifest>
+    <Files>
+      <File>
+        <Name>osal_impl_basic.h</Name>
+        <Path>Header Files/framework/osal/src</Path>
+      </File>
+      <File>
+        <Name>peripheral_common_32bit.h</Name>
+        <Path>Header Files/framework/peripheral</Path>
+      </File>
+      <File>
+        <Name>driver_common.h</Name>
+        <Path>Header Files/framework/driver</Path>
+      </File>
+      <File>
+        <Name>sys_devcon.c</Name>
+        <Path>Source Files/framework/system/devcon/src</Path>
+      </File>
+      <File>
+        <Name>gfx_colors.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>bsp_sys_init.c</Name>
+        <Path>Source Files/bsp/pic32mx_usb_sk2+ssd_pictail+qvga</Path>
+      </File>
+      <File>
+        <Name>osal.h</Name>
+        <Path>Header Files/framework/osal</Path>
+      </File>
+      <File>
+        <Name>gfx_primitive.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>gfx_types_resource.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>gfx.c</Name>
+        <Path>Source Files/framework/gfx/src</Path>
+      </File>
+      <File>
+        <Name>gfx_types_palette.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>gfx.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>gfx_types_font.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>sys_ports.h</Name>
+        <Path>Header Files/framework/system/ports</Path>
+      </File>
+      <File>
+        <Name>driver.h</Name>
+        <Path>Header Files/framework/driver</Path>
+      </File>
+      <File>
+        <Name>peripheral_common.h</Name>
+        <Path>Header Files/framework/peripheral</Path>
+      </File>
+      <File>
+        <Name>sys_common.h</Name>
+        <Path>Header Files/framework/system/common</Path>
+      </File>
+      <File>
+        <Name>sys_buffer.h</Name>
+        <Path>Header Files/framework/system/common</Path>
+      </File>
+      <File>
+        <Name>gfx_common.h</Name>
+        <Path>Header Files/framework/driver/gfx</Path>
+      </File>
+      <File>
+        <Name>drv_gfx_ssd1289.h</Name>
+        <Path>Header Files/framework/driver/gfx/controller/gfx_ssd1289</Path>
+      </File>
+      <File>
+        <Name>drv_gfx_ssd1926.c</Name>
+        <Path>Source Files/framework/driver/gfx/controller/gfx_ssd1926/src</Path>
+      </File>
+      <File>
+        <Name>sys_clk.h</Name>
+        <Path>Header Files/framework/system/clk</Path>
+      </File>
+      <File>
+        <Name>osal_impl_none.h</Name>
+        <Path>Header Files/framework/osal/src</Path>
+      </File>
+      <File>
+        <Name>sys_clk_mapping.h</Name>
+        <Path>Header Files/framework/system/clk</Path>
+      </File>
+      <File>
+        <Name>bsp_config.h</Name>
+        <Path>Header Files/bsp/pic32mx_usb_sk2+ssd_pictail+qvga</Path>
+      </File>
+      <File>
+        <Name>gfx_primitive.c</Name>
+        <Path>Source Files/framework/gfx/src</Path>
+      </File>
+      <File>
+        <Name>osal_definitions.h</Name>
+        <Path>Header Files/framework/osal</Path>
+      </File>
+      <File>
+        <Name>gfx_palette.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>gfx_types_image.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>sys_devcon.h</Name>
+        <Path>Header Files/framework/system/devcon</Path>
+      </File>
+      <File>
+        <Name>system.h</Name>
+        <Path>Header Files/framework/system</Path>
+      </File>
+      <File>
+        <Name>sys_debug.h</Name>
+        <Path>Header Files/framework/system/debug</Path>
+      </File>
+      <File>
+        <Name>sys_module.h</Name>
+        <Path>Header Files/framework/system/common</Path>
+      </File>
+      <File>
+        <Name>drv_gfx_controller.h</Name>
+        <Path>Header Files/framework/driver/gfx/controller</Path>
+      </File>
+      <File>
+        <Name>drv_gfx_ssd1926.h</Name>
+        <Path>Header Files/framework/driver/gfx/controller/gfx_ssd1926</Path>
+      </File>
+      <File>
+        <Name>sys_devcon_pic32mx.c</Name>
+        <Path>Source Files/framework/system/devcon/src</Path>
+      </File>
+      <File>
+        <Name>sys_devcon_local.h</Name>
+        <Path>Header Files/framework/system/devcon/src</Path>
+      </File>
+      <File>
+        <Name>drv_gfx_ssd1289.c</Name>
+        <Path>Source Files/framework/driver/gfx/controller/gfx_ssd1289/src</Path>
+      </File>
+      <File>
+        <Name>gfx_types_macros.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>peripheral.h</Name>
+        <Path>Header Files/framework/peripheral</Path>
+      </File>
+      <File>
+        <Name>sys_queue.h</Name>
+        <Path>Header Files/framework/system/common</Path>
+      </File>
+    </Files>
+    <Templates>
+      <Template>
+        <Name>drv_pmp_static.h</Name>
+        <Path>Header Files/app/system_config/pic32mx_usb_sk2_ssd_pictail_qvga/framework/driver/pmp</Path>
+        <Checksum>799BFBF404CEF514B5929A7011B8FCD7</Checksum>
+      </Template>
+      <Template>
+        <Name>system_tasks.c</Name>
+        <Path>Source Files/app/system_config/pic32mx_usb_sk2_ssd_pictail_qvga</Path>
+        <Checksum>75F9A5397794C7BC2F4F2653D8D232F2</Checksum>
+      </Template>
+      <Template>
+        <Name>main.c</Name>
+        <Path>Source Files/app</Path>
+      </Template>
+      <Template>
+        <Name>sys_clk_static.h</Name>
+        <Path>Header Files/app/system_config/pic32mx_usb_sk2_ssd_pictail_qvga/framework/system/clk</Path>
+        <Checksum>B4BD59D8D7C4DA95DC5E3B57755FD352</Checksum>
+      </Template>
+      <Template>
+        <Name>system_definitions.h</Name>
+        <Path>Header Files/app/system_config/pic32mx_usb_sk2_ssd_pictail_qvga</Path>
+        <Checksum>63C6132EE4A5636CE5BD6891C62F528E</Checksum>
+      </Template>
+      <Template>
+        <Name>system_exceptions.c</Name>
+        <Path>Source Files/app/system_config/pic32mx_usb_sk2_ssd_pictail_qvga</Path>
+        <Checksum>C111969CA43D6CEA1E9E33A6164E7AE0</Checksum>
+      </Template>
+      <Template>
+        <Name>app.c</Name>
+        <Path>Source Files/app</Path>
+      </Template>
+      <Template>
+        <Name>sys_ports_static.c</Name>
+        <Path>Source Files/app/system_config/pic32mx_usb_sk2_ssd_pictail_qvga/framework/system/ports/src</Path>
+        <Checksum>5392AD35D4C2A5497587E23740E7DA6B</Checksum>
+      </Template>
+      <Template>
+        <Name>drv_pmp_static.c</Name>
+        <Path>Source Files/app/system_config/pic32mx_usb_sk2_ssd_pictail_qvga/framework/driver/pmp/src</Path>
+        <Checksum>7E0E8C7B51328EA63F3F919C820E179F</Checksum>
+      </Template>
+      <Template>
+        <Name>system_interrupt.c</Name>
+        <Path>Source Files/app/system_config/pic32mx_usb_sk2_ssd_pictail_qvga</Path>
+        <Checksum>C934CFD980878E57EE336D976F540A07</Checksum>
+      </Template>
+      <Template>
+        <Name>system_init.c</Name>
+        <Path>Source Files/app/system_config/pic32mx_usb_sk2_ssd_pictail_qvga</Path>
+        <Checksum>55971E092E09F735C62ED5BFB890BD47</Checksum>
+      </Template>
+      <Template>
+        <Name>sys_clk_static.c</Name>
+        <Path>Source Files/app/system_config/pic32mx_usb_sk2_ssd_pictail_qvga/framework/system/clk/src</Path>
+        <Checksum>E8C935BED4628875A8C3428DDD07355C</Checksum>
+      </Template>
+      <Template>
+        <Name>app.h</Name>
+        <Path>Header Files/app</Path>
+      </Template>
+      <Template>
+        <Name>system_config.h</Name>
+        <Path>Header Files/app/system_config/pic32mx_usb_sk2_ssd_pictail_qvga</Path>
+        <Checksum>3CC0F481886487D74AAA6E4BF13A476C</Checksum>
+      </Template>
+    </Templates>
+    <CompilerItems>
+      <C32>
+        <Include value="C:\Harmony\v1_09\apps\gfx\ssd1926\firmware\src"/>
+        <Include value="C:\Harmony\v1_09\apps\gfx\ssd1926\firmware\src\system_config\pic32mx_usb_sk2_ssd_pictail_qvga"/>
+        <Include value="C:\Harmony\v1_09\apps\gfx\ssd1926\firmware\src\pic32mx_usb_sk2_ssd_pictail_qvga"/>
+        <Include value="C:\Harmony\v1_09\framework"/>
+        <Include value="C:\Harmony\v1_09\apps\gfx\ssd1926\firmware\src\system_config\pic32mx_usb_sk2_ssd_pictail_qvga\framework"/>
+        <Include value="../../../../../bsp/pic32mx_usb_sk2+ssd_pictail+qvga"/>
+      </C32>
+    </CompilerItems>
+    <Libraries>
+      <Library value="../../../../../framework/tcpip/src/crypto/aes_pic32mx.a"/>
+      <Library value="../../../../../bin/framework/peripheral/PIC32MX795F512L_peripherals.a"/>
+    </Libraries>
+  </Manifest>
+</configuration>

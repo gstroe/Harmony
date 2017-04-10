@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration version="1.0.9.2">
+  <Designer>
+    <Assets>
+      <Settings bpp="16">
+        <MemoryLocations>
+          <MemoryLocation address="0" id="default"/>
+        </MemoryLocations>
+      </Settings>
+    </Assets>
+    <Screens height="200" width="320">
+      <Screen active="true" background="000000" clearOnShow="true" export="true" name="Untitled" primary="true" visible="true">
+        <Objects/>
+      </Screen>
+    </Screens>
+    <Schemes defaultSchemeName="default">
+      <Scheme name="default">
+        <Alpha>100</Alpha>
+        <BackgroundOffset>0,0</BackgroundOffset>
+        <EmbossSize>3</EmbossSize>
+        <Colors>
+          <Primary>FFFFFF</Primary>
+          <Secondary>404040</Secondary>
+          <Disabled>C0C0C0</Disabled>
+          <Background>000000</Background>
+          <EmbossLight>C0C0C0</EmbossLight>
+          <EmbossDark>404040</EmbossDark>
+          <TextPrimary>000000</TextPrimary>
+          <TextSecondary>FFFFFF</TextSecondary>
+          <TextDisabled>404040</TextDisabled>
+          <GradientStart>000000</GradientStart>
+          <GradientEnd>FFFFFF</GradientEnd>
+        </Colors>
+        <FillStyle>Color</FillStyle>
+        <BackgroundType>None</BackgroundType>
+      </Scheme>
+    </Schemes>
+  </Designer>
+  <General>
+    <HarmonyPath path="../../../../.."/>
+    <Processor name="PIC32MX795F512L"/>
+    <ForceOptimization flag="true"/>
+    <MergeStrategy flag="USER_ALL"/>
+  </General>
+  <Manifest>
+    <Files>
+      <File>
+        <Name>osal_impl_basic.h</Name>
+        <Path>Header Files/framework/osal/src</Path>
+      </File>
+      <File>
+        <Name>peripheral_common_32bit.h</Name>
+        <Path>Header Files/framework/peripheral</Path>
+      </File>
+      <File>
+        <Name>sys_clk.h</Name>
+        <Path>Header Files/framework/system/clk</Path>
+      </File>
+      <File>
+        <Name>osal_impl_none.h</Name>
+        <Path>Header Files/framework/osal/src</Path>
+      </File>
+      <File>
+        <Name>sys_clk_mapping.h</Name>
+        <Path>Header Files/framework/system/clk</Path>
+      </File>
+      <File>
+        <Name>osal_definitions.h</Name>
+        <Path>Header Files/framework/osal</Path>
+      </File>
+      <File>
+        <Name>sys_devcon.c</Name>
+        <Path>Source Files/framework/system/devcon/src</Path>
+      </File>
+      <File>
+        <Name>gfx_palette.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>osal.h</Name>
+        <Path>Header Files/framework/osal</Path>
+      </File>
+      <File>
+        <Name>bsp_config.h</Name>
+        <Path>Header Files/bsp/pic32mx795_pim+e16</Path>
+      </File>
+      <File>
+        <Name>sys_devcon.h</Name>
+        <Path>Header Files/framework/system/devcon</Path>
+      </File>
+      <File>
+        <Name>system.h</Name>
+        <Path>Header Files/framework/system</Path>
+      </File>
+      <File>
+        <Name>bsp_sys_init.c</Name>
+        <Path>Source Files/bsp/pic32mx795_pim+e16</Path>
+      </File>
+      <File>
+        <Name>sys_debug.h</Name>
+        <Path>Header Files/framework/system/debug</Path>
+      </File>
+      <File>
+        <Name>sys_module.h</Name>
+        <Path>Header Files/framework/system/common</Path>
+      </File>
+      <File>
+        <Name>sys_ports.h</Name>
+        <Path>Header Files/framework/system/ports</Path>
+      </File>
+      <File>
+        <Name>sys_devcon_pic32mx.c</Name>
+        <Path>Source Files/framework/system/devcon/src</Path>
+      </File>
+      <File>
+        <Name>sys_devcon_local.h</Name>
+        <Path>Header Files/framework/system/devcon/src</Path>
+      </File>
+      <File>
+        <Name>peripheral.h</Name>
+        <Path>Header Files/framework/peripheral</Path>
+      </File>
+      <File>
+        <Name>peripheral_common.h</Name>
+        <Path>Header Files/framework/peripheral</Path>
+      </File>
+      <File>
+        <Name>sys_common.h</Name>
+        <Path>Header Files/framework/system/common</Path>
+      </File>
+      <File>
+        <Name>sys_buffer.h</Name>
+        <Path>Header Files/framework/system/common</Path>
+      </File>
+      <File>
+        <Name>sys_queue.h</Name>
+        <Path>Header Files/framework/system/common</Path>
+      </File>
+    </Files>
+    <Templates>
+      <Template>
+        <Name>drv_spi_static.h</Name>
+        <Path>Header Files/app/system_config/pic32mx795_pim_e16/framework/driver/spi/static</Path>
+        <Checksum>68B5BA023AB90B18D229B6E7CBF0850C</Checksum>
+      </Template>
+      <Template>
+        <Name>drv_spi_static.c</Name>
+        <Path>Source Files/app/system_config/pic32mx795_pim_e16/framework/driver/spi/static/src</Path>
+        <Checksum>9CEB194E09662E9FEF55D453CAAA22F8</Checksum>
+      </Template>
+      <Template>
+        <Name>system_interrupt.c</Name>
+        <Path>Source Files/app/system_config/pic32mx795_pim_e16</Path>
+        <Checksum>C934CFD980878E57EE336D976F540A07</Checksum>
+      </Template>
+      <Template>
+        <Name>main.c</Name>
+        <Path>Source Files/app</Path>
+      </Template>
+      <Template>
+        <Name>drv_spi_mapping.c</Name>
+        <Path>Source Files/app/system_config/pic32mx795_pim_e16/framework/driver/spi/static/src</Path>
+        <Checksum>ADEEE2519E932B46D44C41B8F44E1F19</Checksum>
+      </Template>
+      <Template>
+        <Name>drv_spi_static_tasks.c</Name>
+        <Path>Source Files/app/system_config/pic32mx795_pim_e16/framework/driver/spi/static/src</Path>
+        <Checksum>8D9BDD4F87493B036E9786F53F65EE82</Checksum>
+      </Template>
+      <Template>
+        <Name>system_init.c</Name>
+        <Path>Source Files/app/system_config/pic32mx795_pim_e16</Path>
+        <Checksum>53F4DBC9900A462F8D4A45EB133ABE67</Checksum>
+      </Template>
+      <Template>
+        <Name>drv_spi_static_local.h</Name>
+        <Path>Header Files/app/system_config/pic32mx795_pim_e16/framework/driver/spi/static/src</Path>
+        <Checksum>70055803006A2C67E983956B3B3ABD25</Checksum>
+      </Template>
+      <Template>
+        <Name>drv_spi_static_sys_queue.c</Name>
+        <Path>Source Files/app/system_config/pic32mx795_pim_e16/framework/driver/spi/static/src</Path>
+        <Checksum>E06222D2E5F5F69EE3C77ACD6FCC3059</Checksum>
+      </Template>
+      <Template>
+        <Name>app.c</Name>
+        <Path>Source Files/app</Path>
+      </Template>
+      <Template>
+        <Name>drv_spi_static_rm_tasks.c</Name>
+        <Path>Source Files/app/system_config/pic32mx795_pim_e16/framework/driver/spi/static/src</Path>
+        <Checksum>BED98A3F5628502709D95341DC70019B</Checksum>
+      </Template>
+      <Template>
+        <Name>sys_ports_static.c</Name>
+        <Path>Source Files/app/system_config/pic32mx795_pim_e16/framework/system/ports/src</Path>
+        <Checksum>C61B926A7AC823250A40C878C9CD51F9</Checksum>
+      </Template>
+      <Template>
+        <Name>drv_spi_static_sys_queue.h</Name>
+        <Path>Header Files/app/system_config/pic32mx795_pim_e16/framework/driver/spi/static/src</Path>
+        <Checksum>3D489FB0B5415BB6F80FA34FC0CEE9F7</Checksum>
+      </Template>
+      <Template>
+        <Name>system_config.h</Name>
+        <Path>Header Files/app/system_config/pic32mx795_pim_e16</Path>
+        <Checksum>D9097B55A484DDC27D1E93417460A651</Checksum>
+      </Template>
+      <Template>
+        <Name>system_exceptions.c</Name>
+        <Path>Source Files/app/system_config/pic32mx795_pim_e16</Path>
+        <Checksum>C111969CA43D6CEA1E9E33A6164E7AE0</Checksum>
+      </Template>
+      <Template>
+        <Name>app.h</Name>
+        <Path>Header Files/app</Path>
+      </Template>
+      <Template>
+        <Name>sys_clk_static.c</Name>
+        <Path>Source Files/app/system_config/pic32mx795_pim_e16/framework/system/clk/src</Path>
+        <Checksum>E8C935BED4628875A8C3428DDD07355C</Checksum>
+      </Template>
+      <Template>
+        <Name>sys_clk_static.h</Name>
+        <Path>Header Files/app/system_config/pic32mx795_pim_e16/framework/system/clk</Path>
+        <Checksum>B4BD59D8D7C4DA95DC5E3B57755FD352</Checksum>
+      </Template>
+      <Template>
+        <Name>system_definitions.h</Name>
+        <Path>Header Files/app/system_config/pic32mx795_pim_e16</Path>
+        <Checksum>E67E731DBB2978E63F98F3466C0A0977</Checksum>
+      </Template>
+      <Template>
+        <Name>system_tasks.c</Name>
+        <Path>Source Files/app/system_config/pic32mx795_pim_e16</Path>
+        <Checksum>2DE1EA7AF4352681CDF82A9BDD966758</Checksum>
+      </Template>
+    </Templates>
+    <CompilerItems>
+      <C32>
+        <Include value="E:/official/git/1xxdev/apps/examples/peripheral/spi/spi_loopback/firmware/src"/>
+        <Include value="E:/official/git/1xxdev/apps/examples/peripheral/spi/spi_loopback/firmware/src/system_config/pic32mx795_pim_e16"/>
+        <Include value="E:/official/git/1xxdev/apps/examples/peripheral/spi/spi_loopback/firmware/src/pic32mx795_pim_e16"/>
+        <Include value="E:/official/git/1xxdev/framework"/>
+        <Include value="E:/official/git/1xxdev/apps/examples/peripheral/spi/spi_loopback/firmware/src/system_config/pic32mx795_pim_e16/framework"/>
+        <Include value="../../../../../../../bsp/pic32mx795_pim+e16"/>
+      </C32>
+    </CompilerItems>
+    <Libraries>
+      <Library value="../../../../../../../bin/framework/peripheral/PIC32MX795F512L_peripherals.a"/>
+    </Libraries>
+  </Manifest>
+</configuration>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="62">
+  <logicalFolder name="root" displayName="root" projectFiles="true">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+      <logicalFolder name="f3" displayName="app" projectFiles="true">
+        <logicalFolder name="f1" displayName="system_config" projectFiles="true">
+          <logicalFolder name="f1" displayName="pic32mz_da_sk" projectFiles="true">
+            <logicalFolder name="f1" displayName="framework" projectFiles="true">
+              <logicalFolder name="f1" displayName="system" projectFiles="true">
+                <logicalFolder name="f1" displayName="clk" projectFiles="true">
+                  <itemPath>../src/system_config/pic32mz_da_sk/framework/system/clk/sys_clk_static.h</itemPath>
+                </logicalFolder>
+              </logicalFolder>
+            </logicalFolder>
+            <itemPath>../src/system_config/pic32mz_da_sk/system_config.h</itemPath>
+            <itemPath>../src/system_config/pic32mz_da_sk/system_definitions.h</itemPath>
+          </logicalFolder>
+        </logicalFolder>
+        <itemPath>../src/app.h</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f2" displayName="bsp" projectFiles="true">
+        <logicalFolder name="f1" displayName="pic32mz_da_sk" projectFiles="true">
+          <itemPath>../../../../../../../bsp/pic32mz_da_sk/bsp_config.h</itemPath>
+        </logicalFolder>
+      </logicalFolder>
+      <logicalFolder name="f1" displayName="framework" projectFiles="true">
+        <logicalFolder name="f1" displayName="gfx" projectFiles="true">
+          <itemPath>../../../../../../../framework/gfx/gfx_palette.h</itemPath>
+        </logicalFolder>
+        <logicalFolder name="f2" displayName="osal" projectFiles="true">
+          <logicalFolder name="f1" displayName="src" projectFiles="true">
+            <itemPath>../../../../../../../framework/osal/src/osal_impl_basic.h</itemPath>
+            <itemPath>../../../../../../../framework/osal/src/osal_impl_none.h</itemPath>
+          </logicalFolder>
+          <itemPath>../../../../../../../framework/osal/osal.h</itemPath>
+          <itemPath>../../../../../../../framework/osal/osal_definitions.h</itemPath>
+        </logicalFolder>
+        <logicalFolder name="f3" displayName="peripheral" projectFiles="true">
+          <itemPath>../../../../../../../framework/peripheral/peripheral.h</itemPath>
+          <itemPath>../../../../../../../framework/peripheral/peripheral_common.h</itemPath>
+          <itemPath>../../../../../../../framework/peripheral/peripheral_common_32bit.h</itemPath>
+        </logicalFolder>
+        <logicalFolder name="f4" displayName="system" projectFiles="true">
+          <logicalFolder name="f1" displayName="clk" projectFiles="true">
+            <itemPath>../../../../../../../framework/system/clk/sys_clk.h</itemPath>
+            <itemPath>../../../../../../../framework/system/clk/sys_clk_mapping.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="f2" displayName="common" projectFiles="true">
+            <itemPath>../../../../../../../framework/system/common/sys_common.h</itemPath>
+            <itemPath>../../../../../../../framework/system/common/sys_module.h</itemPath>
+            <itemPath>../../../../../../../framework/system/common/sys_buffer.h</itemPath>
+            <itemPath>../../../../../../../framework/system/common/sys_queue.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="f3" displayName="debug" projectFiles="true">
+            <itemPath>../../../../../../../framework/system/debug/sys_debug.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="f4" displayName="devcon" projectFiles="true">
+            <logicalFolder name="f1" displayName="src" projectFiles="true">
+              <itemPath>../../../../../../../framework/system/devcon/src/sys_devcon_local.h</itemPath>
+            </logicalFolder>
+            <itemPath>../../../../../../../framework/system/devcon/sys_devcon.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="f5" displayName="ports" projectFiles="true">
+            <itemPath>../../../../../../../framework/system/ports/sys_ports.h</itemPath>
+          </logicalFolder>
+          <itemPath>../../../../../../../framework/system/system.h</itemPath>
+        </logicalFolder>
+      </logicalFolder>
+    </logicalFolder>
+    <logicalFolder name="LinkerScript"
+                   displayName="Linker Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <logicalFolder name="f3" displayName="app" projectFiles="true">
+        <logicalFolder name="f1" displayName="system_config" projectFiles="true">
+          <logicalFolder name="f1" displayName="pic32mz_da_sk" projectFiles="true">
+            <logicalFolder name="f1" displayName="framework" projectFiles="true">
+              <logicalFolder name="f1" displayName="system" projectFiles="true">
+                <logicalFolder name="f1" displayName="clk" projectFiles="true">
+                  <logicalFolder name="f1" displayName="src" projectFiles="true">
+                    <itemPath>../src/system_config/pic32mz_da_sk/framework/system/clk/src/sys_clk_static.c</itemPath>
+                  </logicalFolder>
+                </logicalFolder>
+                <logicalFolder name="f2" displayName="ports" projectFiles="true">
+                  <logicalFolder name="f1" displayName="src" projectFiles="true">
+                    <itemPath>../src/system_config/pic32mz_da_sk/framework/system/ports/src/sys_ports_static.c</itemPath>
+                  </logicalFolder>
+                </logicalFolder>
+              </logicalFolder>
+            </logicalFolder>
+            <itemPath>../src/system_config/pic32mz_da_sk/system_init.c</itemPath>
+            <itemPath>../src/system_config/pic32mz_da_sk/system_interrupt.c</itemPath>
+            <itemPath>../src/system_config/pic32mz_da_sk/system_exceptions.c</itemPath>
+            <itemPath>../src/system_config/pic32mz_da_sk/system_tasks.c</itemPath>
+          </logicalFolder>
+        </logicalFolder>
+        <itemPath>../src/app.c</itemPath>
+        <itemPath>../src/main.c</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f2" displayName="bsp" projectFiles="true">
+        <logicalFolder name="f1" displayName="pic32mz_da_sk" projectFiles="true">
+          <itemPath>../../../../../../../bsp/pic32mz_da_sk/bsp_sys_init.c</itemPath>
+        </logicalFolder>
+      </logicalFolder>
+      <logicalFolder name="f1" displayName="framework" projectFiles="true">
+        <logicalFolder name="f1" displayName="system" projectFiles="true">
+          <logicalFolder name="f1" displayName="devcon" projectFiles="true">
+            <logicalFolder name="f1" displayName="src" projectFiles="true">
+              <itemPath>../../../../../../../framework/system/devcon/src/sys_devcon.c</itemPath>
+              <itemPath>../../../../../../../framework/system/devcon/src/sys_devcon_pic32mz.c</itemPath>
+              <itemPath>../../../../../../../framework/system/devcon/src/sys_devcon_cache_pic32mz.S</itemPath>
+              <itemPath>../../../../../../../framework/system/devcon/src/sys_devcon_cache.h</itemPath>
+            </logicalFolder>
+          </logicalFolder>
+        </logicalFolder>
+      </logicalFolder>
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceRootList>
+    <Elem>../src</Elem>
+    <Elem>../../../../..</Elem>
+    <Elem>../src/system_config/pic32mz_da_sk</Elem>
+    <Elem>..\src</Elem>
+    <Elem>..\src\pic32mz_da_sk</Elem>
+    <Elem>..\src\system_config\pic32mz_da_sk</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+  </confs>
+</configurationDescriptor>

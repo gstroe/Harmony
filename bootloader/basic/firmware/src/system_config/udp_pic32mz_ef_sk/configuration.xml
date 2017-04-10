@@ -1,0 +1,916 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration version="1.0.8.7">
+  <DisplayManager>
+    <SystemInitScript/>
+    <SystemStartScript/>
+  </DisplayManager>
+  <General>
+    <HarmonyPath path="../../.."/>
+    <Processor name=""/>
+    <ForceOptimization flag="true"/>
+    <MergeStrategy flag="ALL"/>
+  </General>
+  <Manifest>
+    <Files>
+      <File>
+        <Name>sys_random.c</Name>
+        <Path>Source Files/framework/system/random/src</Path>
+      </File>
+      <File>
+        <Name>dhcp_private.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>tcpip_helper_c32.S</Name>
+        <Path>Source Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>helpers.h</Name>
+        <Path>Header Files/framework/tcpip/src/common</Path>
+      </File>
+      <File>
+        <Name>snmpv3.h</Name>
+        <Path>Header Files/framework/tcpip</Path>
+      </File>
+      <File>
+        <Name>dhcp.c</Name>
+        <Path>Source Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>tcpip_mac.h</Name>
+        <Path>Header Files/framework/tcpip</Path>
+      </File>
+      <File>
+        <Name>sys_reset_mapping.h</Name>
+        <Path>Header Files/framework/system/reset/src</Path>
+      </File>
+      <File>
+        <Name>helpers.c</Name>
+        <Path>Source Files/framework/tcpip/src/common</Path>
+      </File>
+      <File>
+        <Name>tcpip_heap_alloc.c</Name>
+        <Path>Source Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>tftpc_private.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>tcpip_helpers_private.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>tcpip_packet.c</Name>
+        <Path>Source Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>ipv6_manager.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>tcp_private.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>tls.h</Name>
+        <Path>Header Files/framework/tcpip</Path>
+      </File>
+      <File>
+        <Name>smtpc.h</Name>
+        <Path>Header Files/framework/tcpip</Path>
+      </File>
+      <File>
+        <Name>zero_conf_helper.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>drv_extphy_smsc8700.h</Name>
+        <Path>Header Files/framework/driver/ethphy/src/dynamic</Path>
+      </File>
+      <File>
+        <Name>system.h</Name>
+        <Path>Header Files/framework/system</Path>
+      </File>
+      <File>
+        <Name>dnss_manager.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>tcpip_manager.h</Name>
+        <Path>Header Files/framework/tcpip</Path>
+      </File>
+      <File>
+        <Name>oahash.c</Name>
+        <Path>Source Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>tcpip_common_ports.h</Name>
+        <Path>Header Files/framework/tcpip</Path>
+      </File>
+      <File>
+        <Name>ndp_private.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>snmp.h</Name>
+        <Path>Header Files/framework/tcpip</Path>
+      </File>
+      <File>
+        <Name>dhcp.h</Name>
+        <Path>Header Files/framework/tcpip</Path>
+      </File>
+      <File>
+        <Name>nvm.c</Name>
+        <Path>Source Files/framework/bootloader</Path>
+      </File>
+      <File>
+        <Name>ipv4.h</Name>
+        <Path>Header Files/framework/tcpip</Path>
+      </File>
+      <File>
+        <Name>snmpv3_private.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>osal_impl_basic.h</Name>
+        <Path>Header Files/framework/osal/src</Path>
+      </File>
+      <File>
+        <Name>peripheral_common_32bit.h</Name>
+        <Path>Header Files/framework/peripheral</Path>
+      </File>
+      <File>
+        <Name>udp_private.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>sys_reset.h</Name>
+        <Path>Header Files/framework/system/reset</Path>
+      </File>
+      <File>
+        <Name>dns_private.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>drv_tmr.h</Name>
+        <Path>Header Files/framework/driver/tmr</Path>
+      </File>
+      <File>
+        <Name>osal.h</Name>
+        <Path>Header Files/framework/osal</Path>
+      </File>
+      <File>
+        <Name>bootloader.c</Name>
+        <Path>Source Files/framework/bootloader</Path>
+      </File>
+      <File>
+        <Name>dns_manager.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>http_net_private.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>dns.h</Name>
+        <Path>Header Files/framework/tcpip</Path>
+      </File>
+      <File>
+        <Name>bootloader.h</Name>
+        <Path>Header Files/framework/bootloader</Path>
+      </File>
+      <File>
+        <Name>iperf_manager.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>sys_int_mapping.h</Name>
+        <Path>Header Files/framework/system/int</Path>
+      </File>
+      <File>
+        <Name>tcpip_reboot.h</Name>
+        <Path>Header Files/framework/tcpip</Path>
+      </File>
+      <File>
+        <Name>sys_devcon.h</Name>
+        <Path>Header Files/framework/system/devcon</Path>
+      </File>
+      <File>
+        <Name>ipv4_manager.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>nbns.h</Name>
+        <Path>Header Files/framework/tcpip</Path>
+      </File>
+      <File>
+        <Name>tcpip_packet.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>sys_debug.h</Name>
+        <Path>Header Files/framework/system/debug</Path>
+      </File>
+      <File>
+        <Name>drv_extphy_regs.h</Name>
+        <Path>Header Files/framework/driver/ethphy/src/dynamic</Path>
+      </File>
+      <File>
+        <Name>icmpv6_manager.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>ipv4.c</Name>
+        <Path>Source Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>peripheral.h</Name>
+        <Path>Header Files/framework/peripheral</Path>
+      </File>
+      <File>
+        <Name>tcpip_announce.h</Name>
+        <Path>Header Files/framework/tcpip</Path>
+      </File>
+      <File>
+        <Name>drv_tmr_mapping.h</Name>
+        <Path>Header Files/framework/driver/tmr</Path>
+      </File>
+      <File>
+        <Name>arp.c</Name>
+        <Path>Source Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>sys_reset_local.h</Name>
+        <Path>Header Files/framework/system/reset/src</Path>
+      </File>
+      <File>
+        <Name>snmp_manager.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>tcp.h</Name>
+        <Path>Header Files/framework/tcpip</Path>
+      </File>
+      <File>
+        <Name>drv_ethphy_local.h</Name>
+        <Path>Header Files/framework/driver/ethphy/src</Path>
+      </File>
+      <File>
+        <Name>arp.h</Name>
+        <Path>Header Files/framework/tcpip</Path>
+      </File>
+      <File>
+        <Name>tcpip_commands_manager.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>driver.h</Name>
+        <Path>Header Files/framework/driver</Path>
+      </File>
+      <File>
+        <Name>peripheral_common.h</Name>
+        <Path>Header Files/framework/peripheral</Path>
+      </File>
+      <File>
+        <Name>aes_ofb.h</Name>
+        <Path>Header Files/framework/tcpip/src/crypto</Path>
+      </File>
+      <File>
+        <Name>sys_int_pic32.c</Name>
+        <Path>Source Files/framework/system/int/src</Path>
+      </File>
+      <File>
+        <Name>aes.h</Name>
+        <Path>Header Files/framework/tcpip/src/crypto</Path>
+      </File>
+      <File>
+        <Name>net_pres.h</Name>
+        <Path>Header Files/framework/net/pres</Path>
+      </File>
+      <File>
+        <Name>bsp_sys_init.c</Name>
+        <Path>Source Files/bsp/pic32mz_ef_sk</Path>
+      </File>
+      <File>
+        <Name>aes_cbc.h</Name>
+        <Path>Header Files/framework/tcpip/src/crypto</Path>
+      </File>
+      <File>
+        <Name>drv_tmr_compatibility.h</Name>
+        <Path>Header Files/framework/driver/tmr</Path>
+      </File>
+      <File>
+        <Name>sys_tmr_local.h</Name>
+        <Path>Header Files/framework/system/tmr/src</Path>
+      </File>
+      <File>
+        <Name>tcpip_notify.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>tcpip_mac_object.h</Name>
+        <Path>Header Files/framework/tcpip</Path>
+      </File>
+      <File>
+        <Name>lldp_private.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>zero_conf_multicast_dns.h</Name>
+        <Path>Header Files/framework/tcpip</Path>
+      </File>
+      <File>
+        <Name>dhcps_manager.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>icmpv6.h</Name>
+        <Path>Header Files/framework/tcpip</Path>
+      </File>
+      <File>
+        <Name>ipv6.h</Name>
+        <Path>Header Files/framework/tcpip</Path>
+      </File>
+      <File>
+        <Name>telnet.h</Name>
+        <Path>Header Files/framework/tcpip</Path>
+      </File>
+      <File>
+        <Name>sys_int.h</Name>
+        <Path>Header Files/framework/system/int</Path>
+      </File>
+      <File>
+        <Name>smtp_manager.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>ndp_manager.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>berkeley_api.h</Name>
+        <Path>Header Files/framework/tcpip</Path>
+      </File>
+      <File>
+        <Name>link_list.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>lldp_tlv.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>tcpip_module_manager.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>drv_extphy_dp83848.h</Name>
+        <Path>Header Files/framework/driver/ethphy/src/dynamic</Path>
+      </File>
+      <File>
+        <Name>tcpip_manager.c</Name>
+        <Path>Source Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>tcpip_heap_alloc.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>arp_manager.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>des3.h</Name>
+        <Path>Header Files/framework/crypto/src</Path>
+      </File>
+      <File>
+        <Name>sys_common.h</Name>
+        <Path>Header Files/framework/system/common</Path>
+      </File>
+      <File>
+        <Name>sys_buffer.h</Name>
+        <Path>Header Files/framework/system/common</Path>
+      </File>
+      <File>
+        <Name>udp.h</Name>
+        <Path>Header Files/framework/tcpip</Path>
+      </File>
+      <File>
+        <Name>drv_ethmac_lib.h</Name>
+        <Path>Header Files/framework/driver/ethmac/src/dynamic</Path>
+      </File>
+      <File>
+        <Name>osal_impl_none.h</Name>
+        <Path>Header Files/framework/osal/src</Path>
+      </File>
+      <File>
+        <Name>tftpc_manager.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>tcpip_helpers.h</Name>
+        <Path>Header Files/framework/tcpip</Path>
+      </File>
+      <File>
+        <Name>arp_private.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>dhcpv6.h</Name>
+        <Path>Header Files/framework/tcpip</Path>
+      </File>
+      <File>
+        <Name>sys_clk_mapping.h</Name>
+        <Path>Header Files/framework/system/clk</Path>
+      </File>
+      <File>
+        <Name>sys_devcon_cache_pic32mz.S</Name>
+        <Path>Source Files/framework/system/devcon/src</Path>
+      </File>
+      <File>
+        <Name>aes_ecb_pic32.h</Name>
+        <Path>Header Files/framework/tcpip/src/crypto</Path>
+      </File>
+      <File>
+        <Name>drv_extphy_smsc8720.h</Name>
+        <Path>Header Files/framework/driver/ethphy/src/dynamic</Path>
+      </File>
+      <File>
+        <Name>drv_extphy_ip101gr.h</Name>
+        <Path>Header Files/framework/driver/ethphy/src/dynamic</Path>
+      </File>
+      <File>
+        <Name>sys_module.h</Name>
+        <Path>Header Files/framework/system/common</Path>
+      </File>
+      <File>
+        <Name>sys_devcon_pic32mz.c</Name>
+        <Path>Source Files/framework/system/devcon/src</Path>
+      </File>
+      <File>
+        <Name>nbns_manager.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>tcpip.h</Name>
+        <Path>Header Files/framework/tcpip</Path>
+      </File>
+      <File>
+        <Name>sys_queue.h</Name>
+        <Path>Header Files/framework/system/common</Path>
+      </File>
+      <File>
+        <Name>drv_tmr_local.h</Name>
+        <Path>Header Files/framework/driver/tmr/src</Path>
+      </File>
+      <File>
+        <Name>dhcps_private.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>ipv4_private.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>sys_fs.h</Name>
+        <Path>Header Files/framework/system/fs</Path>
+      </File>
+      <File>
+        <Name>tcpip_commands.h</Name>
+        <Path>Header Files/framework/tcpip</Path>
+      </File>
+      <File>
+        <Name>zero_conf_link_local.h</Name>
+        <Path>Header Files/framework/tcpip</Path>
+      </File>
+      <File>
+        <Name>sys_devcon_cache.h</Name>
+        <Path>Source Files/framework/system/devcon/src</Path>
+      </File>
+      <File>
+        <Name>icmp_manager.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>tcpip_types.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>berkeley_manager.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>http_manager.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>drv_extphy_dp83640.h</Name>
+        <Path>Header Files/framework/driver/ethphy/src/dynamic</Path>
+      </File>
+      <File>
+        <Name>icmp.h</Name>
+        <Path>Header Files/framework/tcpip</Path>
+      </File>
+      <File>
+        <Name>datastream_udp.c</Name>
+        <Path>Source Files/framework/bootloader/datastream</Path>
+      </File>
+      <File>
+        <Name>smtp.h</Name>
+        <Path>Header Files/framework/tcpip</Path>
+      </File>
+      <File>
+        <Name>ndp.h</Name>
+        <Path>Header Files/framework/tcpip</Path>
+      </File>
+      <File>
+        <Name>datastream.h</Name>
+        <Path>Header Files/framework/bootloader</Path>
+      </File>
+      <File>
+        <Name>snmp_private.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>udp_manager.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>bsp_config.h</Name>
+        <Path>Header Files/bsp/pic32mz_ef_sk</Path>
+      </File>
+      <File>
+        <Name>drv_ethphy.c</Name>
+        <Path>Source Files/framework/driver/ethphy</Path>
+      </File>
+      <File>
+        <Name>smtpc_manager.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>sys_devcon.c</Name>
+        <Path>Source Files/framework/system/devcon/src</Path>
+      </File>
+      <File>
+        <Name>hash_fnv.c</Name>
+        <Path>Source Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>sys_random_local.h</Name>
+        <Path>Header Files/framework/system/random/src</Path>
+      </File>
+      <File>
+        <Name>sys_reset.c</Name>
+        <Path>Source Files/framework/system/reset/src</Path>
+      </File>
+      <File>
+        <Name>sys_tmr.h</Name>
+        <Path>Header Files/framework/system/tmr</Path>
+      </File>
+      <File>
+        <Name>udp.c</Name>
+        <Path>Source Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>tcpip_notify.c</Name>
+        <Path>Source Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>lldp_manager.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>tcpip_helpers.c</Name>
+        <Path>Source Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>sys_random.h</Name>
+        <Path>Header Files/framework/system/random</Path>
+      </File>
+      <File>
+        <Name>http.h</Name>
+        <Path>Header Files/framework/tcpip</Path>
+      </File>
+      <File>
+        <Name>tcpip_manager_control.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>osal_definitions.h</Name>
+        <Path>Header Files/framework/osal</Path>
+      </File>
+      <File>
+        <Name>ddns.h</Name>
+        <Path>Header Files/framework/tcpip</Path>
+      </File>
+      <File>
+        <Name>drv_extphy_smsc8740.c</Name>
+        <Path>Source Files/framework/driver/ethphy</Path>
+      </File>
+      <File>
+        <Name>tcpip_heap.h</Name>
+        <Path>Header Files/framework/tcpip</Path>
+      </File>
+      <File>
+        <Name>tcpip_private.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>nvm.h</Name>
+        <Path>Header Files/framework/bootloader</Path>
+      </File>
+      <File>
+        <Name>aes_cfb.h</Name>
+        <Path>Header Files/framework/tcpip/src/crypto</Path>
+      </File>
+      <File>
+        <Name>aes_ecb.h</Name>
+        <Path>Header Files/framework/tcpip/src/crypto</Path>
+      </File>
+      <File>
+        <Name>sys_devcon_local.h</Name>
+        <Path>Header Files/framework/system/devcon/src</Path>
+      </File>
+      <File>
+        <Name>hash_fnv.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>drv_ethmac.h</Name>
+        <Path>Header Files/framework/driver/ethmac</Path>
+      </File>
+      <File>
+        <Name>lldp.h</Name>
+        <Path>Header Files/framework/tcpip</Path>
+      </File>
+      <File>
+        <Name>driver_common.h</Name>
+        <Path>Header Files/framework/driver</Path>
+      </File>
+      <File>
+        <Name>drv_extphy_smsc9303.h</Name>
+        <Path>Header Files/framework/driver/ethphy/src/dynamic</Path>
+      </File>
+      <File>
+        <Name>sys_tmr.c</Name>
+        <Path>Source Files/framework/system/tmr/src</Path>
+      </File>
+      <File>
+        <Name>tcp_manager.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>drv_ethmac.c</Name>
+        <Path>Source Files/framework/driver/ethmac</Path>
+      </File>
+      <File>
+        <Name>ddns_manager.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>ftp.h</Name>
+        <Path>Header Files/framework/tcpip</Path>
+      </File>
+      <File>
+        <Name>drv_ethmac_lib.c</Name>
+        <Path>Source Files/framework/driver/ethmac</Path>
+      </File>
+      <File>
+        <Name>drv_wifi.h</Name>
+        <Path>Header Files/framework/driver/wifi/mrf24w</Path>
+      </File>
+      <File>
+        <Name>dhcp_manager.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>http_net.h</Name>
+        <Path>Header Files/framework/tcpip</Path>
+      </File>
+      <File>
+        <Name>sntp.h</Name>
+        <Path>Header Files/framework/tcpip</Path>
+      </File>
+      <File>
+        <Name>tcpip_announce_manager.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>sys_clk.h</Name>
+        <Path>Header Files/framework/system/clk</Path>
+      </File>
+      <File>
+        <Name>dhcps.h</Name>
+        <Path>Header Files/framework/tcpip</Path>
+      </File>
+      <File>
+        <Name>dnss_private.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>tcpip_heap_internal.c</Name>
+        <Path>Source Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>aes_ctr.h</Name>
+        <Path>Header Files/framework/tcpip/src/crypto</Path>
+      </File>
+      <File>
+        <Name>drv_tmr.c</Name>
+        <Path>Source Files/framework/driver/tmr/src/dynamic</Path>
+      </File>
+      <File>
+        <Name>drv_extphy_smsc8740.h</Name>
+        <Path>Header Files/framework/driver/ethphy/src/dynamic</Path>
+      </File>
+      <File>
+        <Name>sys_int_private.h</Name>
+        <Path>Header Files/framework/system/int/src</Path>
+      </File>
+      <File>
+        <Name>iperf.h</Name>
+        <Path>Header Files/framework/tcpip</Path>
+      </File>
+      <File>
+        <Name>tcpip_ethernet.h</Name>
+        <Path>Header Files/framework/tcpip</Path>
+      </File>
+      <File>
+        <Name>zero_conf_manager.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>zero_conf_link_local_private.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>_eth_dcpt_lists.h</Name>
+        <Path>Header Files/framework/driver/ethmac/src/dynamic</Path>
+      </File>
+      <File>
+        <Name>drv_tmr_variant_mapping.h</Name>
+        <Path>Header Files/framework/driver/tmr/src</Path>
+      </File>
+      <File>
+        <Name>sntp_manager.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>drv_ethphy.h</Name>
+        <Path>Header Files/framework/driver/ethphy</Path>
+      </File>
+      <File>
+        <Name>http_net_manager.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>tftpc.h</Name>
+        <Path>Header Files/framework/tcpip</Path>
+      </File>
+      <File>
+        <Name>ftp_private.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>sys_ports.h</Name>
+        <Path>Header Files/framework/system/ports</Path>
+      </File>
+      <File>
+        <Name>dnss.h</Name>
+        <Path>Header Files/framework/tcpip</Path>
+      </File>
+      <File>
+        <Name>tcpip_reboot_manager.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>dhcpv6_manager.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>drv_ethmac_local.h</Name>
+        <Path>Header Files/framework/driver/ethmac/src</Path>
+      </File>
+      <File>
+        <Name>gfx_palette.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>dhcpv6_private.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>datastream.c</Name>
+        <Path>Source Files/framework/bootloader/datastream</Path>
+      </File>
+      <File>
+        <Name>ftp_manager.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>oahash.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>http_private.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>telnet_manager.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+      <File>
+        <Name>ipv6_private.h</Name>
+        <Path>Header Files/framework/tcpip/src</Path>
+      </File>
+    </Files>
+    <Templates>
+      <Template>
+        <Name>main.c</Name>
+        <Path>Source Files/app</Path>
+      </Template>
+      <Template>
+        <Name>sys_clk_static.c</Name>
+        <Path>Source Files/app/system_config/udp_pic32mz_ef_sk/framework/system/clk/src</Path>
+        <Checksum>4681B98AC85858FD3FFA130908EDA5D0</Checksum>
+        <ProjectFileChecksum>3C714454C92B4907874EC0B0BF175017</ProjectFileChecksum>
+      </Template>
+      <Template>
+        <Name>system_tasks.c</Name>
+        <Path>Source Files/app/system_config/udp_pic32mz_ef_sk</Path>
+        <Checksum>C70417937DEFAC0C5434D6D9128A3C1F</Checksum>
+        <ProjectFileChecksum>8903226057075824C9D9C5C3A77D9C69</ProjectFileChecksum>
+      </Template>
+      <Template>
+        <Name>system_definitions.h</Name>
+        <Path>Header Files/app/system_config/udp_pic32mz_ef_sk</Path>
+        <Checksum>19CEA883C386719BD6D3BD1A6FAAAE52</Checksum>
+        <ProjectFileChecksum>D1858F03A7994050F066AEF4FCA5CE12</ProjectFileChecksum>
+      </Template>
+      <Template>
+        <Name>system_interrupt.c</Name>
+        <Path>Source Files/app/system_config/udp_pic32mz_ef_sk</Path>
+        <Checksum>16AB9BA3A13C50FD7EA48A2CD0E11D18</Checksum>
+        <ProjectFileChecksum>E43B04115C593AB83B700289F587BEE5</ProjectFileChecksum>
+      </Template>
+      <Template>
+        <Name>sys_clk_static.h</Name>
+        <Path>Header Files/app/system_config/udp_pic32mz_ef_sk/framework/system/clk</Path>
+        <Checksum>B4BD59D8D7C4DA95DC5E3B57755FD352</Checksum>
+        <ProjectFileChecksum>548452E18562709CBE03B835778FE7F8</ProjectFileChecksum>
+      </Template>
+      <Template>
+        <Name>system_exceptions.c</Name>
+        <Path>Source Files/app/system_config/udp_pic32mz_ef_sk</Path>
+        <Checksum>C111969CA43D6CEA1E9E33A6164E7AE0</Checksum>
+        <ProjectFileChecksum>E0C91702A2576523AFBFD41F4CD6FAFE</ProjectFileChecksum>
+      </Template>
+      <Template>
+        <Name>app.c</Name>
+        <Path>Source Files/app</Path>
+      </Template>
+      <Template>
+        <Name>system_config.h</Name>
+        <Path>Header Files/app/system_config/udp_pic32mz_ef_sk</Path>
+        <Checksum>D7A468054620ABE9D76F2DA5515D2308</Checksum>
+        <ProjectFileChecksum>0280AA6CF5DB2DE9E3A9188CF6B7B3AB</ProjectFileChecksum>
+      </Template>
+      <Template>
+        <Name>app.h</Name>
+        <Path>Header Files/app</Path>
+      </Template>
+      <Template>
+        <Name>btl_mz.ld</Name>
+        <Path>Linker Files/system_config/udp_pic32mz_ef_sk</Path>
+        <Checksum>083C6BC395C0334A8E4BF7EAE2E1E722</Checksum>
+        <ProjectFileChecksum>888EFC4AD2F9F858D983015D3577C22C</ProjectFileChecksum>
+      </Template>
+      <Template>
+        <Name>sys_ports_static.c</Name>
+        <Path>Source Files/app/system_config/udp_pic32mz_ef_sk/framework/system/ports/src</Path>
+        <Checksum>66F7B3B81C76ED3C091C8991140A02F1</Checksum>
+        <ProjectFileChecksum>AE142F9CBE4D3794F7F70FF14F2E1C59</ProjectFileChecksum>
+      </Template>
+      <Template>
+        <Name>system_init.c</Name>
+        <Path>Source Files/app/system_config/udp_pic32mz_ef_sk</Path>
+        <Checksum>FDB226568DF958E389B545856D96649E</Checksum>
+        <ProjectFileChecksum>A4AEA122BB5958DD9AB43DFE339C64F3</ProjectFileChecksum>
+      </Template>
+    </Templates>
+    <CompilerItems>
+      <C32>
+        <Include value="C:/microchip/harmony/core_v1xx/apps/bootloader/basic/firmware/src"/>
+        <Include value="C:/microchip/harmony/core_v1xx/apps/bootloader/basic/firmware/src/system_config/udp_pic32mz_ef_sk"/>
+        <Include value="C:/microchip/harmony/core_v1xx/apps/bootloader/basic/firmware/src/udp_pic32mz_ef_sk"/>
+        <Include value="C:/microchip/harmony/core_v1xx/framework"/>
+        <Include value="C:/microchip/harmony/core_v1xx/apps/bootloader/basic/firmware/src/system_config/udp_pic32mz_ef_sk/framework"/>
+        <Include value="../../../../../bsp/pic32mz_ef_sk"/>
+      </C32>
+    </CompilerItems>
+    <Libraries>
+      <Library value="../../../../../bin/framework/peripheral/PIC32MZ2048EFH144_peripherals.a"/>
+    </Libraries>
+  </Manifest>
+</configuration>

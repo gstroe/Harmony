@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration version="1.0.9.2">
+  <DisplayManager>
+    <SystemInitScript/>
+    <SystemStartScript/>
+  </DisplayManager>
+  <General>
+    <HarmonyPath path="../../../.."/>
+    <Processor name=""/>
+    <ForceOptimization flag="true"/>
+    <MergeStrategy flag="USER_ALL"/>
+  </General>
+  <Manifest>
+    <Files>
+      <File>
+        <Name>osal_impl_basic.h</Name>
+        <Path>Header Files/framework/osal/src</Path>
+      </File>
+      <File>
+        <Name>peripheral_common_32bit.h</Name>
+        <Path>Header Files/framework/peripheral</Path>
+      </File>
+      <File>
+        <Name>sys_devcon.c</Name>
+        <Path>Source Files/framework/system/devcon/src</Path>
+      </File>
+      <File>
+        <Name>OSCHIP.h</Name>
+        <Path>Header Files/embOS</Path>
+      </File>
+      <File>
+        <Name>osal.h</Name>
+        <Path>Header Files/framework/osal</Path>
+      </File>
+      <File>
+        <Name>bsp_config.h</Name>
+        <Path>Header Files/bsp/pic32mx_usb_sk2</Path>
+      </File>
+      <File>
+        <Name>sys_ports.h</Name>
+        <Path>Header Files/framework/system/ports</Path>
+      </File>
+      <File>
+        <Name>bsp_sys_init.c</Name>
+        <Path>Source Files/bsp/pic32mx_usb_sk2</Path>
+      </File>
+      <File>
+        <Name>peripheral_common.h</Name>
+        <Path>Header Files/framework/peripheral</Path>
+      </File>
+      <File>
+        <Name>sys_common.h</Name>
+        <Path>Header Files/framework/system/common</Path>
+      </File>
+      <File>
+        <Name>sys_buffer.h</Name>
+        <Path>Header Files/framework/system/common</Path>
+      </File>
+      <File>
+        <Name>sys_int_pic32.c</Name>
+        <Path>Source Files/framework/system/int/src</Path>
+      </File>
+      <File>
+        <Name>osal_embos.c</Name>
+        <Path>Source Files/framework/osal/src</Path>
+      </File>
+      <File>
+        <Name>sys_clk.h</Name>
+        <Path>Header Files/framework/system/clk</Path>
+      </File>
+      <File>
+        <Name>OS_Priv.h</Name>
+        <Path>Header Files/embOS</Path>
+      </File>
+      <File>
+        <Name>osal_impl_none.h</Name>
+        <Path>Header Files/framework/osal/src</Path>
+      </File>
+      <File>
+        <Name>sys_clk_mapping.h</Name>
+        <Path>Header Files/framework/system/clk</Path>
+      </File>
+      <File>
+        <Name>osal_definitions.h</Name>
+        <Path>Header Files/framework/osal</Path>
+      </File>
+      <File>
+        <Name>sys_int_mapping.h</Name>
+        <Path>Header Files/framework/system/int</Path>
+      </File>
+      <File>
+        <Name>gfx_palette.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>sys_int_private.h</Name>
+        <Path>Header Files/framework/system/int/src</Path>
+      </File>
+      <File>
+        <Name>sys_devcon.h</Name>
+        <Path>Header Files/framework/system/devcon</Path>
+      </File>
+      <File>
+        <Name>system.h</Name>
+        <Path>Header Files/framework/system</Path>
+      </File>
+      <File>
+        <Name>OSInt.h</Name>
+        <Path>Header Files/embOS</Path>
+      </File>
+      <File>
+        <Name>sys_debug.h</Name>
+        <Path>Header Files/framework/system/debug</Path>
+      </File>
+      <File>
+        <Name>osal_embos.h</Name>
+        <Path>Header Files/framework/osal/src</Path>
+      </File>
+      <File>
+        <Name>sys_module.h</Name>
+        <Path>Header Files/framework/system/common</Path>
+      </File>
+      <File>
+        <Name>sys_devcon_pic32mx.c</Name>
+        <Path>Source Files/framework/system/devcon/src</Path>
+      </File>
+      <File>
+        <Name>sys_devcon_local.h</Name>
+        <Path>Header Files/framework/system/devcon/src</Path>
+      </File>
+      <File>
+        <Name>peripheral.h</Name>
+        <Path>Header Files/framework/peripheral</Path>
+      </File>
+      <File>
+        <Name>sys_queue.h</Name>
+        <Path>Header Files/framework/system/common</Path>
+      </File>
+      <File>
+        <Name>sys_int.h</Name>
+        <Path>Header Files/framework/system/int</Path>
+      </File>
+    </Files>
+    <Templates>
+      <Template>
+        <Name>system_exceptions.c</Name>
+        <Path>Source Files/app/system_config/pic32mx_usb_sk2_mips16</Path>
+        <Checksum>C111969CA43D6CEA1E9E33A6164E7AE0</Checksum>
+      </Template>
+      <Template>
+        <Name>main.c</Name>
+        <Path>Source Files/app</Path>
+      </Template>
+      <Template>
+        <Name>system_tasks.c</Name>
+        <Path>Source Files/app/system_config/pic32mx_usb_sk2_mips16</Path>
+        <Checksum>EFA5A59C52E964562280B35FC4C85CB5</Checksum>
+      </Template>
+      <Template>
+        <Name>sys_ports_static.c</Name>
+        <Path>Source Files/app/system_config/pic32mx_usb_sk2_mips16/framework/system/ports/src</Path>
+        <Checksum>BD5D9BDDD9262C8D616C515AD5C5D1E6</Checksum>
+      </Template>
+      <Template>
+        <Name>system_interrupt.c</Name>
+        <Path>Source Files/app/system_config/pic32mx_usb_sk2_mips16</Path>
+        <Checksum>C934CFD980878E57EE336D976F540A07</Checksum>
+      </Template>
+      <Template>
+        <Name>OS_Error.c</Name>
+        <Path>Source Files/app/rtos_config/pic32mx_usb_sk2_mips16</Path>
+        <Checksum>B90C38D0534E50ED1F12503829C27C7F</Checksum>
+      </Template>
+      <Template>
+        <Name>rtos_hooks.c</Name>
+        <Path>Source Files/app/system_config/pic32mx_usb_sk2_mips16</Path>
+        <Checksum>EABABE6F6504F002BE5D5D186F6DB9FA</Checksum>
+      </Template>
+      <Template>
+        <Name>app.c</Name>
+        <Path>Source Files/app</Path>
+      </Template>
+      <Template>
+        <Name>sys_clk_static.c</Name>
+        <Path>Source Files/app/system_config/pic32mx_usb_sk2_mips16/framework/system/clk/src</Path>
+        <Checksum>E8C935BED4628875A8C3428DDD07355C</Checksum>
+      </Template>
+      <Template>
+        <Name>RTOSInit.c</Name>
+        <Path>Source Files/app/rtos_config/pic32mx_usb_sk2_mips16</Path>
+        <Checksum>15F409CC0B594731EF19E3F08888FB0A</Checksum>
+      </Template>
+      <Template>
+        <Name>RTOS.h</Name>
+        <Path>Header Files/app/rtos_config/pic32mx_usb_sk2_mips16</Path>
+        <Checksum>5EE013B210F5F61A0B5DE6B377A3C32A</Checksum>
+      </Template>
+      <Template>
+        <Name>system_init.c</Name>
+        <Path>Source Files/app/system_config/pic32mx_usb_sk2_mips16</Path>
+        <Checksum>5750C90842873755BF8D955E26893C8D</Checksum>
+      </Template>
+      <Template>
+        <Name>system_config.h</Name>
+        <Path>Header Files/app/system_config/pic32mx_usb_sk2_mips16</Path>
+        <Checksum>DF37C4C44099514B65686537E4EFD290</Checksum>
+      </Template>
+      <Template>
+        <Name>app.h</Name>
+        <Path>Header Files/app</Path>
+      </Template>
+      <Template>
+        <Name>sys_clk_static.h</Name>
+        <Path>Header Files/app/system_config/pic32mx_usb_sk2_mips16/framework/system/clk</Path>
+        <Checksum>B4BD59D8D7C4DA95DC5E3B57755FD352</Checksum>
+      </Template>
+      <Template>
+        <Name>system_definitions.h</Name>
+        <Path>Header Files/app/system_config/pic32mx_usb_sk2_mips16</Path>
+        <Checksum>DBEB0754128518EED6C16904F3E85E5D</Checksum>
+      </Template>
+      <Template>
+        <Name>system_interrupt_a.S</Name>
+        <Path>Source Files/app/system_config/pic32mx_usb_sk2_mips16</Path>
+        <Checksum>1CA736C3B840FBA2764EFAC0581B040F</Checksum>
+      </Template>
+    </Templates>
+    <CompilerItems>
+      <C32>
+        <Include value="F:\GITRTOS1xx\rtos\apps\rtos\embos\basic\firmware\src"/>
+        <Include value="F:\GITRTOS1xx\rtos\apps\rtos\embos\basic\firmware\src\system_config\pic32mx_usb_sk2_mips16"/>
+        <Include value="F:\GITRTOS1xx\rtos\apps\rtos\embos\basic\firmware\src\pic32mx_usb_sk2_mips16"/>
+        <Include value="F:\GITRTOS1xx\rtos\framework"/>
+        <Include value="F:\GITRTOS1xx\rtos\apps\rtos\embos\basic\firmware\src\system_config\pic32mx_usb_sk2_mips16\framework"/>
+        <Include value="../../../../../../bsp/pic32mx_usb_sk2"/>
+        <Define value="OS_LIBMODE_D"/>
+        <Include value="../../../../../../third_party/rtos/embOS/GenOSSrc"/>
+        <Include value="../../../../../../third_party/rtos/embOS/CPU"/>
+        <Include value="../src/rtos_config/pic32mx_usb_sk2_mips16"/>
+      </C32>
+    </CompilerItems>
+    <Libraries>
+      <Library value="../../../../../../third_party/rtos/embOS/Start/Lib/RtosMips32D.a"/>
+      <Library value="../../../../../../bin/framework/peripheral/16bit/PIC32MX795F512L_peripherals.a"/>
+    </Libraries>
+  </Manifest>
+</configuration>

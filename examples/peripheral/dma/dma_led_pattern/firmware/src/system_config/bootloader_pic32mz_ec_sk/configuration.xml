@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration version="1.0.8.7">
+  <Designer>
+    <Assets>
+      <Settings bpp="16">
+        <MemoryLocations>
+          <MemoryLocation address="0" id="default"/>
+        </MemoryLocations>
+      </Settings>
+    </Assets>
+    <Screens height="200" width="320">
+      <Screen active="true" background="000000" clearOnShow="true" export="true" name="Untitled" primary="true" visible="true">
+        <Objects/>
+      </Screen>
+    </Screens>
+    <Schemes defaultSchemeName="default">
+      <Scheme name="default">
+        <Alpha>100</Alpha>
+        <BackgroundOffset>0,0</BackgroundOffset>
+        <EmbossSize>3</EmbossSize>
+        <Colors>
+          <Primary>FFFFFF</Primary>
+          <Secondary>404040</Secondary>
+          <Disabled>C0C0C0</Disabled>
+          <Background>000000</Background>
+          <EmbossLight>C0C0C0</EmbossLight>
+          <EmbossDark>404040</EmbossDark>
+          <TextPrimary>000000</TextPrimary>
+          <TextSecondary>FFFFFF</TextSecondary>
+          <TextDisabled>404040</TextDisabled>
+          <GradientStart>000000</GradientStart>
+          <GradientEnd>FFFFFF</GradientEnd>
+        </Colors>
+        <FillStyle>Color</FillStyle>
+        <BackgroundType>None</BackgroundType>
+      </Scheme>
+    </Schemes>
+  </Designer>
+  <General>
+    <HarmonyPath path="../../../../.."/>
+    <Processor name="PIC32MZ2048ECM144"/>
+    <ForceOptimization flag="true"/>
+    <MergeStrategy flag="ALL"/>
+  </General>
+  <Manifest>
+    <Files>
+      <File>
+        <Name>osal_impl_basic.h</Name>
+        <Path>Header Files/framework/osal/src</Path>
+      </File>
+      <File>
+        <Name>peripheral_common_32bit.h</Name>
+        <Path>Header Files/framework/peripheral</Path>
+      </File>
+      <File>
+        <Name>drv_tmr_mapping.h</Name>
+        <Path>Header Files/framework/driver/tmr</Path>
+      </File>
+      <File>
+        <Name>drv_tmr_variant_mapping.h</Name>
+        <Path>Header Files/framework/driver/tmr/src</Path>
+      </File>
+      <File>
+        <Name>drv_tmr.h</Name>
+        <Path>Header Files/framework/driver/tmr</Path>
+      </File>
+      <File>
+        <Name>sys_devcon.c</Name>
+        <Path>Source Files/framework/system/devcon/src</Path>
+      </File>
+      <File>
+        <Name>osal.h</Name>
+        <Path>Header Files/framework/osal</Path>
+      </File>
+      <File>
+        <Name>sys_ports.h</Name>
+        <Path>Header Files/framework/system/ports</Path>
+      </File>
+      <File>
+        <Name>peripheral_common.h</Name>
+        <Path>Header Files/framework/peripheral</Path>
+      </File>
+      <File>
+        <Name>sys_common.h</Name>
+        <Path>Header Files/framework/system/common</Path>
+      </File>
+      <File>
+        <Name>sys_buffer.h</Name>
+        <Path>Header Files/framework/system/common</Path>
+      </File>
+      <File>
+        <Name>sys_int_pic32.c</Name>
+        <Path>Source Files/framework/system/int/src</Path>
+      </File>
+      <File>
+        <Name>sys_clk.h</Name>
+        <Path>Header Files/framework/system/clk</Path>
+      </File>
+      <File>
+        <Name>osal_impl_none.h</Name>
+        <Path>Header Files/framework/osal/src</Path>
+      </File>
+      <File>
+        <Name>bsp_sys_init.c</Name>
+        <Path>Source Files/bsp/pic32mz_ec_sk</Path>
+      </File>
+      <File>
+        <Name>sys_clk_mapping.h</Name>
+        <Path>Header Files/framework/system/clk</Path>
+      </File>
+      <File>
+        <Name>sys_devcon_cache_pic32mz.S</Name>
+        <Path>Source Files/framework/system/devcon/src</Path>
+      </File>
+      <File>
+        <Name>osal_definitions.h</Name>
+        <Path>Header Files/framework/osal</Path>
+      </File>
+      <File>
+        <Name>sys_int_mapping.h</Name>
+        <Path>Header Files/framework/system/int</Path>
+      </File>
+      <File>
+        <Name>gfx_palette.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>sys_int_private.h</Name>
+        <Path>Header Files/framework/system/int/src</Path>
+      </File>
+      <File>
+        <Name>sys_devcon.h</Name>
+        <Path>Header Files/framework/system/devcon</Path>
+      </File>
+      <File>
+        <Name>system.h</Name>
+        <Path>Header Files/framework/system</Path>
+      </File>
+      <File>
+        <Name>sys_debug.h</Name>
+        <Path>Header Files/framework/system/debug</Path>
+      </File>
+      <File>
+        <Name>sys_module.h</Name>
+        <Path>Header Files/framework/system/common</Path>
+      </File>
+      <File>
+        <Name>sys_devcon_pic32mz.c</Name>
+        <Path>Source Files/framework/system/devcon/src</Path>
+      </File>
+      <File>
+        <Name>sys_devcon_local.h</Name>
+        <Path>Header Files/framework/system/devcon/src</Path>
+      </File>
+      <File>
+        <Name>peripheral.h</Name>
+        <Path>Header Files/framework/peripheral</Path>
+      </File>
+      <File>
+        <Name>sys_queue.h</Name>
+        <Path>Header Files/framework/system/common</Path>
+      </File>
+      <File>
+        <Name>sys_int.h</Name>
+        <Path>Header Files/framework/system/int</Path>
+      </File>
+      <File>
+        <Name>bsp_config.h</Name>
+        <Path>Header Files/bsp/pic32mz_ec_sk</Path>
+      </File>
+    </Files>
+    <Templates>
+      <Template>
+        <Name>drv_tmr_mapping.c</Name>
+        <Path>Source Files/app/system_config/bootloader_pic32mz_ec_sk/framework/driver/tmr/src</Path>
+        <Checksum>0651845480D5D3E21D8BF17EE68DBEAC</Checksum>
+        <ProjectFileChecksum>339F8DA9EAC95470AC7EE75510A396BA</ProjectFileChecksum>
+      </Template>
+      <Template>
+        <Name>main.c</Name>
+        <Path>Source Files/app</Path>
+      </Template>
+      <Template>
+        <Name>system_tasks.c</Name>
+        <Path>Source Files/app/system_config/bootloader_pic32mz_ec_sk</Path>
+        <Checksum>92208AA30C3C19AFF9797DE386E1F2E6</Checksum>
+        <ProjectFileChecksum>164B4FA1DE8506793CC6D74080AF258F</ProjectFileChecksum>
+      </Template>
+      <Template>
+        <Name>system_init.c</Name>
+        <Path>Source Files/app/system_config/bootloader_pic32mz_ec_sk</Path>
+        <Checksum>A695714344E4F2E662E453E09757C3AA</Checksum>
+        <ProjectFileChecksum>DA88FD1022E2265D25FF6A5FB6B01FD1</ProjectFileChecksum>
+      </Template>
+      <Template>
+        <Name>app.c</Name>
+        <Path>Source Files/app</Path>
+      </Template>
+      <Template>
+        <Name>sys_ports_static.c</Name>
+        <Path>Source Files/app/system_config/bootloader_pic32mz_ec_sk/framework/system/ports/src</Path>
+        <Checksum>2841C939DFE5850226FA26F0A89D65B6</Checksum>
+        <ProjectFileChecksum>2D185F8203F0F2F76650799F84CBBBF4</ProjectFileChecksum>
+      </Template>
+      <Template>
+        <Name>app_mz.ld</Name>
+        <Path>Linker Files/system_config/bootloader_pic32mz_ec_sk</Path>
+        <Checksum>24A421DD2CE5F8F855884D2EFB33878E</Checksum>
+        <ProjectFileChecksum>FFEDCD07A1A7DA808E56EE7341D08F52</ProjectFileChecksum>
+      </Template>
+      <Template>
+        <Name>system_config.h</Name>
+        <Path>Header Files/app/system_config/bootloader_pic32mz_ec_sk</Path>
+        <Checksum>440F09821953C24712E9506B24BD35F5</Checksum>
+        <ProjectFileChecksum>85624C2810606EE7D2DC762FA1D6F235</ProjectFileChecksum>
+      </Template>
+      <Template>
+        <Name>sys_dma_static.h</Name>
+        <Path>Header Files/app/system_config/bootloader_pic32mz_ec_sk/framework/system/dma</Path>
+        <Checksum>0CE14BBEB78DCA8EA4AE6AABF57ACD8D</Checksum>
+        <ProjectFileChecksum>CCDF288E91CD8D0C44FE6ED0C1D6DD9A</ProjectFileChecksum>
+      </Template>
+      <Template>
+        <Name>system_interrupt.c</Name>
+        <Path>Source Files/app/system_config/bootloader_pic32mz_ec_sk</Path>
+        <Checksum>5C78ADB9E111EB575EE8397B8E69456D</Checksum>
+        <ProjectFileChecksum>19933AC51AC848A2BD6ED4F35FA54E0E</ProjectFileChecksum>
+      </Template>
+      <Template>
+        <Name>sys_dma_static.c</Name>
+        <Path>Source Files/app/system_config/bootloader_pic32mz_ec_sk/framework/system/dma/src</Path>
+        <Checksum>362AAFD6B4E54947B310223CE9C0F437</Checksum>
+        <ProjectFileChecksum>E0E1E9C437E5241E6E3FABACB1DAD454</ProjectFileChecksum>
+      </Template>
+      <Template>
+        <Name>system_exceptions.c</Name>
+        <Path>Source Files/app/system_config/bootloader_pic32mz_ec_sk</Path>
+        <Checksum>C111969CA43D6CEA1E9E33A6164E7AE0</Checksum>
+        <ProjectFileChecksum>224616BED4DC995FEBCF2422E1C97455</ProjectFileChecksum>
+      </Template>
+      <Template>
+        <Name>drv_tmr_static.c</Name>
+        <Path>Source Files/app/system_config/bootloader_pic32mz_ec_sk/framework/driver/tmr/src</Path>
+        <Checksum>860C28D90E6792E8A151872ACDCF3CC9</Checksum>
+        <ProjectFileChecksum>42C45C15A9766FAD21E8A983546689A2</ProjectFileChecksum>
+      </Template>
+      <Template>
+        <Name>sys_clk_static.h</Name>
+        <Path>Header Files/app/system_config/bootloader_pic32mz_ec_sk/framework/system/clk</Path>
+        <Checksum>B4BD59D8D7C4DA95DC5E3B57755FD352</Checksum>
+        <ProjectFileChecksum>01E88FFE71FB5BE9E922FE5CB1D97D70</ProjectFileChecksum>
+      </Template>
+      <Template>
+        <Name>system_definitions.h</Name>
+        <Path>Header Files/app/system_config/bootloader_pic32mz_ec_sk</Path>
+        <Checksum>DCE363E63CF72550E46F93A99805E187</Checksum>
+        <ProjectFileChecksum>1B7C7F24FD95A990D51405FD615A7D95</ProjectFileChecksum>
+      </Template>
+      <Template>
+        <Name>drv_tmr_static.h</Name>
+        <Path>Header Files/app/system_config/bootloader_pic32mz_ec_sk/framework/driver/tmr</Path>
+        <Checksum>32B8EFE3BEEDAE68AB64FB82D2B04AD5</Checksum>
+        <ProjectFileChecksum>9813074FA75FB0258E01613F91B2736A</ProjectFileChecksum>
+      </Template>
+      <Template>
+        <Name>app.h</Name>
+        <Path>Header Files/app</Path>
+      </Template>
+      <Template>
+        <Name>sys_clk_static.c</Name>
+        <Path>Source Files/app/system_config/bootloader_pic32mz_ec_sk/framework/system/clk/src</Path>
+        <Checksum>074329165110B2984FF7D413257D5014</Checksum>
+        <ProjectFileChecksum>1DBE21311094564D2BE73241D7980270</ProjectFileChecksum>
+      </Template>
+    </Templates>
+    <CompilerItems>
+      <C32>
+        <Include value="C:/microchip/harmony/core_v1xx/apps/examples/peripheral/dma/dma_led_pattern/firmware/src"/>
+        <Include value="C:/microchip/harmony/core_v1xx/apps/examples/peripheral/dma/dma_led_pattern/firmware/src/system_config/bootloader_pic32mz_ec_sk"/>
+        <Include value="C:/microchip/harmony/core_v1xx/apps/examples/peripheral/dma/dma_led_pattern/firmware/src/bootloader_pic32mz_ec_sk"/>
+        <Include value="C:/microchip/harmony/core_v1xx/framework"/>
+        <Include value="C:/microchip/harmony/core_v1xx/apps/examples/peripheral/dma/dma_led_pattern/firmware/src/system_config/bootloader_pic32mz_ec_sk/framework"/>
+        <Include value="../../../../../../../bsp/pic32mz_ec_sk"/>
+      </C32>
+    </CompilerItems>
+    <Libraries>
+      <Library value="../../../../../../../bin/framework/peripheral/PIC32MZ2048ECM144_peripherals.a"/>
+    </Libraries>
+  </Manifest>
+</configuration>

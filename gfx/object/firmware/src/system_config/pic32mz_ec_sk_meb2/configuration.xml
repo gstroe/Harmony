@@ -1,0 +1,2386 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration version="1.0.8.7">
+  <Designer>
+    <Assets>
+      <Settings bpp="16" encoding="ASCII">
+        <MemoryLocations>
+          <MemoryLocation address="0" id="default"/>
+        </MemoryLocations>
+      </Settings>
+      <Font antialiasing="false" bold="false" compress="false" extendedGlyph="false" fileName="Times New Roman" italic="false" location="internal" name="Times_New_Roman" size="16">
+        <Ranges>
+          <Range end="127" name="range" start="32"/>
+        </Ranges>
+      </Font>
+      <Image compress="false" fileName="mchpIcon0.bmp" height="32" location="internal" name="mchpIcon0" width="32">Qk2+AAAAAAAAAD4AAAAoAAAAIAAAACAAAAABAAEAAAAAAIAAAAAAAAAAAAAAAAAAAAACAAAAAAD//////////D///8AD//8AAP/+AAB/+AAAH/AAAA/8AAA//gGAP/4DwH//A+D//4fg///H8f//j/P/P5/j/B8/5/weP8f4Dn/P8QT/n/EA/x/jgf8/x4H+P8eA/j+PwHwfn8B4Dx/gOA4/8AAAf/AAAH/4AAD//gAB//8AAf//wAP///w//w==</Image>
+      <Image compress="false" fileName="bulboff.bmp" height="44" location="internal" name="bulboff" width="120">Qk3GCgAAAAAAAHYAAAAoAAAAeAAAACwAAAABAAQAAAAAAFAKAAAAAAAAAAAAAAAAAAAQAAAAhoJ//+jk4f9mXVT/qaWh/9fTz//Avbr/STMc/8KOTv/XrXn/58eg//Lcwf/15tT/+vPq////////////AAAA/93d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3dFFVEHd3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3cMmZmZmZiPN3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3dwGYniZmpmHZgHd3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3TZnmZmZmZqqqCY83d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d0mKZiIiJiZmqq6hmPd3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3cZomHeIiImZqaq7qoZjHd3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3GaYd3eImZmpmqq7y7qCYE3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3dwmiHd4mrvMzMy6urvMy6kmI83d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3dBoh3iqu7vLzMzMu7vMzcupgmI0HN3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3UZ4d5u7u7u8zMzMzMvMzN3cu5MmJiDB3R3R3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3WaXerqqu7u7zMzMzMzMzN3d3MzBRFJmImImLd3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d1Wh3qqq7u7u8zMzMzMzMzc3d3d3d3dE1IjIgY93d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d0ml5qqq6u7vLxFTMzMzM3N3d3d3d3dxFUzMAJl3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3dFneaqqqru7u8RBVVTMzMzN3d3d3d3dxVMzAAAmXN3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3dNoiqqqq6u7u8TMzBVVHM3N3d3d3d3d1FAzAAAGYN3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3dBpmqqquru7u8S8zMzBVUHd3d3d3d3dxFAzIAACZj3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3dZ4mqqqqru7u8RBREzMzBVUEwNMEwIiBVIzIAACZg3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3cYpqqqqq6u7u1VTVEMczM3BUiIgIiIiI1IDIgACZj3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3RZ5qqqqqru7tUzBRVS8zMzdUgICIiIiJVYzIgACZj3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3RZ6qqqqq6u7SszMzMzMzM3NMgIiIiIiJVIDIgACZj3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3cZ5qqqqqru7tbzBVLzMzMzdUgIiIiIiI1YDIgACZg3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3cZ5qqqqq6u7tFRVRUzMzM0UMiIAAiIiI1YFYgACZj3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3dYpmqqquru7vLVUVMzMwUVRxTUd1TAANVYDIgACZj3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3dBpmqqqqrq7u8TMzMwUVUzd3d3d3d3d1FYDYgACZj3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3dVomqqqq7u7vLTMwUVUzNzd3d3d3d3d1FYDIgAGYM3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3dFniaqqq6u7u8FUVUvMzM3N3d3d3d3dxFIzIAAmXd3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d0mmKqqqru7u8wUHMzMzMzc3d3d3d3dxFMzAAJl3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d1Wd4qqqqu7u7zMzMzMzMzN3d3d3d3dE1IjIgY93d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3SaXiqq7u7vMzMzMzMzMzd3d3MyxRDJmAmImLd3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3UZ4eKq6u7u7zMzMzMzMzN3bupAmJiPE3U3U3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3dBoh3mru7u8zMzMzLvM3MupcmBUzN3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d0miHeJq7y8zMzLu7vMuqgmJd3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3CaJd3iJmquqqqqrvKqCYB3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3cJnmHh4iJiZmaq7qYZj3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d0GKZiIiImZmquqhmXd3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3VZiipmZmaqqmGZd3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d02ZniJmZhyZjzd3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3dQCZmZmYgXd3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3dxEREzd3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3Q==</Image>
+      <Image compress="false" fileName="bulbon.bmp" height="44" location="internal" name="bulbon" width="120">Qk3GCgAAAAAAAHYAAAAoAAAAeAAAACwAAAABAAQAAAAAAFAKAAAAAAAAAAAAAAAAAAAQAAAAJikm/0dgW/9+ioj/ceHg/7b8+/8B/f3/BtLS/yj+/f9b/v7/i/v7/9b///++2dn//////7Ozs///////AAAA/8zMzMzMzMzMzMzMzMzMzMzMzMzMzMqklJmZREqszMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMykmIh3d3d4iUqszMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMyqmId1d3h3d3d3lKzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMpId3eESktLRDd3d4SszMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMyql3eJQzZmZmYztId3eazMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMxId4STZlVVVVVmYjSHd4qszMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzKSHeUhlVVVVVVVVVmLZh3hMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMykhXqWVVVVVVVVVVVVZi2YWEzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMxIeKNVVVVVVVVVVVVVVWYtSITMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMqXeoVVVVVVd3dVVVVVVVVmHUSszMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzKl3qFVVVXiJiYiId1VVVVVVZhK6zMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzEh5lVVVeZmZmIiIeHd1VVVVVVYRK7rMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMypd6VVV4REmZiYiIh3d3VVVVVVVWYRER3KzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMxIdIVVeUSZmZmIiIeId3dVVVVVVVVVVmEBIgIQLMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMqXhFVXRElJmZiZmZh3d3d1VVVVVVVVVVUtASASDczMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMqHmFV0RESZlEqqSZmYd3dXVVVVVVVVVVU93dIiELzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMR3RVWaRJSUqqqqSZM5l3d1VVVVVVVVVVU90tIiIAvMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMl4RVekRERKqqpKRKRDM2d3VVVVVVVVVVW9LdEiIgAszMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzKl5lVmkRESqqqqqlKSkRDdldVVVVVVVVVU9ItIiIhANzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzKh5hXSkREqqqqqqSUSURER2VlVlVVVWVlY9LdEiIhECzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzKhUdYpERKqqqqqpMzmZOUSVdVVmZlZmZmY9EtESIhACzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzEh0dYqkSqyqqqqZRJMzNERHVVVmZmZmZma9EtEiIhANzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzKh0dZpESqqqqqRKqqRERERDVVZmZmZmZmY9AtESIhACzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzEh0dZpETKyqqqSapEmURERJdVVmZmZmZmY9EtASIhECzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzKh0dYpESqqqqqqTSTk5REREdVZmZmZmZmY9AtESIhACzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzKh5hXpErKyqqqqkM5mURERJdlVWZVVlZma9AtESIhANzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzKl5hVSkqqqqqqpKRERERJMzdVVVVVVVVVU9AtASIhACzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMl4RVlEqqyqqqqqlKRJMzlEdVVVVVVVVVU9AtESIhAczMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMSHRVdETKqqqqqqSZMzlEREdVVVVVVVVVU9EtESIQ3MzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMqHmFWKSsqqqqqkpJRKREREVVVVVVVVVVU93dIiECzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMqXhFVZSqqqqqpKpKRERERIVVVVVVVVVVU9EdESAszMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMxIdHVVmqyqqqqqSkSkRERHVVVVVVVlVWEBEQEQHMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMypeKVVWKqqqqqkpKRERESFVVVVVWZhERK9zNzNzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzKh5lVVXrKqqqqpKRERElVVVVVZhLbuszMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzKl3qFVVdKqqqqSkREREdVVVVhLazMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMqXinVVV5REREpERESXVVVWErrMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMxIeKhVVXhERElJREhVVWYdSZTMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzEh4o1VVV5lEREmHVVVi1IeEzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMSHdEZVVVV3d3VVVmE0h3hMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMxId4qWZVVVVVVmZtSXd5TMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzKmFeUQ2ZmZmZjtJd3iazMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMpJdXiUS0u7RJh3d5SszMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzKSYd1eIiId1d4lKzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMykmYh3d3eImUrMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzMzA==</Image>
+      <Image compress="false" fileName="mchpIcon.bmp" height="32" location="internal" name="mchpIcon" width="32">Qk2+AAAAAAAAAD4AAAAoAAAAIAAAACAAAAABAAEAAAAAAIAAAAAAAAAAAAAAAAAAAAACAAAAAAD//+/bqf///D///8AD//8AAP/+AAB/+AAAH/AAAA/8AAA//gGAP/4DwH//A+D//4fg///H8f//j/P/P5/j/B8/5/weP8f4Dn/P8QT/n/EA/x/jgf8/x4H+P8eA/j+PwHwfn8B4Dx/gOA4/8AAAf/AAAH/4AAD//gAB//8AAf//wAP///w//w==</Image>
+      <Font antialiasing="false" bold="false" compress="false" extendedGlyph="false" fileName="Comic Sans MS" italic="false" location="internal" name="Comic_Sans_MS" size="11">
+        <Ranges>
+          <Range end="127" name="range" start="32"/>
+        </Ranges>
+      </Font>
+      <Font antialiasing="false" bold="true" compress="false" extendedGlyph="false" fileName="Bookman Old Style" italic="false" location="internal" name="Bookman_Old_Style" size="14">
+        <Ranges>
+          <Range end="127" name="range" start="32"/>
+        </Ranges>
+      </Font>
+    </Assets>
+    <Screens height="272" width="480">
+      <Screen active="false" background="000000" clearOnShow="true" doubleBuffer="false" export="true" name="ButtonScreen" primary="true" visible="true">
+        <Objects>
+          <Widget type="ButtonWidget">
+            <Name>Button10</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>0</ZOrder>
+            <Position>404,236</Position>
+            <Size>75,31</Size>
+            <Scheme>default</Scheme>
+            <Text>Next</Text>
+            <HAlignment>Center</HAlignment>
+            <VAlignment>Center</VAlignment>
+            <Button_Type>Default</Button_Type>
+            <Radius>10</Radius>
+            <Pressed>false</Pressed>
+            <Toggle>false</Toggle>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_PRESSED" pretty_name="Pressed"/>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_STILLPRESSED" pretty_name="Still Pressed"/>
+              <Event enabled="true" name="GFX_GOL_BUTTON_ACTION_RELEASED" pretty_name="Released">
+                <Actions count="1">
+                  <Action name="Action" type="template" valid="true">
+                    <Target screen="true" type="">EditBoxScreen</Target>
+                    <Screen>EditBoxScreen</Screen>
+                    <Action>Activate Screen</Action>
+                  </Action>
+                </Actions>
+              </Event>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_CANCELPRESS" pretty_name="Cancel Press"/>
+            </Events>
+          </Widget>
+          <Widget type="ButtonWidget">
+            <Name>Button25</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>1</ZOrder>
+            <Position>327,157</Position>
+            <Size>60,60</Size>
+            <Scheme>buttons</Scheme>
+            <Text>Off</Text>
+            <HAlignment>Center</HAlignment>
+            <VAlignment>Center</VAlignment>
+            <Button_Type>Default</Button_Type>
+            <Radius>30</Radius>
+            <Pressed>false</Pressed>
+            <Toggle>false</Toggle>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_PRESSED" pretty_name="Pressed"/>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_STILLPRESSED" pretty_name="Still Pressed"/>
+              <Event enabled="true" name="GFX_GOL_BUTTON_ACTION_RELEASED" pretty_name="Released">
+                <Actions count="1">
+                  <Action name="CustomAction" type="custom">
+                    <Text>
+                      GFX_GOL_ObjectStateSet(pObj,GFX_GOL_BUTTON_DISABLED_STATE|GFX_GOL_BUTTON_DRAW_STATE);&#13;
+                      GFX_GOL_ObjectStateClear(GFX_GOL_ObjectFind(GFX_INDEX_0,Button24),GFX_GOL_BUTTON_DISABLED_STATE);&#13;
+                      GFX_GOL_ObjectStateSet(GFX_GOL_ObjectFind(GFX_INDEX_0,Button24),GFX_GOL_BUTTON_DRAW_STATE);
+                    </Text>
+                  </Action>
+                </Actions>
+              </Event>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_CANCELPRESS" pretty_name="Cancel Press"/>
+            </Events>
+          </Widget>
+          <Widget type="ButtonWidget">
+            <Name>Button24</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>2</ZOrder>
+            <Position>245,158</Position>
+            <Size>60,60</Size>
+            <Scheme>buttons</Scheme>
+            <Text>On</Text>
+            <HAlignment>Center</HAlignment>
+            <VAlignment>Center</VAlignment>
+            <Button_Type>Default</Button_Type>
+            <Radius>30</Radius>
+            <Pressed>false</Pressed>
+            <Toggle>false</Toggle>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_PRESSED" pretty_name="Pressed"/>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_STILLPRESSED" pretty_name="Still Pressed"/>
+              <Event enabled="true" name="GFX_GOL_BUTTON_ACTION_RELEASED" pretty_name="Released">
+                <Actions count="1">
+                  <Action name="CustomAction" type="custom">
+                    <Text>
+                      GFX_GOL_ObjectStateSet(pObj,GFX_GOL_BUTTON_DISABLED_STATE|GFX_GOL_BUTTON_DRAW_STATE);&#13;
+                      GFX_GOL_ObjectStateClear(GFX_GOL_ObjectFind(GFX_INDEX_0,Button25),GFX_GOL_BUTTON_DISABLED_STATE);&#13;
+                      GFX_GOL_ObjectStateSet(GFX_GOL_ObjectFind(GFX_INDEX_0,Button25),GFX_GOL_BUTTON_DRAW_STATE);
+                    </Text>
+                  </Action>
+                </Actions>
+              </Event>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_CANCELPRESS" pretty_name="Cancel Press"/>
+            </Events>
+          </Widget>
+          <Widget type="ButtonWidget">
+            <Name>Button23</Name>
+            <Enabled>false</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>3</ZOrder>
+            <Position>249,105</Position>
+            <Size>156,43</Size>
+            <Scheme>default</Scheme>
+            <Text>Disabled Button</Text>
+            <HAlignment>Center</HAlignment>
+            <VAlignment>Center</VAlignment>
+            <Button_Type>Default</Button_Type>
+            <Radius>0</Radius>
+            <Pressed>false</Pressed>
+            <Toggle>false</Toggle>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_PRESSED" pretty_name="Pressed"/>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_STILLPRESSED" pretty_name="Still Pressed"/>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_RELEASED" pretty_name="Released"/>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_CANCELPRESS" pretty_name="Cancel Press"/>
+            </Events>
+          </Widget>
+          <Widget type="ButtonWidget">
+            <Name>Button21</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>4</ZOrder>
+            <Position>63,166</Position>
+            <Size>165,49</Size>
+            <Scheme>default</Scheme>
+            <Text>Two Tone</Text>
+            <HAlignment>Center</HAlignment>
+            <VAlignment>Center</VAlignment>
+            <Button_Type>Twotone</Button_Type>
+            <Radius>10</Radius>
+            <Pressed>false</Pressed>
+            <Toggle>false</Toggle>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_PRESSED" pretty_name="Pressed"/>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_STILLPRESSED" pretty_name="Still Pressed"/>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_RELEASED" pretty_name="Released"/>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_CANCELPRESS" pretty_name="Cancel Press"/>
+            </Events>
+          </Widget>
+          <Widget type="ButtonWidget">
+            <Name>Button20</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>5</ZOrder>
+            <Position>62,106</Position>
+            <Size>165,45</Size>
+            <Scheme>buttons</Scheme>
+            <Text>Rounded Corner</Text>
+            <HAlignment>Center</HAlignment>
+            <VAlignment>Center</VAlignment>
+            <Button_Type>Default</Button_Type>
+            <Radius>15</Radius>
+            <Pressed>false</Pressed>
+            <Toggle>false</Toggle>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_PRESSED" pretty_name="Pressed"/>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_STILLPRESSED" pretty_name="Still Pressed"/>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_RELEASED" pretty_name="Released"/>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_CANCELPRESS" pretty_name="Cancel Press"/>
+            </Events>
+          </Widget>
+          <Widget type="ButtonWidget">
+            <Name>Button19</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>6</ZOrder>
+            <Position>251,48</Position>
+            <Size>155,50</Size>
+            <Scheme>pressedButton</Scheme>
+            <Text/>
+            <HAlignment>Center</HAlignment>
+            <VAlignment>Center</VAlignment>
+            <Button_Type>Default</Button_Type>
+            <Radius>0</Radius>
+            <Pressed>false</Pressed>
+            <Press_Image>bulbon</Press_Image>
+            <Release_Image>bulboff</Release_Image>
+            <Toggle>false</Toggle>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_PRESSED" pretty_name="Pressed"/>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_STILLPRESSED" pretty_name="Still Pressed"/>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_RELEASED" pretty_name="Released"/>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_CANCELPRESS" pretty_name="Cancel Press"/>
+            </Events>
+          </Widget>
+          <Widget type="ButtonWidget">
+            <Name>Button18</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>7</ZOrder>
+            <Position>62,49</Position>
+            <Size>163,48</Size>
+            <Scheme>buttons</Scheme>
+            <Text>Simple Button</Text>
+            <HAlignment>Center</HAlignment>
+            <VAlignment>Center</VAlignment>
+            <Button_Type>Default</Button_Type>
+            <Radius>0</Radius>
+            <Pressed>false</Pressed>
+            <Toggle>false</Toggle>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_PRESSED" pretty_name="Pressed">
+                <Actions count="1">
+                  <Action name="Action" type="template" valid="true">
+                    <Target screen="true" type="">ButtonScreen</Target>
+                    <Screen>ButtonScreen</Screen>
+                    <Action>Activate Screen</Action>
+                  </Action>
+                </Actions>
+              </Event>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_STILLPRESSED" pretty_name="Still Pressed"/>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_RELEASED" pretty_name="Released"/>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_CANCELPRESS" pretty_name="Cancel Press"/>
+            </Events>
+          </Widget>
+          <Widget type="WindowWidget">
+            <Name>Window6</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>8</ZOrder>
+            <Position>1,1</Position>
+            <Size>478,270</Size>
+            <Scheme>Window</Scheme>
+            <Text>Buttons</Text>
+            <Image>mchpIcon0</Image>
+            <HAlignment>Center</HAlignment>
+            <VAlignment>Center</VAlignment>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_WINDOW_ACTION_TITLE" pretty_name="Title Area Touched"/>
+              <Event enabled="false" name="GFX_GOL_WINDOW_ACTION_CLIENT" pretty_name="Client Area Touched"/>
+            </Events>
+          </Widget>
+        </Objects>
+      </Screen>
+      <Screen active="false" background="000000" clearOnShow="true" doubleBuffer="false" export="true" name="EditBoxScreen" primary="false" visible="true">
+        <Objects>
+          <Widget type="RadioButtonWidget">
+            <Name>RadioButton10</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>0</ZOrder>
+            <Position>97,193</Position>
+            <Size>70,27</Size>
+            <Scheme>Window</Scheme>
+            <firstInGroup>false</firstInGroup>
+            <Text>Top</Text>
+            <Group>1</Group>
+            <NumGroupsInScreen>2</NumGroupsInScreen>
+            <Check>false</Check>
+            <HAlignment>Left</HAlignment>
+            <VAlignment>Center</VAlignment>
+            <Events>
+              <Event enabled="true" name="GFX_GOL_RADIOBUTTON_ACTION_CHECKED" pretty_name="Checked">
+                <Actions count="1">
+                  <Action name="CustomAction" type="custom">
+                    <Text>
+                      appData.vAlign = GFX_ALIGN_TOP;
+                      if(appData.hAlign == GFX_ALIGN_LEFT)
+                      GFX_GOL_EditBoxTextAlignmentSet(hgcObj.pEditBox3Obj, GFX_ALIGN_TOP | GFX_ALIGN_LEFT);
+                      else if(appData.hAlign == GFX_ALIGN_RIGHT)
+                      GFX_GOL_EditBoxTextAlignmentSet(hgcObj.pEditBox3Obj, GFX_ALIGN_TOP | GFX_ALIGN_RIGHT);
+                      else
+                      GFX_GOL_EditBoxTextAlignmentSet(hgcObj.pEditBox3Obj, GFX_ALIGN_TOP | GFX_ALIGN_HCENTER);
+
+                      GFX_GOL_ObjectStateSet(hgcObj.pEditBox3Obj,GFX_GOL_EDITBOX_DRAW_STATE);
+                    </Text>
+                  </Action>
+                </Actions>
+              </Event>
+            </Events>
+          </Widget>
+          <Widget type="RadioButtonWidget">
+            <Name>RadioButton12</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>1</ZOrder>
+            <Position>315,193</Position>
+            <Size>89,27</Size>
+            <Scheme>Window</Scheme>
+            <firstInGroup>false</firstInGroup>
+            <Text>Bottom</Text>
+            <Group>1</Group>
+            <NumGroupsInScreen>2</NumGroupsInScreen>
+            <Check>false</Check>
+            <HAlignment>Left</HAlignment>
+            <VAlignment>Center</VAlignment>
+            <Events>
+              <Event enabled="true" name="GFX_GOL_RADIOBUTTON_ACTION_CHECKED" pretty_name="Checked">
+                <Actions count="1">
+                  <Action name="CustomAction" type="custom">
+                    <Text>
+                      appData.vAlign = GFX_ALIGN_BOTTOM;
+                      if(appData.hAlign == GFX_ALIGN_LEFT)
+                      GFX_GOL_EditBoxTextAlignmentSet(hgcObj.pEditBox3Obj, GFX_ALIGN_BOTTOM | GFX_ALIGN_LEFT);
+                      else if(appData.hAlign == GFX_ALIGN_RIGHT)
+                      GFX_GOL_EditBoxTextAlignmentSet(hgcObj.pEditBox3Obj, GFX_ALIGN_BOTTOM | GFX_ALIGN_RIGHT);
+                      else
+                      GFX_GOL_EditBoxTextAlignmentSet(hgcObj.pEditBox3Obj, GFX_ALIGN_BOTTOM | GFX_ALIGN_HCENTER);
+                      GFX_GOL_ObjectStateSet(hgcObj.pEditBox3Obj,GFX_GOL_EDITBOX_DRAW_STATE);
+                    </Text>
+                  </Action>
+                </Actions>
+              </Event>
+            </Events>
+          </Widget>
+          <Widget type="RadioButtonWidget">
+            <Name>RadioButton11</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>2</ZOrder>
+            <Position>198,193</Position>
+            <Size>90,27</Size>
+            <Scheme>Window</Scheme>
+            <firstInGroup>false</firstInGroup>
+            <Text>Center</Text>
+            <Group>1</Group>
+            <NumGroupsInScreen>2</NumGroupsInScreen>
+            <Check>true</Check>
+            <HAlignment>Left</HAlignment>
+            <VAlignment>Center</VAlignment>
+            <Events>
+              <Event enabled="true" name="GFX_GOL_RADIOBUTTON_ACTION_CHECKED" pretty_name="Checked">
+                <Actions count="1">
+                  <Action name="CustomAction" type="custom">
+                    <Text>
+                      appData.vAlign = GFX_ALIGN_VCENTER;
+                      if(appData.hAlign == GFX_ALIGN_LEFT)
+                      GFX_GOL_EditBoxTextAlignmentSet(hgcObj.pEditBox3Obj, GFX_ALIGN_VCENTER | GFX_ALIGN_LEFT);
+                      else if(appData.hAlign == GFX_ALIGN_RIGHT)
+                      GFX_GOL_EditBoxTextAlignmentSet(hgcObj.pEditBox3Obj, GFX_ALIGN_VCENTER | GFX_ALIGN_RIGHT);
+                      else
+                      GFX_GOL_EditBoxTextAlignmentSet(hgcObj.pEditBox3Obj, GFX_ALIGN_VCENTER | GFX_ALIGN_HCENTER);
+
+                      GFX_GOL_ObjectStateSet(hgcObj.pEditBox3Obj,GFX_GOL_EDITBOX_DRAW_STATE);
+                    </Text>
+                  </Action>
+                </Actions>
+              </Event>
+            </Events>
+          </Widget>
+          <Widget type="GroupBoxWidget">
+            <Name>GroupBox5</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>3</ZOrder>
+            <Position>60,172</Position>
+            <Size>373,59</Size>
+            <Scheme>Window</Scheme>
+            <Text>Vertical Alignment</Text>
+            <Alignment>Center</Alignment>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_GROUPBOX_ACTION_SELECTED" pretty_name="Selected"/>
+            </Events>
+          </Widget>
+          <Widget type="RadioButtonWidget">
+            <Name>RadioButton9</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>4</ZOrder>
+            <Position>315,135</Position>
+            <Size>87,26</Size>
+            <Scheme>Window</Scheme>
+            <firstInGroup>false</firstInGroup>
+            <Text>Right</Text>
+            <Group>0</Group>
+            <NumGroupsInScreen>2</NumGroupsInScreen>
+            <Check>false</Check>
+            <HAlignment>Left</HAlignment>
+            <VAlignment>Center</VAlignment>
+            <Events>
+              <Event enabled="true" name="GFX_GOL_RADIOBUTTON_ACTION_CHECKED" pretty_name="Checked">
+                <Actions count="1">
+                  <Action name="CustomAction" type="custom">
+                    <Text>
+                      appData.hAlign = GFX_ALIGN_RIGHT;
+                      if(appData.vAlign == GFX_ALIGN_BOTTOM)
+                      GFX_GOL_EditBoxTextAlignmentSet(hgcObj.pEditBox3Obj, GFX_ALIGN_RIGHT | GFX_ALIGN_BOTTOM);
+                      else if(appData.vAlign == GFX_ALIGN_TOP)
+                      GFX_GOL_EditBoxTextAlignmentSet(hgcObj.pEditBox3Obj, GFX_ALIGN_RIGHT | GFX_ALIGN_TOP);
+                      else
+                      GFX_GOL_EditBoxTextAlignmentSet(hgcObj.pEditBox3Obj, GFX_ALIGN_RIGHT | GFX_ALIGN_VCENTER);
+
+                      GFX_GOL_ObjectStateSet(hgcObj.pEditBox3Obj,GFX_GOL_EDITBOX_DRAW_STATE);
+                    </Text>
+                  </Action>
+                </Actions>
+              </Event>
+            </Events>
+          </Widget>
+          <Widget type="RadioButtonWidget">
+            <Name>RadioButton8</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>5</ZOrder>
+            <Position>197,135</Position>
+            <Size>101,26</Size>
+            <Scheme>Window</Scheme>
+            <firstInGroup>false</firstInGroup>
+            <Text>Center</Text>
+            <Group>0</Group>
+            <NumGroupsInScreen>2</NumGroupsInScreen>
+            <Check>true</Check>
+            <HAlignment>Left</HAlignment>
+            <VAlignment>Center</VAlignment>
+            <Events>
+              <Event enabled="true" name="GFX_GOL_RADIOBUTTON_ACTION_CHECKED" pretty_name="Checked">
+                <Actions count="1">
+                  <Action name="CustomAction" type="custom">
+                    <Text>
+                      appData.hAlign = GFX_ALIGN_HCENTER;
+                      if(appData.vAlign == GFX_ALIGN_BOTTOM)
+                      GFX_GOL_EditBoxTextAlignmentSet(hgcObj.pEditBox3Obj, GFX_ALIGN_HCENTER | GFX_ALIGN_BOTTOM);
+                      else if(appData.vAlign == GFX_ALIGN_TOP)
+                      GFX_GOL_EditBoxTextAlignmentSet(hgcObj.pEditBox3Obj, GFX_ALIGN_HCENTER | GFX_ALIGN_TOP);
+                      else
+                      GFX_GOL_EditBoxTextAlignmentSet(hgcObj.pEditBox3Obj, GFX_ALIGN_HCENTER | GFX_ALIGN_VCENTER);
+
+                      GFX_GOL_ObjectStateSet(hgcObj.pEditBox3Obj,GFX_GOL_EDITBOX_DRAW_STATE);
+                    </Text>
+                  </Action>
+                </Actions>
+              </Event>
+            </Events>
+          </Widget>
+          <Widget type="RadioButtonWidget">
+            <Name>RadioButton7</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>6</ZOrder>
+            <Position>97,135</Position>
+            <Size>77,28</Size>
+            <Scheme>Window</Scheme>
+            <firstInGroup>true</firstInGroup>
+            <Text>Left</Text>
+            <Group>0</Group>
+            <NumGroupsInScreen>2</NumGroupsInScreen>
+            <Check>false</Check>
+            <HAlignment>Left</HAlignment>
+            <VAlignment>Center</VAlignment>
+            <Events>
+              <Event enabled="true" name="GFX_GOL_RADIOBUTTON_ACTION_CHECKED" pretty_name="Checked">
+                <Actions count="1">
+                  <Action name="CustomAction" type="custom">
+                    <Text>
+                      appData.hAlign = GFX_ALIGN_LEFT;
+                      if(appData.vAlign == GFX_ALIGN_BOTTOM)
+                      GFX_GOL_EditBoxTextAlignmentSet(hgcObj.pEditBox3Obj, GFX_ALIGN_LEFT | GFX_ALIGN_BOTTOM);
+                      else if(appData.vAlign == GFX_ALIGN_TOP)
+                      GFX_GOL_EditBoxTextAlignmentSet(hgcObj.pEditBox3Obj, GFX_ALIGN_LEFT | GFX_ALIGN_TOP);
+                      else
+                      GFX_GOL_EditBoxTextAlignmentSet(hgcObj.pEditBox3Obj, GFX_ALIGN_LEFT | GFX_ALIGN_VCENTER);
+
+                      GFX_GOL_ObjectStateSet(hgcObj.pEditBox3Obj,GFX_GOL_EDITBOX_DRAW_STATE);
+                    </Text>
+                  </Action>
+                </Actions>
+              </Event>
+            </Events>
+          </Widget>
+          <Widget type="GroupBoxWidget">
+            <Name>GroupBox3</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>7</ZOrder>
+            <Position>61,113</Position>
+            <Size>372,58</Size>
+            <Scheme>Window</Scheme>
+            <Text>Horizontal Alignment</Text>
+            <Alignment>Center</Alignment>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_GROUPBOX_ACTION_SELECTED" pretty_name="Selected"/>
+            </Events>
+          </Widget>
+          <Widget type="ButtonWidget">
+            <Name>Button2</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>8</ZOrder>
+            <Position>401,235</Position>
+            <Size>75,31</Size>
+            <Scheme>default</Scheme>
+            <Text>Next</Text>
+            <HAlignment>Center</HAlignment>
+            <VAlignment>Center</VAlignment>
+            <Button_Type>Default</Button_Type>
+            <Radius>10</Radius>
+            <Pressed>false</Pressed>
+            <Toggle>false</Toggle>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_PRESSED" pretty_name="Pressed"/>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_STILLPRESSED" pretty_name="Still Pressed"/>
+              <Event enabled="true" name="GFX_GOL_BUTTON_ACTION_RELEASED" pretty_name="Released">
+                <Actions count="2">
+                  <Action name="Action" type="template" valid="true">
+                    <Target screen="true" type="">ProgressBarScreen</Target>
+                    <Screen>ProgressBarScreen</Screen>
+                    <Action>Activate Screen</Action>
+                  </Action>
+                  <Action name="CustomAction" type="custom">
+                    <Text>APP_ResetVotesPolled();</Text>
+                  </Action>
+                </Actions>
+              </Event>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_CANCELPRESS" pretty_name="Cancel Press"/>
+            </Events>
+          </Widget>
+          <Widget type="CheckBoxWidget">
+            <Name>CheckBox1</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>9</ZOrder>
+            <Position>266,69</Position>
+            <Size>150,28</Size>
+            <Scheme>Window</Scheme>
+            <Text>Enabled</Text>
+            <Check>true</Check>
+            <HAlignment>Left</HAlignment>
+            <VAlignment>Center</VAlignment>
+            <Events>
+              <Event enabled="true" name="GFX_GOL_CHECKBOX_ACTION_CHECKED" pretty_name="Checked">
+                <Actions count="1">
+                  <Action name="CustomAction" type="custom">
+                    <Text>
+                      hgcObj.pEditBox3Obj-&gt;hdr.state = GFX_GOL_EDITBOX_DRAW_STATE;
+                      GFX_GOL_CheckBoxTextSet(hgcObj.pCheckBox1Obj, (GFX_XCHAR*)"Enabled");
+                      GFX_GOL_ObjectStateSet(hgcObj.pCheckBox1Obj, GFX_GOL_CHECKBOX_DRAW_STATE);
+                    </Text>
+                  </Action>
+                </Actions>
+              </Event>
+              <Event enabled="true" name="GFX_GOL_CHECKBOX_ACTION_UNCHECKED" pretty_name="Unchecked">
+                <Actions count="1">
+                  <Action name="CustomAction" type="custom">
+                    <Text>
+                      GFX_GOL_ObjectStateSet(hgcObj.pEditBox3Obj, GFX_GOL_EDITBOX_DRAW_STATE | GFX_GOL_EDITBOX_DISABLED_STATE);
+                      GFX_GOL_CheckBoxTextSet(hgcObj.pCheckBox1Obj, (GFX_XCHAR*)"Disabled");
+                      GFX_GOL_ObjectStateSet(hgcObj.pCheckBox1Obj, GFX_GOL_CHECKBOX_DRAW_STATE);
+                    </Text>
+                  </Action>
+                </Actions>
+              </Event>
+            </Events>
+          </Widget>
+          <Widget type="GroupBoxWidget">
+            <Name>GroupBox4</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>10</ZOrder>
+            <Position>243,45</Position>
+            <Size>190,61</Size>
+            <Scheme>Window</Scheme>
+            <Text>Enable</Text>
+            <Alignment>Center</Alignment>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_GROUPBOX_ACTION_SELECTED" pretty_name="Selected"/>
+            </Events>
+          </Widget>
+          <Widget type="ButtonWidget">
+            <Name>Button1</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>11</ZOrder>
+            <Position>3,236</Position>
+            <Size>75,31</Size>
+            <Scheme>default</Scheme>
+            <Text>Prev.</Text>
+            <HAlignment>Center</HAlignment>
+            <VAlignment>Center</VAlignment>
+            <Button_Type>Default</Button_Type>
+            <Radius>10</Radius>
+            <Pressed>false</Pressed>
+            <Toggle>false</Toggle>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_PRESSED" pretty_name="Pressed"/>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_STILLPRESSED" pretty_name="Still Pressed"/>
+              <Event enabled="true" name="GFX_GOL_BUTTON_ACTION_RELEASED" pretty_name="Released">
+                <Actions count="1">
+                  <Action name="Action" type="template" valid="true">
+                    <Target screen="true" type="">ButtonScreen</Target>
+                    <Screen>ButtonScreen</Screen>
+                    <Action>Activate Screen</Action>
+                  </Action>
+                </Actions>
+              </Event>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_CANCELPRESS" pretty_name="Cancel Press"/>
+            </Events>
+          </Widget>
+          <Widget type="EditBoxWidget">
+            <Name>EditBox3</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>12</ZOrder>
+            <Position>60,52</Position>
+            <Size>172,54</Size>
+            <Scheme>default</Scheme>
+            <Text>Edit Box</Text>
+            <No_of_characters>15</No_of_characters>
+            <HAlignment>Center</HAlignment>
+            <VAlignment>Center</VAlignment>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_EDITBOX_ACTION_ADD_CHAR" pretty_name="Add Character"/>
+              <Event enabled="false" name="GFX_GOL_EDITBOX_ACTION_DEL_CHAR" pretty_name="Delete Character"/>
+              <Event enabled="false" name="GFX_GOL_EDITBOX_ACTION_TOUCHSCREEN" pretty_name="Touched"/>
+            </Events>
+          </Widget>
+          <Widget type="WindowWidget">
+            <Name>Window1</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>13</ZOrder>
+            <Position>1,1</Position>
+            <Size>478,270</Size>
+            <Scheme>Window</Scheme>
+            <Text>Edit Box</Text>
+            <Image>mchpIcon0</Image>
+            <HAlignment>Center</HAlignment>
+            <VAlignment>Center</VAlignment>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_WINDOW_ACTION_TITLE" pretty_name="Title Area Touched"/>
+              <Event enabled="false" name="GFX_GOL_WINDOW_ACTION_CLIENT" pretty_name="Client Area Touched"/>
+            </Events>
+          </Widget>
+        </Objects>
+      </Screen>
+      <Screen active="false" background="000000" clearOnShow="true" doubleBuffer="false" export="true" name="ProgressBarScreen" primary="false" visible="true">
+        <Objects>
+          <Widget type="StaticTextWidget">
+            <Name>StaticText3</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>0</ZOrder>
+            <Position>42,194</Position>
+            <Size>87,23</Size>
+            <Scheme>Window</Scheme>
+            <Text>Option C:</Text>
+            <Frame>false</Frame>
+            <Background>true</Background>
+            <HAlignment>Left</HAlignment>
+            <VAlignment>Top</VAlignment>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_STATICTEXT_ACTION_SELECTED" pretty_name="Selected"/>
+            </Events>
+          </Widget>
+          <Widget type="StaticTextWidget">
+            <Name>StaticText2</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>1</ZOrder>
+            <Position>42,162</Position>
+            <Size>78,23</Size>
+            <Scheme>Window</Scheme>
+            <Text>Option B:</Text>
+            <Frame>false</Frame>
+            <Background>true</Background>
+            <HAlignment>Left</HAlignment>
+            <VAlignment>Top</VAlignment>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_STATICTEXT_ACTION_SELECTED" pretty_name="Selected"/>
+            </Events>
+          </Widget>
+          <Widget type="StaticTextWidget">
+            <Name>StaticText1</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>2</ZOrder>
+            <Position>42,129</Position>
+            <Size>82,23</Size>
+            <Scheme>Window</Scheme>
+            <Text>Option A:</Text>
+            <Frame>false</Frame>
+            <Background>true</Background>
+            <HAlignment>Left</HAlignment>
+            <VAlignment>Top</VAlignment>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_STATICTEXT_ACTION_SELECTED" pretty_name="Selected"/>
+            </Events>
+          </Widget>
+          <Widget type="ProgressBarWidget">
+            <Name>ProgressBar3</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>3</ZOrder>
+            <Position>141,194</Position>
+            <Size>300,25</Size>
+            <Scheme>ListBoxScreen</Scheme>
+            <Pos>50</Pos>
+            <Range>100</Range>
+            <Orientation>Horizontal</Orientation>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_PROGRESSBAR_ACTION_SELECTED" pretty_name="Selected"/>
+            </Events>
+          </Widget>
+          <Widget type="ProgressBarWidget">
+            <Name>ProgressBar1</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>4</ZOrder>
+            <Position>141,129</Position>
+            <Size>300,25</Size>
+            <Scheme>ListBoxScreen</Scheme>
+            <Pos>10</Pos>
+            <Range>100</Range>
+            <Orientation>Horizontal</Orientation>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_PROGRESSBAR_ACTION_SELECTED" pretty_name="Selected"/>
+            </Events>
+          </Widget>
+          <Widget type="RadioButtonWidget">
+            <Name>RadioButton3</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>5</ZOrder>
+            <Position>304,62</Position>
+            <Size>118,35</Size>
+            <Scheme>Window</Scheme>
+            <firstInGroup>false</firstInGroup>
+            <Text>Option C</Text>
+            <Group>2</Group>
+            <NumGroupsInScreen>1</NumGroupsInScreen>
+            <Check>false</Check>
+            <HAlignment>Left</HAlignment>
+            <VAlignment>Center</VAlignment>
+            <Events>
+              <Event enabled="true" name="GFX_GOL_RADIOBUTTON_ACTION_CHECKED" pretty_name="Checked">
+                <Actions count="1">
+                  <Action name="CustomAction" type="custom">
+                    <Text>
+                      appData.votesC++;
+                      appData.totalVotes++;
+                      appData.percentageA = ((appData.votesA * 100) / appData.totalVotes);
+                      appData.percentageB = ((appData.votesB * 100) / appData.totalVotes);
+                      appData.percentageC = 100 - (appData.percentageA + appData.percentageB);
+
+                      GFX_GOL_ProgressBarPositionSet(hgcObj.pProgressBar1Obj, appData.percentageA);
+                      GFX_GOL_ObjectStateSet(hgcObj.pProgressBar1Obj, GFX_GOL_PROGRESSBAR_DRAW_BAR_STATE);
+
+                      GFX_GOL_ProgressBarPositionSet(hgcObj.pProgressBar2Obj, appData.percentageB);
+                      GFX_GOL_ObjectStateSet(hgcObj.pProgressBar2Obj, GFX_GOL_PROGRESSBAR_DRAW_BAR_STATE);
+
+                      GFX_GOL_ProgressBarPositionSet(hgcObj.pProgressBar3Obj, appData.percentageC);
+                      GFX_GOL_ObjectStateSet(hgcObj.pProgressBar3Obj, GFX_GOL_PROGRESSBAR_DRAW_BAR_STATE);
+                    </Text>
+                  </Action>
+                </Actions>
+              </Event>
+            </Events>
+          </Widget>
+          <Widget type="RadioButtonWidget">
+            <Name>RadioButton2</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>6</ZOrder>
+            <Position>172,62</Position>
+            <Size>130,35</Size>
+            <Scheme>Window</Scheme>
+            <firstInGroup>false</firstInGroup>
+            <Text>Option B</Text>
+            <Group>2</Group>
+            <NumGroupsInScreen>1</NumGroupsInScreen>
+            <Check>true</Check>
+            <HAlignment>Left</HAlignment>
+            <VAlignment>Center</VAlignment>
+            <Events>
+              <Event enabled="true" name="GFX_GOL_RADIOBUTTON_ACTION_CHECKED" pretty_name="Checked">
+                <Actions count="1">
+                  <Action name="CustomAction" type="custom">
+                    <Text>
+                      appData.votesB++;
+                      appData.totalVotes++;
+                      appData.percentageA = ((appData.votesA * 100) / appData.totalVotes);
+                      appData.percentageB = ((appData.votesB * 100) / appData.totalVotes);
+                      appData.percentageC = 100 - (appData.percentageA + appData.percentageB);
+
+                      GFX_GOL_ProgressBarPositionSet(hgcObj.pProgressBar1Obj, appData.percentageA);
+                      GFX_GOL_ObjectStateSet(hgcObj.pProgressBar1Obj, GFX_GOL_PROGRESSBAR_DRAW_BAR_STATE);
+
+                      GFX_GOL_ProgressBarPositionSet(hgcObj.pProgressBar2Obj, appData.percentageB);
+                      GFX_GOL_ObjectStateSet(hgcObj.pProgressBar2Obj, GFX_GOL_PROGRESSBAR_DRAW_BAR_STATE);
+
+                      GFX_GOL_ProgressBarPositionSet(hgcObj.pProgressBar3Obj, appData.percentageC);
+                      GFX_GOL_ObjectStateSet(hgcObj.pProgressBar3Obj, GFX_GOL_PROGRESSBAR_DRAW_BAR_STATE);
+                    </Text>
+                  </Action>
+                </Actions>
+              </Event>
+            </Events>
+          </Widget>
+          <Widget type="RadioButtonWidget">
+            <Name>RadioButton1</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>7</ZOrder>
+            <Position>52,62</Position>
+            <Size>150,35</Size>
+            <Scheme>Window</Scheme>
+            <firstInGroup>true</firstInGroup>
+            <Text>Option A</Text>
+            <Group>2</Group>
+            <NumGroupsInScreen>1</NumGroupsInScreen>
+            <Check>false</Check>
+            <HAlignment>Left</HAlignment>
+            <VAlignment>Center</VAlignment>
+            <Events>
+              <Event enabled="true" name="GFX_GOL_RADIOBUTTON_ACTION_CHECKED" pretty_name="Checked">
+                <Actions count="1">
+                  <Action name="CustomAction" type="custom">
+                    <Text>
+                      appData.votesA++;
+                      appData.totalVotes++;
+                      appData.percentageA = ((appData.votesA * 100) / appData.totalVotes);
+                      appData.percentageB = ((appData.votesB * 100) / appData.totalVotes);
+                      appData.percentageC = 100 - (appData.percentageA + appData.percentageB);
+
+                      GFX_GOL_ProgressBarPositionSet(hgcObj.pProgressBar1Obj, appData.percentageA);
+                      GFX_GOL_ObjectStateSet(hgcObj.pProgressBar1Obj, GFX_GOL_PROGRESSBAR_DRAW_BAR_STATE);
+
+                      GFX_GOL_ProgressBarPositionSet(hgcObj.pProgressBar2Obj, appData.percentageB);
+                      GFX_GOL_ObjectStateSet(hgcObj.pProgressBar2Obj, GFX_GOL_PROGRESSBAR_DRAW_BAR_STATE);
+
+                      GFX_GOL_ProgressBarPositionSet(hgcObj.pProgressBar3Obj, appData.percentageC);
+                      GFX_GOL_ObjectStateSet(hgcObj.pProgressBar3Obj, GFX_GOL_PROGRESSBAR_DRAW_BAR_STATE);
+                    </Text>
+                  </Action>
+                </Actions>
+              </Event>
+            </Events>
+          </Widget>
+          <Widget type="GroupBoxWidget">
+            <Name>GroupBox1</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>8</ZOrder>
+            <Position>42,39</Position>
+            <Size>398,76</Size>
+            <Scheme>Window</Scheme>
+            <Text>Vote</Text>
+            <Alignment>Center</Alignment>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_GROUPBOX_ACTION_SELECTED" pretty_name="Selected"/>
+            </Events>
+          </Widget>
+          <Widget type="ProgressBarWidget">
+            <Name>ProgressBar2</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>9</ZOrder>
+            <Position>141,162</Position>
+            <Size>300,25</Size>
+            <Scheme>ListBoxScreen</Scheme>
+            <Pos>40</Pos>
+            <Range>100</Range>
+            <Orientation>Horizontal</Orientation>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_PROGRESSBAR_ACTION_SELECTED" pretty_name="Selected"/>
+            </Events>
+          </Widget>
+          <Widget type="ButtonWidget">
+            <Name>Button4</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>10</ZOrder>
+            <Position>402,236</Position>
+            <Size>75,31</Size>
+            <Scheme>default</Scheme>
+            <Text>Next</Text>
+            <HAlignment>Center</HAlignment>
+            <VAlignment>Center</VAlignment>
+            <Button_Type>Default</Button_Type>
+            <Radius>10</Radius>
+            <Pressed>false</Pressed>
+            <Toggle>false</Toggle>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_PRESSED" pretty_name="Pressed"/>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_STILLPRESSED" pretty_name="Still Pressed"/>
+              <Event enabled="true" name="GFX_GOL_BUTTON_ACTION_RELEASED" pretty_name="Released">
+                <Actions count="1">
+                  <Action name="Action" type="template" valid="true">
+                    <Target screen="true" type="">TextEntryScreen</Target>
+                    <Screen>TextEntryScreen</Screen>
+                    <Action>Activate Screen</Action>
+                  </Action>
+                </Actions>
+              </Event>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_CANCELPRESS" pretty_name="Cancel Press"/>
+            </Events>
+          </Widget>
+          <Widget type="ButtonWidget">
+            <Name>Button3</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>11</ZOrder>
+            <Position>3,237</Position>
+            <Size>75,31</Size>
+            <Scheme>default</Scheme>
+            <Text>Prev.</Text>
+            <HAlignment>Center</HAlignment>
+            <VAlignment>Center</VAlignment>
+            <Button_Type>Default</Button_Type>
+            <Radius>10</Radius>
+            <Pressed>false</Pressed>
+            <Toggle>false</Toggle>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_PRESSED" pretty_name="Pressed"/>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_STILLPRESSED" pretty_name="Still Pressed"/>
+              <Event enabled="true" name="GFX_GOL_BUTTON_ACTION_RELEASED" pretty_name="Released">
+                <Actions count="1">
+                  <Action name="Action" type="template" valid="true">
+                    <Target screen="true" type="">EditBoxScreen</Target>
+                    <Screen>EditBoxScreen</Screen>
+                    <Action>Activate Screen</Action>
+                  </Action>
+                </Actions>
+              </Event>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_CANCELPRESS" pretty_name="Cancel Press"/>
+            </Events>
+          </Widget>
+          <Widget type="WindowWidget">
+            <Name>Window2</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>12</ZOrder>
+            <Position>1,1</Position>
+            <Size>478,270</Size>
+            <Scheme>Window</Scheme>
+            <Text>Progress Bar</Text>
+            <Image>mchpIcon0</Image>
+            <HAlignment>Center</HAlignment>
+            <VAlignment>Center</VAlignment>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_WINDOW_ACTION_TITLE" pretty_name="Title Area Touched"/>
+              <Event enabled="false" name="GFX_GOL_WINDOW_ACTION_CLIENT" pretty_name="Client Area Touched"/>
+            </Events>
+          </Widget>
+        </Objects>
+      </Screen>
+      <Screen active="true" background="000000" clearOnShow="true" doubleBuffer="false" export="true" name="TextEntryScreen" primary="false" visible="true">
+        <Objects>
+          <Widget type="StaticTextWidget">
+            <Name>StaticText6</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>0</ZOrder>
+            <Position>22,76</Position>
+            <Size>100,22</Size>
+            <Scheme>Window</Scheme>
+            <Text>and Press Ok</Text>
+            <Frame>false</Frame>
+            <Background>true</Background>
+            <HAlignment>Left</HAlignment>
+            <VAlignment>Top</VAlignment>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_STATICTEXT_ACTION_SELECTED" pretty_name="Selected"/>
+            </Events>
+          </Widget>
+          <Widget type="StaticTextWidget">
+            <Name>StaticText5</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>1</ZOrder>
+            <Position>21,107</Position>
+            <Size>156,117</Size>
+            <Scheme>Window</Scheme>
+            <Text/>
+            <Frame>false</Frame>
+            <Background>true</Background>
+            <HAlignment>Left</HAlignment>
+            <VAlignment>Top</VAlignment>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_STATICTEXT_ACTION_SELECTED" pretty_name="Selected"/>
+            </Events>
+          </Widget>
+          <Widget type="StaticTextWidget">
+            <Name>StaticText4</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>2</ZOrder>
+            <Position>21,53</Position>
+            <Size>142,21</Size>
+            <Scheme>Window</Scheme>
+            <Text>Enter your name</Text>
+            <Frame>false</Frame>
+            <Background>true</Background>
+            <HAlignment>Left</HAlignment>
+            <VAlignment>Top</VAlignment>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_STATICTEXT_ACTION_SELECTED" pretty_name="Selected"/>
+            </Events>
+          </Widget>
+          <Widget type="ButtonWidget">
+            <Name>Button5</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>3</ZOrder>
+            <Position>2,236</Position>
+            <Size>75,31</Size>
+            <Scheme>default</Scheme>
+            <Text>Prev.</Text>
+            <HAlignment>Center</HAlignment>
+            <VAlignment>Center</VAlignment>
+            <Button_Type>Default</Button_Type>
+            <Radius>10</Radius>
+            <Pressed>false</Pressed>
+            <Toggle>false</Toggle>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_PRESSED" pretty_name="Pressed"/>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_STILLPRESSED" pretty_name="Still Pressed"/>
+              <Event enabled="true" name="GFX_GOL_BUTTON_ACTION_RELEASED" pretty_name="Released">
+                <Actions count="2">
+                  <Action name="Action" type="template" valid="true">
+                    <Target screen="true" type="">ProgressBarScreen</Target>
+                    <Screen>ProgressBarScreen</Screen>
+                    <Action>Activate Screen</Action>
+                  </Action>
+                  <Action name="CustomAction" type="custom">
+                    <Text>APP_ResetVotesPolled();</Text>
+                  </Action>
+                </Actions>
+              </Event>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_CANCELPRESS" pretty_name="Cancel Press"/>
+            </Events>
+          </Widget>
+          <Widget type="ButtonWidget">
+            <Name>Button6</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>4</ZOrder>
+            <Position>398,235</Position>
+            <Size>75,31</Size>
+            <Scheme>default</Scheme>
+            <Text>Next</Text>
+            <HAlignment>Center</HAlignment>
+            <VAlignment>Center</VAlignment>
+            <Button_Type>Default</Button_Type>
+            <Radius>10</Radius>
+            <Pressed>false</Pressed>
+            <Toggle>false</Toggle>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_PRESSED" pretty_name="Pressed"/>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_STILLPRESSED" pretty_name="Still Pressed"/>
+              <Event enabled="true" name="GFX_GOL_BUTTON_ACTION_RELEASED" pretty_name="Released">
+                <Actions count="1">
+                  <Action name="Action" type="template" valid="true">
+                    <Target screen="true" type="">ListBoxScreen</Target>
+                    <Screen>ListBoxScreen</Screen>
+                    <Action>Activate Screen</Action>
+                  </Action>
+                </Actions>
+              </Event>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_CANCELPRESS" pretty_name="Cancel Press"/>
+            </Events>
+          </Widget>
+          <Widget type="TextEntryWidget">
+            <Name>TextEntry2</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>5</ZOrder>
+            <Position>198,54</Position>
+            <Size>258,170</Size>
+            <Scheme>ListBoxScreen</Scheme>
+            <Text max="35">Composer</Text>
+            <Alignment>Left</Alignment>
+            <Font>Times_New_Roman</Font>
+            <Table columns="4" rows="7">
+              <Row id="0">
+                <Column id="0">A</Column>
+                <Column id="1">B</Column>
+                <Column id="2">C</Column>
+                <Column id="3">D</Column>
+              </Row>
+              <Row id="1">
+                <Column id="0">E</Column>
+                <Column id="1">F</Column>
+                <Column id="2">G</Column>
+                <Column id="3">H</Column>
+              </Row>
+              <Row id="2">
+                <Column id="0">I</Column>
+                <Column id="1">J</Column>
+                <Column id="2">K</Column>
+                <Column id="3">L</Column>
+              </Row>
+              <Row id="3">
+                <Column id="0">M</Column>
+                <Column id="1">N</Column>
+                <Column id="2">O</Column>
+                <Column id="3">P</Column>
+              </Row>
+              <Row id="4">
+                <Column id="0">Q</Column>
+                <Column id="1">R</Column>
+                <Column id="2">S</Column>
+                <Column id="3">T</Column>
+              </Row>
+              <Row id="5">
+                <Column id="0">U</Column>
+                <Column id="1">V</Column>
+                <Column id="2">W</Column>
+                <Column id="3">X</Column>
+              </Row>
+              <Row id="6">
+                <Column id="0">Y</Column>
+                <Column id="1">Z</Column>
+                <Column id="2">&lt;-</Column>
+                <Column id="3">Ok</Column>
+              </Row>
+            </Table>
+            <Events>
+              <Event enabled="true" name="GFX_GOL_TEXTENTRY_ACTION_PRESS" pretty_name="Press">
+                <Actions count="1">
+                  <Action name="CustomAction" type="custom">
+                    <Text>
+                      GFX_GOL_TextEntryActionSet(GFX_GOL_TEXTENTRY_ACTION_PRESSED, hgcObj.pTextEntry2Obj, NULL);
+                      if (GFX_GOL_TextEntryKeyIsPressed(hgcObj.pTextEntry2Obj, 26))
+                      {
+                      GFX_GOL_TextEntryKeyCommandSet(hgcObj.pTextEntry2Obj, 26, GFX_GOL_TEXTENTRY_DELETE_COM);
+                      }
+                      else if (GFX_GOL_TextEntryKeyIsPressed(hgcObj.pTextEntry2Obj, 27))
+                      {
+                      GFX_XCHAR   *pText = GFX_GOL_TextEntryBufferGet(hgcObj.pTextEntry2Obj);
+                      int32_t i = 0;
+
+                      for( i = 0; i &lt; HGC_TEXTENTRY_BUFFERSIZE_0; i++ )
+                      {
+                      appData.tempText[i + 6] = pText[i];
+                      }
+
+                      GFX_GOL_StaticTextSet(hgcObj.pStaticText5Obj, appData.tempText);
+                      GFX_GOL_ObjectStateSet(hgcObj.pStaticText5Obj, GFX_GOL_STATICTEXT_DRAW_STATE);
+                      GFX_GOL_TextEntryBufferClear(hgcObj.pTextEntry2Obj);
+                      GFX_GOL_TextEntryKeyCommandSet(hgcObj.pTextEntry2Obj, 27, GFX_GOL_TEXTENTRY_DELETE_COM);
+                      }
+                    </Text>
+                  </Action>
+                </Actions>
+              </Event>
+              <Event enabled="false" name="GFX_GOL_TEXTENTRY_ACTION_RELEASED" pretty_name="Released"/>
+              <Event enabled="false" name="GFX_GOL_TEXTENTRY_ACTION_ADD_CHAR" pretty_name="Character Added"/>
+              <Event enabled="false" name="GFX_GOL_TEXTENTRY_ACTION_DELETE" pretty_name="Delete Pressed"/>
+              <Event enabled="false" name="GFX_GOL_TEXTENTRY_ACTION_SPACE" pretty_name="Space Pressed"/>
+              <Event enabled="false" name="GFX_GOL_TEXTENTRY_ACTION_ENTER" pretty_name="Enter Pressed"/>
+            </Events>
+          </Widget>
+          <Widget type="WindowWidget">
+            <Name>Window3</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>6</ZOrder>
+            <Position>1,1</Position>
+            <Size>478,270</Size>
+            <Scheme>Window</Scheme>
+            <Text>Text Entry</Text>
+            <Image>mchpIcon0</Image>
+            <HAlignment>Center</HAlignment>
+            <VAlignment>Center</VAlignment>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_WINDOW_ACTION_TITLE" pretty_name="Title Area Touched"/>
+              <Event enabled="false" name="GFX_GOL_WINDOW_ACTION_CLIENT" pretty_name="Client Area Touched"/>
+            </Events>
+          </Widget>
+        </Objects>
+      </Screen>
+      <Screen active="false" background="000000" clearOnShow="true" doubleBuffer="false" export="true" name="ListBoxScreen" primary="false" visible="true">
+        <Objects>
+          <Widget type="ButtonWidget">
+            <Name>Button11</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>0</ZOrder>
+            <Position>400,235</Position>
+            <Size>75,31</Size>
+            <Scheme>default</Scheme>
+            <Text>Next</Text>
+            <HAlignment>Center</HAlignment>
+            <VAlignment>Center</VAlignment>
+            <Button_Type>Default</Button_Type>
+            <Radius>10</Radius>
+            <Pressed>false</Pressed>
+            <Toggle>false</Toggle>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_PRESSED" pretty_name="Pressed"/>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_STILLPRESSED" pretty_name="Still Pressed"/>
+              <Event enabled="true" name="GFX_GOL_BUTTON_ACTION_RELEASED" pretty_name="Released">
+                <Actions count="2">
+                  <Action name="Action" type="template" valid="true">
+                    <Target screen="true" type="">MeterScreen</Target>
+                    <Screen>MeterScreen</Screen>
+                    <Action>Activate Screen</Action>
+                  </Action>
+                  <Action name="customAction" type="custom">
+                    <Text>APP_resetMeterValues();</Text>
+                  </Action>
+                </Actions>
+              </Event>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_CANCELPRESS" pretty_name="Cancel Press"/>
+            </Events>
+          </Widget>
+          <Widget type="ButtonWidget">
+            <Name>Button9</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>1</ZOrder>
+            <Position>339,229</Position>
+            <Size>28,20</Size>
+            <Scheme>ListBoxScreen</Scheme>
+            <Text>v</Text>
+            <HAlignment>Center</HAlignment>
+            <VAlignment>Center</VAlignment>
+            <Button_Type>Default</Button_Type>
+            <Radius>0</Radius>
+            <Pressed>false</Pressed>
+            <Toggle>false</Toggle>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_PRESSED" pretty_name="Pressed"/>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_STILLPRESSED" pretty_name="Still Pressed"/>
+              <Event enabled="true" name="GFX_GOL_BUTTON_ACTION_RELEASED" pretty_name="Released">
+                <Actions count="1">
+                  <Action name="Action" type="custom">
+                    <Text>GFX_GOL_LISTBOX *pLb = (GFX_GOL_LISTBOX *) GFX_GOL_ObjectFind(GFX_INDEX_0, ListBox2);&#13;
+GFX_GOL_SCROLLBAR *pSld = (GFX_GOL_SCROLLBAR *) GFX_GOL_ObjectFind(GFX_INDEX_0, Slider1);&#13;
+GFX_GOL_ListBoxItemFocusSet(pLb, GFX_GOL_ListBoxItemFocusGet(pLb) + 1);&#13;
+GFX_GOL_ObjectStateSet(pLb, GFX_GOL_LISTBOX_DRAW_ITEMS_STATE);&#13;
+if (GFX_GOL_ScrollBarPositionGet(pSld) &gt; 0) {&#13;
+ GFX_GOL_ScrollBarPositionSet(pSld, GFX_GOL_ScrollBarPositionGet(pSld) - 1);&#13;
+ GFX_GOL_ObjectStateSet(pSld, GFX_GOL_SCROLLBAR_DRAW_THUMB_STATE);&#13;
+}</Text>
+                  </Action>
+                </Actions>
+              </Event>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_CANCELPRESS" pretty_name="Cancel Press"/>
+            </Events>
+          </Widget>
+          <Widget type="SliderWidget">
+            <Name>Slider1</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>2</ZOrder>
+            <Position>339,135</Position>
+            <Size>28,95</Size>
+            <Scheme>ListBoxScreen</Scheme>
+            <Range>9</Range>
+            <PageSize>1</PageSize>
+            <orientation>Vertical</orientation>
+            <pos>9</pos>
+            <sliderType>scrollbar</sliderType>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_SCROLLBAR_ACTION_INC" pretty_name="Incremented"/>
+              <Event enabled="false" name="GFX_GOL_SCROLLBAR_ACTION_DEC" pretty_name="Decremented"/>
+            </Events>
+          </Widget>
+          <Widget type="ButtonWidget">
+            <Name>Button8</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>3</ZOrder>
+            <Position>339,115</Position>
+            <Size>28,20</Size>
+            <Scheme>ListBoxScreen</Scheme>
+            <Text>^</Text>
+            <HAlignment>Center</HAlignment>
+            <VAlignment>Center</VAlignment>
+            <Button_Type>Default</Button_Type>
+            <Radius>0</Radius>
+            <Pressed>false</Pressed>
+            <Toggle>false</Toggle>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_PRESSED" pretty_name="Pressed"/>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_STILLPRESSED" pretty_name="Still Pressed"/>
+              <Event enabled="true" name="GFX_GOL_BUTTON_ACTION_RELEASED" pretty_name="Released">
+                <Actions count="1">
+                  <Action name="Action" type="custom">
+                    <Text>GFX_GOL_LISTBOX *pLb = (GFX_GOL_LISTBOX *) GFX_GOL_ObjectFind(GFX_INDEX_0, ListBox2);&#13;
+GFX_GOL_SCROLLBAR *pSld = (GFX_GOL_SCROLLBAR *) GFX_GOL_ObjectFind(GFX_INDEX_0, Slider1);&#13;
+ if (GFX_GOL_ListBoxItemFocusGet(pLb) &gt; 0) {&#13;
+        GFX_GOL_ListBoxItemFocusSet(pLb, GFX_GOL_ListBoxItemFocusGet(pLb) - 1);&#13;
+        GFX_GOL_ObjectStateSet(pLb, GFX_GOL_LISTBOX_DRAW_ITEMS_STATE);&#13;
+        GFX_GOL_ScrollBarPositionSet(pSld, GFX_GOL_ScrollBarPositionGet(pSld) + 1);&#13;
+        GFX_GOL_ObjectStateSet(pSld, GFX_GOL_SCROLLBAR_DRAW_THUMB_STATE);&#13;
+}</Text>
+                  </Action>
+                </Actions>
+              </Event>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_CANCELPRESS" pretty_name="Cancel Press"/>
+            </Events>
+          </Widget>
+          <Widget type="ListBoxWidget">
+            <Name>ListBox2</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>4</ZOrder>
+            <Position>138,115</Position>
+            <Size>197,133</Size>
+            <Scheme>ListBoxScreen</Scheme>
+            <Alignment>Left</Alignment>
+            <Items count="10" focus="0">
+              <Item id="0">
+                <Text>Applications</Text>
+                <UserData>0</UserData>
+              </Item>
+              <Item id="1">
+                <Text>Home Appliances</Text>
+                <UserData>0</UserData>
+              </Item>
+              <Item id="2">
+                <Text>Home Automation</Text>
+                <UserData>0</UserData>
+              </Item>
+              <Item id="3">
+                <Text>Industrial Controls</Text>
+                <UserData>0</UserData>
+              </Item>
+              <Item id="4">
+                <Text>Medical Devices</Text>
+                <UserData>0</UserData>
+              </Item>
+              <Item id="5">
+                <Text>Automotive</Text>
+                <UserData>0</UserData>
+              </Item>
+              <Item id="6">
+                <Text>Motor Controllers</Text>
+                <UserData>0</UserData>
+              </Item>
+              <Item id="7">
+                <Text>Remote Controls</Text>
+                <UserData>0</UserData>
+              </Item>
+              <Item id="8">
+                <Text>Toys</Text>
+                <UserData>0</UserData>
+              </Item>
+              <Item id="9">
+                <Text>And many more...</Text>
+                <UserData>0</UserData>
+              </Item>
+            </Items>
+            <Events>
+              <Event enabled="true" name="GFX_GOL_LISTBOX_ACTION_TOUCHSCREEN" pretty_name="Touched">
+                <Actions count="1">
+                  <Action name="Action" type="custom">
+                    <Text>// Set new list box position&#13;
+GFX_GOL_SCROLLBAR *pSld = (GFX_GOL_SCROLLBAR *) GFX_GOL_ObjectFind(GFX_INDEX_0, Slider1);&#13;
+GFX_GOL_LISTBOX *pLb = (GFX_GOL_LISTBOX *) GFX_GOL_ObjectFind(GFX_INDEX_0, ListBox2);&#13;
+GFX_GOL_ScrollBarPositionSet(pSld, GFX_GOL_ListBoxItemCountGet(pLb) - GFX_GOL_ListBoxItemFocusGet(pLb));&#13;
+GFX_GOL_ObjectStateSet(pSld, GFX_GOL_SCROLLBAR_DRAW_THUMB_STATE);&#13;
+</Text>
+                  </Action>
+                </Actions>
+              </Event>
+              <Event enabled="false" name="GFX_GOL_LISTBOX_ACTION_MOVE" pretty_name="Moved"/>
+              <Event enabled="false" name="GFX_GOL_LISTBOX_ACTION_SELECTED" pretty_name="Selected"/>
+            </Events>
+          </Widget>
+          <Widget type="RadioButtonWidget">
+            <Name>RadioButton6</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>5</ZOrder>
+            <Position>300,62</Position>
+            <Size>89,31</Size>
+            <Scheme>Window</Scheme>
+            <firstInGroup>false</firstInGroup>
+            <Text>Right</Text>
+            <Group>3</Group>
+            <NumGroupsInScreen>1</NumGroupsInScreen>
+            <Check>false</Check>
+            <HAlignment>Left</HAlignment>
+            <VAlignment>Center</VAlignment>
+            <Events>
+              <Event enabled="true" name="GFX_GOL_RADIOBUTTON_ACTION_CHECKED" pretty_name="Checked">
+                <Actions count="1">
+                  <Action name="CustomAction" type="custom">
+                    <Text>
+                      GFX_GOL_ListBoxTextAlignmentSet(hgcObj.pListBox2Obj, GFX_ALIGN_RIGHT);
+                      GFX_GOL_ObjectStateSet(hgcObj.pListBox2Obj,GFX_GOL_LISTBOX_DRAW_STATE);
+                    </Text>
+                  </Action>
+                </Actions>
+              </Event>
+            </Events>
+          </Widget>
+          <Widget type="RadioButtonWidget">
+            <Name>RadioButton5</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>6</ZOrder>
+            <Position>186,62</Position>
+            <Size>108,31</Size>
+            <Scheme>Window</Scheme>
+            <firstInGroup>false</firstInGroup>
+            <Text>Center</Text>
+            <Group>3</Group>
+            <NumGroupsInScreen>1</NumGroupsInScreen>
+            <Check>false</Check>
+            <HAlignment>Left</HAlignment>
+            <VAlignment>Center</VAlignment>
+            <Events>
+              <Event enabled="true" name="GFX_GOL_RADIOBUTTON_ACTION_CHECKED" pretty_name="Checked">
+                <Actions count="1">
+                  <Action name="CustomAction" type="custom">
+                    <Text>
+                      GFX_GOL_ListBoxTextAlignmentSet(hgcObj.pListBox2Obj, GFX_ALIGN_CENTER);
+                      GFX_GOL_ObjectStateSet(hgcObj.pListBox2Obj,GFX_GOL_LISTBOX_DRAW_STATE);
+                    </Text>
+                  </Action>
+                </Actions>
+              </Event>
+            </Events>
+          </Widget>
+          <Widget type="RadioButtonWidget">
+            <Name>RadioButton4</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>7</ZOrder>
+            <Position>84,61</Position>
+            <Size>80,31</Size>
+            <Scheme>Window</Scheme>
+            <firstInGroup>true</firstInGroup>
+            <Text>Left</Text>
+            <Group>3</Group>
+            <NumGroupsInScreen>1</NumGroupsInScreen>
+            <Check>true</Check>
+            <HAlignment>Left</HAlignment>
+            <VAlignment>Center</VAlignment>
+            <Events>
+              <Event enabled="true" name="GFX_GOL_RADIOBUTTON_ACTION_CHECKED" pretty_name="Checked">
+                <Actions count="1">
+                  <Action name="CustomAction" type="custom">
+                    <Text>
+                      GFX_GOL_ListBoxTextAlignmentSet(hgcObj.pListBox2Obj, GFX_ALIGN_LEFT);
+                      GFX_GOL_ObjectStateSet(hgcObj.pListBox2Obj,GFX_GOL_LISTBOX_DRAW_STATE);
+                    </Text>
+                  </Action>
+                </Actions>
+              </Event>
+            </Events>
+          </Widget>
+          <Widget type="GroupBoxWidget">
+            <Name>GroupBox2</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>8</ZOrder>
+            <Position>46,39</Position>
+            <Size>393,70</Size>
+            <Scheme>Window</Scheme>
+            <Text>Alignment</Text>
+            <Alignment>Center</Alignment>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_GROUPBOX_ACTION_SELECTED" pretty_name="Selected"/>
+            </Events>
+          </Widget>
+          <Widget type="ButtonWidget">
+            <Name>Button7</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>9</ZOrder>
+            <Position>2,237</Position>
+            <Size>75,31</Size>
+            <Scheme>default</Scheme>
+            <Text>Prev.</Text>
+            <HAlignment>Center</HAlignment>
+            <VAlignment>Center</VAlignment>
+            <Button_Type>Default</Button_Type>
+            <Radius>10</Radius>
+            <Pressed>false</Pressed>
+            <Toggle>false</Toggle>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_PRESSED" pretty_name="Pressed"/>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_STILLPRESSED" pretty_name="Still Pressed"/>
+              <Event enabled="true" name="GFX_GOL_BUTTON_ACTION_RELEASED" pretty_name="Released">
+                <Actions count="1">
+                  <Action name="Action" type="template" valid="true">
+                    <Target screen="true" type="">TextEntryScreen</Target>
+                    <Screen>TextEntryScreen</Screen>
+                    <Action>Activate Screen</Action>
+                  </Action>
+                </Actions>
+              </Event>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_CANCELPRESS" pretty_name="Cancel Press"/>
+            </Events>
+          </Widget>
+          <Widget type="WindowWidget">
+            <Name>Window4</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>10</ZOrder>
+            <Position>1,1</Position>
+            <Size>478,270</Size>
+            <Scheme>Window</Scheme>
+            <Text>List Box</Text>
+            <Image>mchpIcon0</Image>
+            <HAlignment>Center</HAlignment>
+            <VAlignment>Center</VAlignment>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_WINDOW_ACTION_TITLE" pretty_name="Title Area Touched"/>
+              <Event enabled="false" name="GFX_GOL_WINDOW_ACTION_CLIENT" pretty_name="Client Area Touched"/>
+            </Events>
+          </Widget>
+        </Objects>
+      </Screen>
+      <Screen active="false" background="000000" clearOnShow="true" doubleBuffer="false" export="true" name="MeterScreen" primary="false" visible="true">
+        <Objects>
+          <Widget type="ButtonWidget">
+            <Name>Button13</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>0</ZOrder>
+            <Position>2,237</Position>
+            <Size>75,31</Size>
+            <Scheme>default</Scheme>
+            <Text>Prev.</Text>
+            <HAlignment>Center</HAlignment>
+            <VAlignment>Center</VAlignment>
+            <Button_Type>Default</Button_Type>
+            <Radius>10</Radius>
+            <Pressed>false</Pressed>
+            <Toggle>false</Toggle>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_PRESSED" pretty_name="Pressed"/>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_STILLPRESSED" pretty_name="Still Pressed"/>
+              <Event enabled="true" name="GFX_GOL_BUTTON_ACTION_RELEASED" pretty_name="Released">
+                <Actions count="1">
+                  <Action name="Action" type="template" valid="true">
+                    <Target screen="true" type="">ListBoxScreen</Target>
+                    <Screen>ListBoxScreen</Screen>
+                    <Action>Activate Screen</Action>
+                  </Action>
+                </Actions>
+              </Event>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_CANCELPRESS" pretty_name="Cancel Press"/>
+            </Events>
+          </Widget>
+          <Widget type="ButtonWidget">
+            <Name>Button12</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>1</ZOrder>
+            <Position>174,223</Position>
+            <Size>125,42</Size>
+            <Scheme>default</Scheme>
+            <Text>Accelerate</Text>
+            <HAlignment>Center</HAlignment>
+            <VAlignment>Center</VAlignment>
+            <Button_Type>Default</Button_Type>
+            <Radius>10</Radius>
+            <Pressed>false</Pressed>
+            <Toggle>false</Toggle>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_PRESSED" pretty_name="Pressed"/>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_STILLPRESSED" pretty_name="Still Pressed"/>
+              <Event enabled="true" name="GFX_GOL_BUTTON_ACTION_RELEASED" pretty_name="Released">
+                <Actions count="1">
+                  <Action name="customAction" type="custom">
+                    <Text>changeMeterState();</Text>
+                  </Action>
+                </Actions>
+              </Event>
+              <Event enabled="false" name="GFX_GOL_BUTTON_ACTION_CANCELPRESS" pretty_name="Cancel Press"/>
+            </Events>
+          </Widget>
+          <Widget type="DigitalMeterWidget">
+            <Name>DigitalMeter1</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>2</ZOrder>
+            <Position>192,117</Position>
+            <Size>89,43</Size>
+            <Scheme>buttons</Scheme>
+            <Value>300</Value>
+            <DigitCount>3</DigitCount>
+            <DotPosition>1</DotPosition>
+            <HAlignment>Center</HAlignment>
+            <VAlignment>Center</VAlignment>
+            <Frame>false</Frame>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_DIGITALMETER_ACTION_SELECTED" pretty_name="Selected"/>
+            </Events>
+          </Widget>
+          <Widget type="MeterWidget">
+            <Name>Meter2</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>3</ZOrder>
+            <Position>290,43</Position>
+            <Size>176,169</Size>
+            <Scheme>Meter</Scheme>
+            <TitleFont>Times_New_Roman</TitleFont>
+            <ValueFont>Times_New_Roman</ValueFont>
+            <MeterType>quarter</MeterType>
+            <Text>Meter</Text>
+            <Value>0</Value>
+            <MinValue>0</MinValue>
+            <MaxValue>300</MaxValue>
+            <UseCustomColors>true</UseCustomColors>
+            <Color1>00FC00</Color1>
+            <Color2>00FF00</Color2>
+            <Color3>00FC00</Color3>
+            <Color4>00FC00</Color4>
+            <Color5>F80000</Color5>
+            <Color6>F80000</Color6>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_METER_ACTION_SET" pretty_name="Action Set"/>
+            </Events>
+          </Widget>
+          <Widget type="MeterWidget">
+            <Name>Meter1</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>4</ZOrder>
+            <Position>8,44</Position>
+            <Size>176,169</Size>
+            <Scheme>Meter</Scheme>
+            <TitleFont>Times_New_Roman</TitleFont>
+            <ValueFont>Times_New_Roman</ValueFont>
+            <MeterType>whole</MeterType>
+            <Text>Meter</Text>
+            <Value>0</Value>
+            <MinValue>0</MinValue>
+            <MaxValue>300</MaxValue>
+            <UseCustomColors>true</UseCustomColors>
+            <Color1>00FC00</Color1>
+            <Color2>00FF00</Color2>
+            <Color3>00FC00</Color3>
+            <Color4>FFC800</Color4>
+            <Color5>FF0000</Color5>
+            <Color6>F80000</Color6>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_METER_ACTION_SET" pretty_name="Action Set"/>
+            </Events>
+          </Widget>
+          <Widget type="WindowWidget">
+            <Name>Window7</Name>
+            <Enabled>true</Enabled>
+            <Visible>true</Visible>
+            <ZOrder>5</ZOrder>
+            <Position>1,1</Position>
+            <Size>478,270</Size>
+            <Scheme>default</Scheme>
+            <Text>Meter Widget</Text>
+            <Image>mchpIcon0</Image>
+            <HAlignment>Center</HAlignment>
+            <VAlignment>Center</VAlignment>
+            <Events>
+              <Event enabled="false" name="GFX_GOL_WINDOW_ACTION_TITLE" pretty_name="Title Area Touched"/>
+              <Event enabled="false" name="GFX_GOL_WINDOW_ACTION_CLIENT" pretty_name="Client Area Touched"/>
+            </Events>
+          </Widget>
+        </Objects>
+      </Screen>
+    </Screens>
+    <Schemes defaultSchemeName="default">
+      <Scheme name="TextEntryScreen">
+        <Font>Bookman_Old_Style</Font>
+        <Alpha>100</Alpha>
+        <BackgroundOffset>0,0</BackgroundOffset>
+        <EmbossSize>3</EmbossSize>
+        <Colors>
+          <Primary>037112</Primary>
+          <Secondary>404040</Secondary>
+          <Disabled>C0C0C0</Disabled>
+          <Background>000000</Background>
+          <EmbossLight>C0C0C0</EmbossLight>
+          <EmbossDark>404040</EmbossDark>
+          <TextPrimary>F5F9F5</TextPrimary>
+          <TextSecondary>FFFFFF</TextSecondary>
+          <TextDisabled>404040</TextDisabled>
+          <GradientStart>000000</GradientStart>
+          <GradientEnd>FFFFFF</GradientEnd>
+        </Colors>
+        <FillStyle>Color</FillStyle>
+        <BackgroundType>None</BackgroundType>
+      </Scheme>
+      <Scheme name="Window">
+        <Font>Bookman_Old_Style</Font>
+        <Alpha>100</Alpha>
+        <BackgroundOffset>0,0</BackgroundOffset>
+        <EmbossSize>3</EmbossSize>
+        <Colors>
+          <Primary>4141CC</Primary>
+          <Secondary>404040</Secondary>
+          <Disabled>C0C0C0</Disabled>
+          <Background>C097D5</Background>
+          <EmbossLight>E6949C</EmbossLight>
+          <EmbossDark>CD1D27</EmbossDark>
+          <TextPrimary>F5F9F5</TextPrimary>
+          <TextSecondary>FFFFFF</TextSecondary>
+          <TextDisabled>404040</TextDisabled>
+          <GradientStart>000000</GradientStart>
+          <GradientEnd>FFFFFF</GradientEnd>
+        </Colors>
+        <FillStyle>Color</FillStyle>
+        <BackgroundType>None</BackgroundType>
+      </Scheme>
+      <Scheme name="default">
+        <Font>Bookman_Old_Style</Font>
+        <Alpha>100</Alpha>
+        <BackgroundOffset>0,0</BackgroundOffset>
+        <EmbossSize>3</EmbossSize>
+        <Colors>
+          <Primary>070BF0</Primary>
+          <Secondary>C094D8</Secondary>
+          <Disabled>C0C0C0</Disabled>
+          <Background>C094D8</Background>
+          <EmbossLight>EBA7B6</EmbossLight>
+          <EmbossDark>EE6363</EmbossDark>
+          <TextPrimary>F5F9F5</TextPrimary>
+          <TextSecondary>FFFFFF</TextSecondary>
+          <TextDisabled>404040</TextDisabled>
+          <GradientStart>000000</GradientStart>
+          <GradientEnd>FFFFFF</GradientEnd>
+        </Colors>
+        <FillStyle>Color</FillStyle>
+        <BackgroundType>None</BackgroundType>
+      </Scheme>
+      <Scheme name="buttons">
+        <Font>Bookman_Old_Style</Font>
+        <Alpha>100</Alpha>
+        <BackgroundOffset>0,0</BackgroundOffset>
+        <EmbossSize>3</EmbossSize>
+        <Colors>
+          <Primary>F70000</Primary>
+          <Secondary>404040</Secondary>
+          <Disabled>C0C0C0</Disabled>
+          <Background>000000</Background>
+          <EmbossLight>C0C0C0</EmbossLight>
+          <EmbossDark>404040</EmbossDark>
+          <TextPrimary>F5F9F5</TextPrimary>
+          <TextSecondary>FFFFFF</TextSecondary>
+          <TextDisabled>404040</TextDisabled>
+          <GradientStart>000000</GradientStart>
+          <GradientEnd>FFFFFF</GradientEnd>
+        </Colors>
+        <FillStyle>Color</FillStyle>
+        <BackgroundType>None</BackgroundType>
+      </Scheme>
+      <Scheme name="Meter">
+        <Font>Bookman_Old_Style</Font>
+        <Alpha>100</Alpha>
+        <BackgroundOffset>0,0</BackgroundOffset>
+        <EmbossSize>3</EmbossSize>
+        <Colors>
+          <Primary>0814F0</Primary>
+          <Secondary>F8FCF8</Secondary>
+          <Disabled>C0C0C0</Disabled>
+          <Background>000000</Background>
+          <EmbossLight>C0C0C0</EmbossLight>
+          <EmbossDark>404040</EmbossDark>
+          <TextPrimary>000000</TextPrimary>
+          <TextSecondary>FFFFFF</TextSecondary>
+          <TextDisabled>404040</TextDisabled>
+          <GradientStart>000000</GradientStart>
+          <GradientEnd>FFFFFF</GradientEnd>
+        </Colors>
+        <FillStyle>Color</FillStyle>
+        <BackgroundType>None</BackgroundType>
+      </Scheme>
+      <Scheme name="pressedButton">
+        <Font>Bookman_Old_Style</Font>
+        <Alpha>100</Alpha>
+        <BackgroundOffset>0,0</BackgroundOffset>
+        <EmbossSize>3</EmbossSize>
+        <Colors>
+          <Primary>FFFFFF</Primary>
+          <Secondary>FFFFFF</Secondary>
+          <Disabled>C0C0C0</Disabled>
+          <Background>F8FCF8</Background>
+          <EmbossLight>C0C0C0</EmbossLight>
+          <EmbossDark>404040</EmbossDark>
+          <TextPrimary>000000</TextPrimary>
+          <TextSecondary>FFFFFF</TextSecondary>
+          <TextDisabled>404040</TextDisabled>
+          <GradientStart>000000</GradientStart>
+          <GradientEnd>FFFFFF</GradientEnd>
+        </Colors>
+        <FillStyle>Color</FillStyle>
+        <BackgroundType>None</BackgroundType>
+      </Scheme>
+      <Scheme name="staticText">
+        <Font>Bookman_Old_Style</Font>
+        <Alpha>0</Alpha>
+        <BackgroundOffset>0,0</BackgroundOffset>
+        <EmbossSize>3</EmbossSize>
+        <Colors>
+          <Primary>FFFFFF</Primary>
+          <Secondary>000000</Secondary>
+          <Disabled>C0C0C0</Disabled>
+          <Background>C4A4F3</Background>
+          <EmbossLight>C0C0C0</EmbossLight>
+          <EmbossDark>404040</EmbossDark>
+          <TextPrimary>000000</TextPrimary>
+          <TextSecondary>FFFFFF</TextSecondary>
+          <TextDisabled>404040</TextDisabled>
+          <GradientStart>000000</GradientStart>
+          <GradientEnd>FFFFFF</GradientEnd>
+        </Colors>
+        <FillStyle>Color</FillStyle>
+        <BackgroundType>None</BackgroundType>
+      </Scheme>
+      <Scheme name="ListBoxScreen">
+        <Font>Bookman_Old_Style</Font>
+        <Alpha>100</Alpha>
+        <BackgroundOffset>0,0</BackgroundOffset>
+        <EmbossSize>3</EmbossSize>
+        <Colors>
+          <Primary>BA87F0</Primary>
+          <Secondary>960FE9</Secondary>
+          <Disabled>C0C0C0</Disabled>
+          <Background>BC87E9</Background>
+          <EmbossLight>C0C0C0</EmbossLight>
+          <EmbossDark>404040</EmbossDark>
+          <TextPrimary>000000</TextPrimary>
+          <TextSecondary>FFFFFF</TextSecondary>
+          <TextDisabled>404040</TextDisabled>
+          <GradientStart>000000</GradientStart>
+          <GradientEnd>FFFFFF</GradientEnd>
+        </Colors>
+        <FillStyle>Color</FillStyle>
+        <BackgroundType>None</BackgroundType>
+      </Scheme>
+    </Schemes>
+  </Designer>
+  <DisplayManager>
+    <SystemInitScript/>
+    <SystemStartScript/>
+  </DisplayManager>
+  <General>
+    <HarmonyPath path="../../.."/>
+    <Processor name="PIC32MZ2048ECH144"/>
+    <ForceOptimization flag="true"/>
+    <MergeStrategy flag="USER_ALL"/>
+  </General>
+  <Manifest>
+    <Files>
+      <File>
+        <Name>drv_tmr_local.h</Name>
+        <Path>Header Files/framework/driver/tmr/src</Path>
+      </File>
+      <File>
+        <Name>gfx_gol_progress_bar.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>gfx_gol_static_text.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>gfx_gol_progress_bar.c</Name>
+        <Path>Source Files/framework/gfx/src</Path>
+      </File>
+      <File>
+        <Name>gfx.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>gfx_gol_window.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>drv_mtch6301.h</Name>
+        <Path>Header Files/framework/driver/touch/mtch6301</Path>
+      </File>
+      <File>
+        <Name>gfx_gol_digital_meter.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>gfx_gol.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>gfx_common.h</Name>
+        <Path>Header Files/framework/driver/gfx</Path>
+      </File>
+      <File>
+        <Name>bsp_sys_init.c</Name>
+        <Path>Source Files/bsp/pic32mz_ec_sk+meb2</Path>
+      </File>
+      <File>
+        <Name>sys_touch.c</Name>
+        <Path>Source Files/framework/system/touch/src</Path>
+      </File>
+      <File>
+        <Name>drv_touch.h</Name>
+        <Path>Header Files/framework/driver/touch</Path>
+      </File>
+      <File>
+        <Name>gfx_primitive.c</Name>
+        <Path>Source Files/framework/gfx/src</Path>
+      </File>
+      <File>
+        <Name>gfx_types_image.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>system.h</Name>
+        <Path>Header Files/framework/system</Path>
+      </File>
+      <File>
+        <Name>gfx_gol_edit_box.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>drv_gfx_controller.h</Name>
+        <Path>Header Files/framework/driver/gfx/controller</Path>
+      </File>
+      <File>
+        <Name>sys_dma.c</Name>
+        <Path>Source Files/framework/system/dma</Path>
+      </File>
+      <File>
+        <Name>osal_impl_basic.h</Name>
+        <Path>Header Files/framework/osal/src</Path>
+      </File>
+      <File>
+        <Name>peripheral_common_32bit.h</Name>
+        <Path>Header Files/framework/peripheral</Path>
+      </File>
+      <File>
+        <Name>sys_touch_local.h</Name>
+        <Path>Header Files/framework/system/touch/src</Path>
+      </File>
+      <File>
+        <Name>gfx_gol_list_box.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>drv_tmr.h</Name>
+        <Path>Header Files/framework/driver/tmr</Path>
+      </File>
+      <File>
+        <Name>gfx_gol_scroll_bar.c</Name>
+        <Path>Source Files/framework/gfx/src</Path>
+      </File>
+      <File>
+        <Name>sys_devcon.c</Name>
+        <Path>Source Files/framework/system/devcon/src</Path>
+      </File>
+      <File>
+        <Name>drv_i2c_bb.h</Name>
+        <Path>Header Files/framework/driver/i2c</Path>
+      </File>
+      <File>
+        <Name>gfx_gol_radio_button.c</Name>
+        <Path>Source Files/framework/gfx/src</Path>
+      </File>
+      <File>
+        <Name>sys_dma.h</Name>
+        <Path>Header Files/framework/system/dma</Path>
+      </File>
+      <File>
+        <Name>sys_tmr.h</Name>
+        <Path>Header Files/framework/system/tmr</Path>
+      </File>
+      <File>
+        <Name>osal.h</Name>
+        <Path>Header Files/framework/osal</Path>
+      </File>
+      <File>
+        <Name>sys_dma_local.h</Name>
+        <Path>Header Files/framework/system/dma/src</Path>
+      </File>
+      <File>
+        <Name>gfx_types_resource.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>gfx_types_palette.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>gfx_gol_scan_codes.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>gfx_gol_check_box.c</Name>
+        <Path>Source Files/framework/gfx/src</Path>
+      </File>
+      <File>
+        <Name>gfx_types_font.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>sys_touch.h</Name>
+        <Path>Header Files/framework/system/touch</Path>
+      </File>
+      <File>
+        <Name>osal_definitions.h</Name>
+        <Path>Header Files/framework/osal</Path>
+      </File>
+      <File>
+        <Name>sys_int_mapping.h</Name>
+        <Path>Header Files/framework/system/int</Path>
+      </File>
+      <File>
+        <Name>sys_msg.h</Name>
+        <Path>Header Files/framework/system/msg</Path>
+      </File>
+      <File>
+        <Name>sys_devcon.h</Name>
+        <Path>Header Files/framework/system/devcon</Path>
+      </File>
+      <File>
+        <Name>gfx_gol_scheme_default.c</Name>
+        <Path>Source Files/framework/gfx/src</Path>
+      </File>
+      <File>
+        <Name>sys_debug.h</Name>
+        <Path>Header Files/framework/system/debug</Path>
+      </File>
+      <File>
+        <Name>sys_devcon_local.h</Name>
+        <Path>Header Files/framework/system/devcon/src</Path>
+      </File>
+      <File>
+        <Name>peripheral.h</Name>
+        <Path>Header Files/framework/peripheral</Path>
+      </File>
+      <File>
+        <Name>gfx_gol_window.c</Name>
+        <Path>Source Files/framework/gfx/src</Path>
+      </File>
+      <File>
+        <Name>drv_tmr_mapping.h</Name>
+        <Path>Header Files/framework/driver/tmr</Path>
+      </File>
+      <File>
+        <Name>driver_common.h</Name>
+        <Path>Header Files/framework/driver</Path>
+      </File>
+      <File>
+        <Name>gfx_gol_text_entry.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>gfx_colors.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>sys_tmr.c</Name>
+        <Path>Source Files/framework/system/tmr/src</Path>
+      </File>
+      <File>
+        <Name>gfx_primitive.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>gfx_gol_button.c</Name>
+        <Path>Source Files/framework/gfx/src</Path>
+      </File>
+      <File>
+        <Name>drv_mtch6301.c</Name>
+        <Path>Source Files/framework/driver/touch/mtch6301/src</Path>
+      </File>
+      <File>
+        <Name>gfx_gol_group_box.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>gfx_gol_scroll_bar.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>driver.h</Name>
+        <Path>Header Files/framework/driver</Path>
+      </File>
+      <File>
+        <Name>peripheral_common.h</Name>
+        <Path>Header Files/framework/peripheral</Path>
+      </File>
+      <File>
+        <Name>sys_int_pic32.c</Name>
+        <Path>Source Files/framework/system/int/src</Path>
+      </File>
+      <File>
+        <Name>gfx_gol_button.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>sys_clk.h</Name>
+        <Path>Header Files/framework/system/clk</Path>
+      </File>
+      <File>
+        <Name>sys_msg.c</Name>
+        <Path>Source Files/framework/system/msg/src</Path>
+      </File>
+      <File>
+        <Name>gfx_gol_meter.c</Name>
+        <Path>Source Files/framework/gfx/src</Path>
+      </File>
+      <File>
+        <Name>drv_tmr.c</Name>
+        <Path>Source Files/framework/driver/tmr/src/dynamic</Path>
+      </File>
+      <File>
+        <Name>gfx_gol_text_entry.c</Name>
+        <Path>Source Files/framework/gfx/src</Path>
+      </File>
+      <File>
+        <Name>gfx_gol_static_text.c</Name>
+        <Path>Source Files/framework/gfx/src</Path>
+      </File>
+      <File>
+        <Name>sys_int_private.h</Name>
+        <Path>Header Files/framework/system/int/src</Path>
+      </File>
+      <File>
+        <Name>drv_tmr_compatibility.h</Name>
+        <Path>Header Files/framework/driver/tmr</Path>
+      </File>
+      <File>
+        <Name>sys_tmr_local.h</Name>
+        <Path>Header Files/framework/system/tmr/src</Path>
+      </File>
+      <File>
+        <Name>gfx_gol.c</Name>
+        <Path>Source Files/framework/gfx/src</Path>
+      </File>
+      <File>
+        <Name>drv_i2c_bb_a.h</Name>
+        <Path>Header Files/framework/driver/i2c</Path>
+      </File>
+      <File>
+        <Name>gfx_gol_check_box.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>gfx_types_macros.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>sys_msg_local.h</Name>
+        <Path>Header Files/framework/system/msg/src</Path>
+      </File>
+      <File>
+        <Name>gfx_gol_digital_meter.c</Name>
+        <Path>Source Files/framework/gfx/src</Path>
+      </File>
+      <File>
+        <Name>sys_int.h</Name>
+        <Path>Header Files/framework/system/int</Path>
+      </File>
+      <File>
+        <Name>drv_tmr_variant_mapping.h</Name>
+        <Path>Header Files/framework/driver/tmr/src</Path>
+      </File>
+      <File>
+        <Name>gfx.c</Name>
+        <Path>Source Files/framework/gfx/src</Path>
+      </File>
+      <File>
+        <Name>gfx_gol_edit_box.c</Name>
+        <Path>Source Files/framework/gfx/src</Path>
+      </File>
+      <File>
+        <Name>sys_ports.h</Name>
+        <Path>Header Files/framework/system/ports</Path>
+      </File>
+      <File>
+        <Name>gfx_gol_list_box.c</Name>
+        <Path>Source Files/framework/gfx/src</Path>
+      </File>
+      <File>
+        <Name>bsp_config.h</Name>
+        <Path>Header Files/bsp/pic32mz_ec_sk+meb2</Path>
+      </File>
+      <File>
+        <Name>sys_common.h</Name>
+        <Path>Header Files/framework/system/common</Path>
+      </File>
+      <File>
+        <Name>sys_buffer.h</Name>
+        <Path>Header Files/framework/system/common</Path>
+      </File>
+      <File>
+        <Name>drv_i2c_bb_a.c</Name>
+        <Path>Source Files/framework/driver/i2c/src/dynamic</Path>
+      </File>
+      <File>
+        <Name>drv_i2c_bb.c</Name>
+        <Path>Source Files/framework/driver/i2c/src/dynamic</Path>
+      </File>
+      <File>
+        <Name>gfx_gol_meter.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>osal_impl_none.h</Name>
+        <Path>Header Files/framework/osal/src</Path>
+      </File>
+      <File>
+        <Name>drv_i2c_variant_mapping.h</Name>
+        <Path>Header Files/framework/driver/i2c/src</Path>
+      </File>
+      <File>
+        <Name>sys_clk_mapping.h</Name>
+        <Path>Header Files/framework/system/clk</Path>
+      </File>
+      <File>
+        <Name>sys_devcon_cache_pic32mz.S</Name>
+        <Path>Source Files/framework/system/devcon/src</Path>
+      </File>
+      <File>
+        <Name>gfx_gol_scheme.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>gfx_palette.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>gfx_gol_group_box.c</Name>
+        <Path>Source Files/framework/gfx/src</Path>
+      </File>
+      <File>
+        <Name>sys_msg_config.h</Name>
+        <Path>Header Files/framework/system/msg/config</Path>
+      </File>
+      <File>
+        <Name>gfx_gol_radio_button.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>sys_module.h</Name>
+        <Path>Header Files/framework/system/common</Path>
+      </File>
+      <File>
+        <Name>drv_i2c_mapping.h</Name>
+        <Path>Header Files/framework/driver/i2c</Path>
+      </File>
+      <File>
+        <Name>drv_i2c_local_bb.h</Name>
+        <Path>Header Files/framework/driver/i2c/src</Path>
+      </File>
+      <File>
+        <Name>sys_devcon_pic32mz.c</Name>
+        <Path>Source Files/framework/system/devcon/src</Path>
+      </File>
+      <File>
+        <Name>sys_queue.h</Name>
+        <Path>Header Files/framework/system/common</Path>
+      </File>
+      <File>
+        <Name>drv_i2c_bb_a_compatibility.h</Name>
+        <Path>Header Files/framework/driver/i2c</Path>
+      </File>
+    </Files>
+    <Templates>
+      <Template>
+        <Name>sys_ports_static.c</Name>
+        <Path>Source Files/app/system_config/pic32mz_ec_sk_meb2/framework/system/ports/src</Path>
+        <Checksum>C5D0C159842B35D064219E08E90111AA</Checksum>
+      </Template>
+      <Template>
+        <Name>main.c</Name>
+        <Path>Source Files/app</Path>
+      </Template>
+      <Template>
+        <Name>system_tasks.c</Name>
+        <Path>Source Files/app/system_config/pic32mz_ec_sk_meb2</Path>
+        <Checksum>B55FA28BE3629F77C46B90669A45EBC8</Checksum>
+      </Template>
+      <Template>
+        <Name>system_init.c</Name>
+        <Path>Source Files/app/system_config/pic32mz_ec_sk_meb2</Path>
+        <Checksum>371D4C40F51E9082F65D7B2E88C56B7F</Checksum>
+      </Template>
+      <Template>
+        <Name>system_interrupt.c</Name>
+        <Path>Source Files/app/system_config/pic32mz_ec_sk_meb2</Path>
+        <Checksum>99E60C4F701E04BB419E60045340C732</Checksum>
+      </Template>
+      <Template>
+        <Name>app.c</Name>
+        <Path>Source Files/app</Path>
+      </Template>
+      <Template>
+        <Name>gfx_hgc_definitions.h</Name>
+        <Path>Header Files/app/system_config/pic32mz_ec_sk_meb2</Path>
+        <Checksum>E6EA4B9BA41090DE2AF88B5858FB9DDD</Checksum>
+      </Template>
+      <Template>
+        <Name>drv_gfx_lcc_generic.c</Name>
+        <Path>Source Files/app/system_config/pic32mz_ec_sk_meb2/framework/driver/gfx/controller/lcc</Path>
+        <Checksum>660835F7914DF9A43C2E365D489255DD</Checksum>
+      </Template>
+      <Template>
+        <Name>system_config.h</Name>
+        <Path>Header Files/app/system_config/pic32mz_ec_sk_meb2</Path>
+        <Checksum>4C8BA0B04EC7436C090E9C9AE2A6AF72</Checksum>
+      </Template>
+      <Template>
+        <Name>system_definitions.h</Name>
+        <Path>Header Files/app/system_config/pic32mz_ec_sk_meb2</Path>
+        <Checksum>7536D1D3B76C6FAD0584384207443667</Checksum>
+      </Template>
+      <Template>
+        <Name>gfx_resources_int.S</Name>
+        <Path>Source Files/app/system_config/pic32mz_ec_sk_meb2</Path>
+        <Checksum>E7CB8C6FB95C93E0E585C0F0E8536F2A</Checksum>
+      </Template>
+      <Template>
+        <Name>system_exceptions.c</Name>
+        <Path>Source Files/app/system_config/pic32mz_ec_sk_meb2</Path>
+        <Checksum>C111969CA43D6CEA1E9E33A6164E7AE0</Checksum>
+      </Template>
+      <Template>
+        <Name>gfx_hgc_definitions.c</Name>
+        <Path>Source Files/app/system_config/pic32mz_ec_sk_meb2</Path>
+        <Checksum>BF4329981E357D7F8EB858C5C3C41DA9</Checksum>
+      </Template>
+      <Template>
+        <Name>sys_clk_static.h</Name>
+        <Path>Header Files/app/system_config/pic32mz_ec_sk_meb2/framework/system/clk</Path>
+        <Checksum>B4BD59D8D7C4DA95DC5E3B57755FD352</Checksum>
+      </Template>
+      <Template>
+        <Name>gfx_resources_int.h</Name>
+        <Path>Header Files/app/system_config/pic32mz_ec_sk_meb2</Path>
+        <Checksum>F6E7BD170C38D30A2CE8424D58954822</Checksum>
+      </Template>
+      <Template>
+        <Name>app.h</Name>
+        <Path>Header Files/app</Path>
+      </Template>
+      <Template>
+        <Name>sys_clk_static.c</Name>
+        <Path>Source Files/app/system_config/pic32mz_ec_sk_meb2/framework/system/clk/src</Path>
+        <Checksum>4681B98AC85858FD3FFA130908EDA5D0</Checksum>
+      </Template>
+      <Template>
+        <Name>drv_gfx_lcc_generic.h</Name>
+        <Path>Header Files/app/system_config/pic32mz_ec_sk_meb2/framework/driver/gfx/controller/lcc</Path>
+        <Checksum>7F9DB61D160AC829B24DE27ED635E263</Checksum>
+      </Template>
+      <Template>
+        <Name>gfx_resources_int_reference.c</Name>
+        <Path>Source Files/app/system_config/pic32mz_ec_sk_meb2</Path>
+        <Checksum>79C36FA046788CC71AAF9A4F32D381AC</Checksum>
+      </Template>
+    </Templates>
+    <CompilerItems>
+      <C32>
+        <Include value="C:/Harmony/v1_09/apps/gfx/object/firmware/src"/>
+        <Include value="C:/Harmony/v1_09/apps/gfx/object/firmware/src/system_config/pic32mz_ec_sk_meb2"/>
+        <Include value="C:/Harmony/v1_09/apps/gfx/object/firmware/src/pic32mz_ec_sk_meb2"/>
+        <Include value="C:/Harmony/v1_09/framework"/>
+        <Include value="C:/Harmony/v1_09/apps/gfx/object/firmware/src/system_config/pic32mz_ec_sk_meb2/framework"/>
+        <Include value="../../../../../bsp/pic32mz_ec_sk+meb2"/>
+      </C32>
+    </CompilerItems>
+    <Libraries>
+      <Library value="../../../../../framework/tcpip/src/crypto/aes_pic32mx.a"/>
+      <Library value="../../../../../bin/framework/peripheral/PIC32MZ2048ECH144_peripherals.a"/>
+    </Libraries>
+  </Manifest>
+</configuration>

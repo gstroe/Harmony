@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration version="1.0.8.7">
+  <General>
+    <HarmonyPath path="../../../../.."/>
+    <Processor name="PIC32MZ2064DAB288"/>
+    <ForceOptimization flag="true"/>
+    <MergeStrategy flag="USER_ALL"/>
+  </General>
+  <Manifest>
+    <Files>
+      <File>
+        <Name>osal_impl_basic.h</Name>
+        <Path>Header Files/framework/osal/src</Path>
+      </File>
+      <File>
+        <Name>peripheral_common_32bit.h</Name>
+        <Path>Header Files/framework/peripheral</Path>
+      </File>
+      <File>
+        <Name>sys_devcon.c</Name>
+        <Path>Source Files/framework/system/devcon/src</Path>
+      </File>
+      <File>
+        <Name>bsp_sys_init.c</Name>
+        <Path>Source Files/bsp/pic32mz_da_sk</Path>
+      </File>
+      <File>
+        <Name>osal.h</Name>
+        <Path>Header Files/framework/osal</Path>
+      </File>
+      <File>
+        <Name>sys_ports.h</Name>
+        <Path>Header Files/framework/system/ports</Path>
+      </File>
+      <File>
+        <Name>peripheral_common.h</Name>
+        <Path>Header Files/framework/peripheral</Path>
+      </File>
+      <File>
+        <Name>sys_devcon_cache.h</Name>
+        <Path>Source Files/framework/system/devcon/src</Path>
+      </File>
+      <File>
+        <Name>sys_common.h</Name>
+        <Path>Header Files/framework/system/common</Path>
+      </File>
+      <File>
+        <Name>sys_buffer.h</Name>
+        <Path>Header Files/framework/system/common</Path>
+      </File>
+      <File>
+        <Name>sys_clk.h</Name>
+        <Path>Header Files/framework/system/clk</Path>
+      </File>
+      <File>
+        <Name>osal_impl_none.h</Name>
+        <Path>Header Files/framework/osal/src</Path>
+      </File>
+      <File>
+        <Name>sys_clk_mapping.h</Name>
+        <Path>Header Files/framework/system/clk</Path>
+      </File>
+      <File>
+        <Name>sys_devcon_cache_pic32mz.S</Name>
+        <Path>Source Files/framework/system/devcon/src</Path>
+      </File>
+      <File>
+        <Name>osal_definitions.h</Name>
+        <Path>Header Files/framework/osal</Path>
+      </File>
+      <File>
+        <Name>gfx_palette.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>sys_devcon.h</Name>
+        <Path>Header Files/framework/system/devcon</Path>
+      </File>
+      <File>
+        <Name>system.h</Name>
+        <Path>Header Files/framework/system</Path>
+      </File>
+      <File>
+        <Name>sys_debug.h</Name>
+        <Path>Header Files/framework/system/debug</Path>
+      </File>
+      <File>
+        <Name>sys_module.h</Name>
+        <Path>Header Files/framework/system/common</Path>
+      </File>
+      <File>
+        <Name>sys_devcon_pic32mz.c</Name>
+        <Path>Source Files/framework/system/devcon/src</Path>
+      </File>
+      <File>
+        <Name>sys_devcon_local.h</Name>
+        <Path>Header Files/framework/system/devcon/src</Path>
+      </File>
+      <File>
+        <Name>bsp_config.h</Name>
+        <Path>Header Files/bsp/pic32mz_da_sk</Path>
+      </File>
+      <File>
+        <Name>peripheral.h</Name>
+        <Path>Header Files/framework/peripheral</Path>
+      </File>
+      <File>
+        <Name>sys_queue.h</Name>
+        <Path>Header Files/framework/system/common</Path>
+      </File>
+    </Files>
+    <Templates>
+      <Template>
+        <Name>main.c</Name>
+        <Path>Source Files/app</Path>
+      </Template>
+      <Template>
+        <Name>system_config.h</Name>
+        <Path>Header Files/app/system_config/pic32mz_da_sk</Path>
+        <Checksum>6EA6622FA8F3C82794102D0EA409462F</Checksum>
+      </Template>
+      <Template>
+        <Name>system_init.c</Name>
+        <Path>Source Files/app/system_config/pic32mz_da_sk</Path>
+        <Checksum>02DC543DAA8BD6B473693C27EEEC9D90</Checksum>
+      </Template>
+      <Template>
+        <Name>drv_spi_static.c</Name>
+        <Path>Source Files/app/system_config/pic32mz_da_sk/framework/driver/spi/static/src</Path>
+        <Checksum>1E8582B75059EF00B4EA9DFB818A663A</Checksum>
+      </Template>
+      <Template>
+        <Name>sys_clk_static.c</Name>
+        <Path>Source Files/app/system_config/pic32mz_da_sk/framework/system/clk/src</Path>
+        <Checksum>8B6DA8B7D4941D230F85FE875DDEC112</Checksum>
+      </Template>
+      <Template>
+        <Name>app.c</Name>
+        <Path>Source Files/app</Path>
+      </Template>
+      <Template>
+        <Name>drv_spi_static_tasks.c</Name>
+        <Path>Source Files/app/system_config/pic32mz_da_sk/framework/driver/spi/static/src</Path>
+        <Checksum>8D9BDD4F87493B036E9786F53F65EE82</Checksum>
+      </Template>
+      <Template>
+        <Name>system_exceptions.c</Name>
+        <Path>Source Files/app/system_config/pic32mz_da_sk</Path>
+        <Checksum>C111969CA43D6CEA1E9E33A6164E7AE0</Checksum>
+      </Template>
+      <Template>
+        <Name>system_interrupt.c</Name>
+        <Path>Source Files/app/system_config/pic32mz_da_sk</Path>
+        <Checksum>C934CFD980878E57EE336D976F540A07</Checksum>
+      </Template>
+      <Template>
+        <Name>sys_ports_static.c</Name>
+        <Path>Source Files/app/system_config/pic32mz_da_sk/framework/system/ports/src</Path>
+        <Checksum>D5F7A9186AF74A5A7C5C64B3C7A60029</Checksum>
+      </Template>
+      <Template>
+        <Name>system_definitions.h</Name>
+        <Path>Header Files/app/system_config/pic32mz_da_sk</Path>
+        <Checksum>E20864CF1EA7BCD3498F50B1F34254F9</Checksum>
+      </Template>
+      <Template>
+        <Name>drv_spi_static.h</Name>
+        <Path>Header Files/app/system_config/pic32mz_da_sk/framework/driver/spi/static</Path>
+        <Checksum>68B5BA023AB90B18D229B6E7CBF0850C</Checksum>
+      </Template>
+      <Template>
+        <Name>drv_spi_static_sys_queue.c</Name>
+        <Path>Source Files/app/system_config/pic32mz_da_sk/framework/driver/spi/static/src</Path>
+        <Checksum>E06222D2E5F5F69EE3C77ACD6FCC3059</Checksum>
+      </Template>
+      <Template>
+        <Name>drv_spi_static_ebm_tasks.c</Name>
+        <Path>Source Files/app/system_config/pic32mz_da_sk/framework/driver/spi/static/src</Path>
+        <Checksum>FCA6E5B465388B808A1CEAA890DCF421</Checksum>
+      </Template>
+      <Template>
+        <Name>drv_spi_static_rm_tasks.c</Name>
+        <Path>Source Files/app/system_config/pic32mz_da_sk/framework/driver/spi/static/src</Path>
+        <Checksum>BED98A3F5628502709D95341DC70019B</Checksum>
+      </Template>
+      <Template>
+        <Name>system_tasks.c</Name>
+        <Path>Source Files/app/system_config/pic32mz_da_sk</Path>
+        <Checksum>2DE1EA7AF4352681CDF82A9BDD966758</Checksum>
+      </Template>
+      <Template>
+        <Name>app.h</Name>
+        <Path>Header Files/app</Path>
+      </Template>
+      <Template>
+        <Name>drv_spi_mapping.c</Name>
+        <Path>Source Files/app/system_config/pic32mz_da_sk/framework/driver/spi/static/src</Path>
+        <Checksum>ADEEE2519E932B46D44C41B8F44E1F19</Checksum>
+      </Template>
+      <Template>
+        <Name>drv_spi_static_local.h</Name>
+        <Path>Header Files/app/system_config/pic32mz_da_sk/framework/driver/spi/static/src</Path>
+        <Checksum>70055803006A2C67E983956B3B3ABD25</Checksum>
+      </Template>
+      <Template>
+        <Name>drv_spi_static_sys_queue.h</Name>
+        <Path>Header Files/app/system_config/pic32mz_da_sk/framework/driver/spi/static/src</Path>
+        <Checksum>3D489FB0B5415BB6F80FA34FC0CEE9F7</Checksum>
+      </Template>
+      <Template>
+        <Name>sys_clk_static.h</Name>
+        <Path>Header Files/app/system_config/pic32mz_da_sk/framework/system/clk</Path>
+        <Checksum>B4BD59D8D7C4DA95DC5E3B57755FD352</Checksum>
+      </Template>
+    </Templates>
+    <CompilerItems>
+      <C32>
+        <Include value="E:\official\git\1xxdev\apps\examples\peripheral\spi\spi_loopback\firmware\src"/>
+        <Include value="E:\official\git\1xxdev\apps\examples\peripheral\spi\spi_loopback\firmware\src\system_config\pic32mz_da_sk"/>
+        <Include value="E:\official\git\1xxdev\apps\examples\peripheral\spi\spi_loopback\firmware\src\pic32mz_da_sk"/>
+        <Include value="E:\official\git\1xxdev\framework"/>
+        <Include value="E:\official\git\1xxdev\apps\examples\peripheral\spi\spi_loopback\firmware\src\system_config\pic32mz_da_sk\framework"/>
+        <Include value="../../../../../../../bsp/pic32mz_da_sk"/>
+      </C32>
+    </CompilerItems>
+    <Libraries>
+      <Library value="../../../../../../../bin/framework/peripheral/PIC32MZ2064DAB288_peripherals.a"/>
+    </Libraries>
+  </Manifest>
+</configuration>

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration version="1.0.8.7">
+  <General>
+    <HarmonyPath path="../../../.."/>
+    <Processor name=""/>
+    <ForceOptimization flag="true"/>
+    <MergeStrategy flag="USER_ALL"/>
+  </General>
+  <Manifest>
+    <Files>
+      <File>
+        <Name>osal_impl_basic.h</Name>
+        <Path>Header Files/framework/osal/src</Path>
+      </File>
+      <File>
+        <Name>peripheral_common_32bit.h</Name>
+        <Path>Header Files/framework/peripheral</Path>
+      </File>
+      <File>
+        <Name>sys_clk_pic32mx.c</Name>
+        <Path>Source Files/framework/system/clk/src</Path>
+      </File>
+      <File>
+        <Name>sys_clk_pic32mx.h</Name>
+        <Path>Header Files/framework/system/clk/src</Path>
+      </File>
+      <File>
+        <Name>sys_devcon.c</Name>
+        <Path>Source Files/framework/system/devcon/src</Path>
+      </File>
+      <File>
+        <Name>osal.h</Name>
+        <Path>Header Files/framework/osal</Path>
+      </File>
+      <File>
+        <Name>sys_clk_local.h</Name>
+        <Path>Header Files/framework/system/clk/src</Path>
+      </File>
+      <File>
+        <Name>sys_ports.h</Name>
+        <Path>Header Files/framework/system/ports</Path>
+      </File>
+      <File>
+        <Name>peripheral_common.h</Name>
+        <Path>Header Files/framework/peripheral</Path>
+      </File>
+      <File>
+        <Name>sys_common.h</Name>
+        <Path>Header Files/framework/system/common</Path>
+      </File>
+      <File>
+        <Name>sys_buffer.h</Name>
+        <Path>Header Files/framework/system/common</Path>
+      </File>
+      <File>
+        <Name>sys_clk.h</Name>
+        <Path>Header Files/framework/system/clk</Path>
+      </File>
+      <File>
+        <Name>osal_impl_none.h</Name>
+        <Path>Header Files/framework/osal/src</Path>
+      </File>
+      <File>
+        <Name>osal_definitions.h</Name>
+        <Path>Header Files/framework/osal</Path>
+      </File>
+      <File>
+        <Name>gfx_palette.h</Name>
+        <Path>Header Files/framework/gfx</Path>
+      </File>
+      <File>
+        <Name>bsp_config.h</Name>
+        <Path>Header Files/bsp/bt_audio_dk</Path>
+      </File>
+      <File>
+        <Name>sys_devcon.h</Name>
+        <Path>Header Files/framework/system/devcon</Path>
+      </File>
+      <File>
+        <Name>sys_clk.c</Name>
+        <Path>Source Files/framework/system/clk/src</Path>
+      </File>
+      <File>
+        <Name>system.h</Name>
+        <Path>Header Files/framework/system</Path>
+      </File>
+      <File>
+        <Name>sys_debug.h</Name>
+        <Path>Header Files/framework/system/debug</Path>
+      </File>
+      <File>
+        <Name>sys_clk_variant_mapping.h</Name>
+        <Path>Header Files/framework/system/clk/src</Path>
+      </File>
+      <File>
+        <Name>sys_module.h</Name>
+        <Path>Header Files/framework/system/common</Path>
+      </File>
+      <File>
+        <Name>sys_devcon_pic32mx.c</Name>
+        <Path>Source Files/framework/system/devcon/src</Path>
+      </File>
+      <File>
+        <Name>sys_devcon_local.h</Name>
+        <Path>Header Files/framework/system/devcon/src</Path>
+      </File>
+      <File>
+        <Name>peripheral.h</Name>
+        <Path>Header Files/framework/peripheral</Path>
+      </File>
+      <File>
+        <Name>sys_queue.h</Name>
+        <Path>Header Files/framework/system/common</Path>
+      </File>
+      <File>
+        <Name>bsp_sys_init.c</Name>
+        <Path>Source Files/bsp/bt_audio_dk</Path>
+      </File>
+    </Files>
+    <Templates>
+      <Template>
+        <Name>system_definitions.h</Name>
+        <Path>Header Files/app/system_config/bt_audio_dk</Path>
+        <Checksum>E988A97EABA1FD430A42ED40A4616EB3</Checksum>
+        <ProjectFileChecksum>3B7824E11F9559CB4D548520FFBE2569</ProjectFileChecksum>
+      </Template>
+      <Template>
+        <Name>main.c</Name>
+        <Path>Source Files/app</Path>
+      </Template>
+      <Template>
+        <Name>system_init.c</Name>
+        <Path>Source Files/app/system_config/bt_audio_dk</Path>
+        <Checksum>2192086929C09574CCB38C00F8795FC9</Checksum>
+        <ProjectFileChecksum>4319EAD0DE6A24F4D73210F9C2A1E2A7</ProjectFileChecksum>
+      </Template>
+      <Template>
+        <Name>system_interrupt.c</Name>
+        <Path>Source Files/app/system_config/bt_audio_dk</Path>
+        <Checksum>C934CFD980878E57EE336D976F540A07</Checksum>
+        <ProjectFileChecksum>411F6EB29733AE47B42D87208E3EF8F3</ProjectFileChecksum>
+      </Template>
+      <Template>
+        <Name>system_tasks.c</Name>
+        <Path>Source Files/app/system_config/bt_audio_dk</Path>
+        <Checksum>BE644D0142ACA48D9CA2E6255A02CDBA</Checksum>
+        <ProjectFileChecksum>0AAABBA085E553CA1E2D0E95D16E9C00</ProjectFileChecksum>
+      </Template>
+      <Template>
+        <Name>app.h</Name>
+        <Path>Header Files/app</Path>
+      </Template>
+      <Template>
+        <Name>sys_ports_static.c</Name>
+        <Path>Source Files/app/system_config/bt_audio_dk/framework/system/ports/src</Path>
+        <Checksum>C0EEFEAE50DD298CCD0987621EA4CA03</Checksum>
+        <ProjectFileChecksum>5FB63209C4BD80365FD6C1DDBF9EF494</ProjectFileChecksum>
+      </Template>
+      <Template>
+        <Name>system_config.h</Name>
+        <Path>Header Files/app/system_config/bt_audio_dk</Path>
+        <Checksum>141510A9A1E51802BC6C953995E747C1</Checksum>
+        <ProjectFileChecksum>849389825533EBD621C3B6334EF01F42</ProjectFileChecksum>
+      </Template>
+      <Template>
+        <Name>system_exceptions.c</Name>
+        <Path>Source Files/app/system_config/bt_audio_dk</Path>
+        <Checksum>C111969CA43D6CEA1E9E33A6164E7AE0</Checksum>
+      </Template>
+      <Template>
+        <Name>app.c</Name>
+        <Path>Source Files/app</Path>
+      </Template>
+    </Templates>
+    <CompilerItems>
+      <C32>
+        <Include value="C:\PLIB_Opt\coredev\apps\examples\system\refclock_dynamic\firmware\src"/>
+        <Include value="C:\PLIB_Opt\coredev\apps\examples\system\refclock_dynamic\firmware\src\system_config\bt_audio_dk"/>
+        <Include value="C:\PLIB_Opt\coredev\apps\examples\system\refclock_dynamic\firmware\src\bt_audio_dk"/>
+        <Include value="C:\PLIB_Opt\coredev\framework"/>
+        <Include value="C:\PLIB_Opt\coredev\apps\examples\system\refclock_dynamic\firmware\src\system_config\bt_audio_dk\framework"/>
+        <Include value="../../../../../../bsp/bt_audio_dk"/>
+      </C32>
+    </CompilerItems>
+    <Libraries>
+      <Library value="../../../../../../bin/framework/peripheral/PIC32MX450F256L_peripherals.a"/>
+      <Library value="../../../../../../framework/tcpip/src/crypto/aes_pic32mx.a"/>
+    </Libraries>
+  </Manifest>
+</configuration>
